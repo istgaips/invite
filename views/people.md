@@ -130,8 +130,10 @@ PHD Student
   <img src="images/marcia.png" alt="" />
 </span>
 
-Research Assistant
-<br /><br /><br /><br />
+Márcia Baptista graduated in Information Systems and Computer Engineering and is currently 
+working as a research assistant in INESC-ID under the supervision of Prof. Pedro Santos.
+
+She is interested in game theory, social dilemmas, simulation and rational choice theory. 
 
 ## Alexandre Barata (IST)
 
