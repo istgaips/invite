@@ -122,8 +122,9 @@ and cognitive science.
 	<img src="images/guilherme.png" alt="" />
 </span>
 
-PHD Student
-<br /><br /><br /><br />
+Guilherme Raimundo is a research assistant at INESC-ID with interests on plan recognition, intelligent agents and machine learning.
+
+He is currently pursuing a PhD in Information Systems and Computer Engineering at IST under the supervision of Professor Carlos Martinho on the topic of Plan Recognition and Personality.
 
 ## Márcia Baptista (IST)
 <span class="logo">
