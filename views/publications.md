@@ -1,3 +1,7 @@
+#Publications
+
+Here follows the updated list of current publications. 
+
 Rui Prada, Guilherme Raimundo, Márcia Baptista, Joana Dimas, Pedro A.
 Santos, Carlos Martinho, Jorge Peña, Luís Landeiro Ribeiro. “The Role
 of Social Identity, Rationality and Anticipation in Believable Agents”
