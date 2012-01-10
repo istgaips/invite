@@ -138,4 +138,14 @@ She is interested in game theory, social dilemmas, simulation and rational choic
 
 ## Alexandre Barata (IST)
 
-Msc Student
+Alexandre Barata is currently finishing his MSC in Information
+Systems and Computer Engineering, having developed Almansur's <http://www.almansur.net> 
+AI player system as his MSC thesis under the supervision of Prof. Pedro Santos,
+Prof. Rui Prada and Luís Landeiro Ribeiro.
+
+Has recently presented an article on AIIDE 2011
+discussing the creation of AI systems and all details surrounding
+it.
+
+He is interested in software engineering, artificial inteligence and
+building better, faster, smarter systems in general.
