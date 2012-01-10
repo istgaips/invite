@@ -1,7 +1,7 @@
 # News
 
 ## Article Accepted
-A research article was published in AAMAS2012.
+A research article was accepted for publishing in AAMAS2012.
 
 ## Third Project Meeting
 The third project meeting took place in Oeiras at IST-Taguspark. The discussion was centered in the design of the first game scenario.
