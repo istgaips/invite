@@ -1,8 +1,8 @@
 # News
 <p></p>
 
-#### Major Third Global Project Meeting (08/09/2011 to 09/09/2011 2N7.1 Oeiras, Portugal)
-The third project meeting took place in Oeiras at IST-Taguspark. The discussion was centered in the formal design of the first game scenario.
+#### Major Fourth Global Project Meeting (Austin, USA)
+The fourth project meeting took place in Austin in the USA. 
 
 #### Article Accepted in AAMAS2012
 A research article (extended abstract) was accepted for publishing in AAMAS2012.
