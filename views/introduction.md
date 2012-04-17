@@ -29,4 +29,4 @@ human-like behavior). For that, agents should be able to:
     positioned in the social groups, but it also includes building expectations
     about they strategies and plans. 
 
-Please check the Research page for more details.
+Please check the <a href="news">Research</a> menu for more details.
