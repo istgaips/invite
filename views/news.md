@@ -1,5 +1,5 @@
 # News
-
+<p></p>
 ### Article Accepted
 A research article was accepted for publishing in AAMAS2012.
 
