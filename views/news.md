@@ -9,16 +9,16 @@ A research article (extended abstract) was accepted for publishing in AAMAS2012.
 
 #### Article Accepted in VJ2011 (14/11/2011)
 The submission "A Videogame to study Social Dilemmas and Social Identity"  was accepted for publishing as a WORK IN PROGRESS paper in VideoJogos'2011.
-Details of the submission and revision process follows. 
-  - PAPER: 57
-  - TITLE: A Videogame to study Social Dilemmas and Social Identity
+Details of the submission and revision process follows. <p></p>
+  - PAPER: 57<p></p>
+  - TITLE: A Videogame to study Social Dilemmas and Social Identity<p></p>
   - REVISED TITLE (According to comments of reviewers): A social dilemma videogame / Um videojogo sobre dilemas sociais
   - AUTHORS: Márcia L. Baptista, Joana Dimas, Carlos Martinho, Jorge F. Peña, Rui Prada, Guilherme Raimundo and Pedro A. Santos
-  - OVERALL RATING: 2 (accept)
-  - REVIEWER'S CONFIDENCE: 3 (high)
-  - PAPER CLASSIFICATION: S = State of the Art report (reviews of recent advances)
-  - Major session for the paper: Serious Gaming
-  - Minor session for the paper: Social, cultural e community studying
+  - OVERALL RATING: 2 (accept)<p></p>
+  - REVIEWER'S CONFIDENCE: 3 (high) <p></p>
+  - PAPER CLASSIFICATION: S = State of the Art report (reviews of recent advances)<p></p>
+  - Major session for the paper: Serious Gaming<p></p>
+  - Minor session for the paper: Social, cultural e community studying<p></p>
 The article was subject to a number of comments and revisions (7) at 7th November and the final version was submitted at 14th November.  
 
 
