@@ -1,9 +1,7 @@
 #About
 <p></p>
 <p align="center">
-  <img src="images/rui.png" alt="" />
-  <img src="images/rui.png" alt="" />
-  <img src="images/rui.png" alt="" />
+  <img src="images/logo_invite001.png" alt="" />
 </p>
 <p></p>
 Project INVITE (social Identity and partNership in VIrTual Environments) is a
