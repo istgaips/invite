@@ -1,6 +1,6 @@
 #About
 <p></p>
-<p >
+<p position="relative" float="right">
 <span class="logo" position="relative" float="right">
   <img src="images/rui.png" alt="" />
 </span>
