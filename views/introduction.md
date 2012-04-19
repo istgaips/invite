@@ -1,12 +1,10 @@
 #About
 <p></p>
-<p></p>
-<center>
+<p align="center">
   <img src="images/rui.png" alt="" />
   <img src="images/rui.png" alt="" />
   <img src="images/rui.png" alt="" />
-</center>
-<p></p>
+</p>
 <p></p>
 Project INVITE (social Identity and partNership in VIrTual Environments) is a
 research project on the themes of multimedia, artificial intelligence and games
