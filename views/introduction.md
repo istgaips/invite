@@ -9,6 +9,12 @@ months.
 <span class="logo">
   <img src="images/rui.png" alt="" />
 </span>
+<span class="logo">
+  <img src="images/rui.png" alt="" />
+</span>
+<span class="logo">
+  <img src="images/rui.png" alt="" />
+</span>
 
 The main topic explored on the project is the development of artificial
 intelligence mechanisms to create artificial players (autonomous agents) that
