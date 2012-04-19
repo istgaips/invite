@@ -6,6 +6,10 @@ financed by the UTAustin – Portugal cooperation agreement (ref.
 UTA-Est/MAI/0008/2009). It started on October 2010 and has duration of 36
 months.
 
+<span class="logo">
+  <img src="images/rui.png" alt="" />
+</span>
+
 The main topic explored on the project is the development of artificial
 intelligence mechanisms to create artificial players (autonomous agents) that
 can perform well in complex social situations provided in games and virtual
