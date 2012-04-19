@@ -1,20 +1,23 @@
 #About
 <p></p>
+<p align="center">
+<span class="logo">
+  <img src="images/rui.png" alt="" />
+</span>
+<span class="logo">
+  <img src="images/rui.png" alt="" />
+</span>
+<span class="logo">
+  <img src="images/rui.png" alt="" />
+</span>
+</p>
 Project INVITE (social Identity and partNership in VIrTual Environments) is a
 research project on the themes of multimedia, artificial intelligence and games
 financed by the UTAustin – Portugal cooperation agreement (ref.
 UTA-Est/MAI/0008/2009). It started on October 2010 and has duration of 36
 months.
 
-<span class="logo">
-  <img src="images/rui.png" alt="" />
-</span>
-<span class="logo">
-  <img src="images/rui.png" alt="" />
-</span>
-<span class="logo">
-  <img src="images/rui.png" alt="" />
-</span>
+
 
 The main topic explored on the project is the development of artificial
 intelligence mechanisms to create artificial players (autonomous agents) that
