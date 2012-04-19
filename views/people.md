@@ -1,5 +1,5 @@
 #People
-
+<p></p>
 ## Rui Prada (INESC-ID)
 <span class="logo">
   <img src="images/rui.png" alt="" />
