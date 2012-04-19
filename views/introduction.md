@@ -1,10 +1,10 @@
 #About
 <p></p>
-<p>
+<center>
 <span class="logo2">
   <img src="images/rui.png" alt="" />
 </span>
-</p>
+</center>
 Project INVITE (social Identity and partNership in VIrTual Environments) is a
 research project on the themes of multimedia, artificial intelligence and games
 financed by the UTAustin – Portugal cooperation agreement (ref.
