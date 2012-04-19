@@ -230,16 +230,16 @@ html, body {
 	height: 141px;
 	top: 31px;
 	left: 38px;
+	display: block;
+    	margin-left: auto;
+    	margin-right: auto;
 }
 
 #logo2 img {
 	position: relative;
-	float: center;
 	display: none;
-}
-
-#logo2 img:first-child {
-	display: block;
+    	margin-left: auto;
+    	margin-right: auto;
 }
 
 /* @group menu */
