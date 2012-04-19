@@ -1,7 +1,6 @@
 #About
-<p></p>
 <p align="center">
-  <img src="images/logo_invite001.png" width="480" height="150" />
+  <img src="images/logo_invite001.png" width="700" height="220" />
 </p>
 <p></p>
 Project INVITE (social Identity and partNership in VIrTual Environments) is a
