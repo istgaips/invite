@@ -223,8 +223,8 @@ html, body {
 }
 
 /* @logo 2 test */
-#logo {
-	position: relative;
+#logo2 {
+	position: absolute;
 	display: block;
 	width: 124px;
 	height: 141px;
@@ -232,13 +232,13 @@ html, body {
 	left: 38px;
 }
 
-#logo img {
+#logo2 img {
 	position: relative;
-	float: right;
+	float: center;
 	display: none;
 }
 
-#logo img:first-child {
+#logo2 img:first-child {
 	display: block;
 }
 
