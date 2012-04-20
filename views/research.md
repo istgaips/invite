@@ -1,6 +1,5 @@
 # Research
 <p></p>
-## Summary
 Agents that interact in complex social situations need to take the social 
 situation in consideration in order to perform believably.
 
@@ -24,7 +23,7 @@ situations and social dilemmas agents need the ability to anticipate and take
 others in consideration, since this is a crucial point for achieving any kind 
 of social intelligence.
 
-##### Social Identity
+#### Social Identity
 
 Agents that interact in complex social situations need to take the social
 situation in consideration in order to perform believably, and any complex
@@ -52,7 +51,7 @@ commitments. Social identity will influence the decision of agents when
 considering following their own interests or commit (or keep the commitment)
 to their team goals.
 
-##### Social Dilemmas
+#### Social Dilemmas
 
 The formal relations involved in social dilemmas can be captured by models 
 of game theory. Game theory allows modelling such social situations as 
@@ -84,7 +83,7 @@ social dilemmas. It is therefore the purpose of this work that this framework
 allows designing environments where social identity and its impact upon the 
 outcomes of problematic social settings can be studied.  
 
-##### Anticipation
+#### Anticipation
 
 Although different aspects of believability have been researched, all work 
 supports the basic principle that motion cannot be devoid of meaning and considers 
