@@ -149,14 +149,14 @@ it.
 
 #### Bruno Antunes (IST)
 <span class="logo">
-  <img src="images/davidg.jpg" alt="" />
+  <img src="images/davidg.png" alt="" />
 </span>
 
 Information to be requested
 
 #### David Gonçalves (IST)
 <span class="logo">
-  <img src="images/davidg.jpg" alt="" />
+  <img src="images/davidg.png" alt="" />
 </span>
 
 David Gonçalves has completed his BSc degree in Information Systems and Computer Engineering at IST.
@@ -169,7 +169,7 @@ David is interested in software engineering, artificial inteligence and building
 
 #### Jorge Galvão (IST)
 <span class="logo">
-  <img src="images/davidg.jpg" alt="" />
+  <img src="images/davidg.png" alt="" />
 </span>
 
 Information to be requested
