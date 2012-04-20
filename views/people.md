@@ -42,7 +42,7 @@ synthetic characters, using approaches from several subfield of
 artificial intelligence such as anticipatory computing, affective
 computing and artificial life.
 
-#### Pedro Santos (INESC-ID)
+#### Pedro Santos (IST/INESC-ID)
 <span class="logo">
   <img src="images/pedro.png" alt="" />
 </span>
