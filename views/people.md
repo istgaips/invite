@@ -148,9 +148,6 @@ discussing the creation of AI systems and all details surrounding
 it.
 
 #### Bruno Antunes (IST)
-<span class="logo">
-  <img src="images/davidg.png" alt="" />
-</span>
 
 Information to be requested
 
@@ -168,9 +165,6 @@ He is mostly interested in the topics related to game design and development, fr
 David is interested in software engineering, artificial inteligence and building better, faster, smarter systems in general.
 
 #### Jorge Galvão (IST)
-<span class="logo">
-  <img src="images/davidg.png" alt="" />
-</span>
 
 Information to be requested
 
