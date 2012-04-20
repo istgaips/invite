@@ -159,8 +159,13 @@ Information to be requested
   <img src="images/davidg.jpg" alt="" />
 </span>
 
-David is interested in software engineering, artificial inteligence and
-building better, faster, smarter systems in general.
+David Gonçalves has completed his BSc degree in Information Systems and Computer Engineering at IST.
+Currently he's aiming to attain his MSc degree in the areas of Multimedia Systems (major) and Software Engineering (minor), working under the supervision of Professor Carlos Martinho
+and Professor Rui Prada on the field of Suggestion of Social Identity Through Visual Clues.
+
+He is mostly interested in the topics related to game design and development, from concept to implementation.
+
+David is interested in software engineering, artificial inteligence and building better, faster, smarter systems in general.
 
 #### Jorge Galvão (IST)
 <span class="logo">
@@ -169,9 +174,5 @@ building better, faster, smarter systems in general.
 
 Information to be requested
 
-David Gonçalves has completed his BSc degree in Information Systems and Computer Engineering at IST.
-Currently he's aiming to attain his MSc degree in the areas of Multimedia Systems (major) and Software Engineering (minor), working under the supervision of Professor Carlos Martinho
-and Professor Rui Prada on the field of Suggestion of Social Identity Through Visual Clues.
 
-He is mostly interested in the topics related to game design and development, from concept to implementation.
 
