@@ -1,6 +1,6 @@
 #People
 <p></p>
-## Rui Prada (INESC-ID)
+#### Rui Prada (INESC-ID)
 <span class="logo">
   <img src="images/rui.png" alt="" />
 </span>
@@ -21,7 +21,7 @@ He is currently the
 vice-president of the SPCVideojogos (Sociedade Portuguesa de Ciências
 dos Videojogos).
 
-## Carlos Martinho (INESC-ID)
+#### Carlos Martinho (INESC-ID)
 <span class="logo">
   <img src="images/carlos.png" alt="" />
 </span>
@@ -34,7 +34,7 @@ Character Group at INESC-ID.
 At Instituto Superior Técnico, Carlos Martinho has been helping
 educating Engineers, Masters and Doctors since 1996. His teachings cover
 subjects such as computer graphics, human-computer interaction, game
-design and technology, and artificial life.
+design and technology, and artificial life (MRC: And economics).
  
 At GAIPS, since its foundation, he works at the frontier between
 computer graphics and artificial intelligence, building agent-based
@@ -42,7 +42,7 @@ synthetic characters, using approaches from several subfield of
 artificial intelligence such as anticipatory computing, affective
 computing and artificial life.
 
-## Pedro Santos (INESC-ID)
+#### Pedro Santos (INESC-ID)
 <span class="logo">
   <img src="images/pedro.png" alt="" />
 </span>
@@ -61,7 +61,7 @@ Development courses.
 His numerous scientific interests include Operator Theory, Artificial
 Inteligence, Game Theory, Game Design and History.
 
-##Jorge F. Peña (University of TEXAS)
+#### Jorge F. Peña (University of Austin TEXAS)
 <span class="logo">
 	<img src="images/jorge.png" alt="" />
 </span>
@@ -77,7 +77,7 @@ social stereotypes through uniforms and roles facilitates non-conscious
 responses in virtual contexts. Dr. Pena employs experiments and content
 analysis as primary research tools.
 
-## Luís Landeiro Ribeiro (PDM&FC)
+#### Luís Landeiro Ribeiro (PDM&FC)
 <span class="logo">
 	<img src="images/luis.png" alt="" />
 </span>
@@ -105,7 +105,7 @@ Though ruby continues to be a great love affair,
 finds himself slipping into scala or golang more often when in need of good
 performance or for highly concurrent apps.
 
-## Joana Dimas (INESC-ID)
+#### Joana Dimas (INESC-ID)
 <span class="logo">
   <img src="images/joana.png" alt="" />
 </span>
@@ -117,7 +117,7 @@ supervision of Prof. Rui Prada.
 She is interested in game design, player experience, emotion in games
 and cognitive science.
 
-## Guilherme Raimundo (INESC-ID)
+#### Guilherme Raimundo (INESC-ID)
 <span class="logo">
 	<img src="images/guilherme.png" alt="" />
 </span>
@@ -126,7 +126,7 @@ Guilherme Raimundo is a research assistant at INESC-ID with interests on plan re
 
 He is currently pursuing a PhD in Information Systems and Computer Engineering at IST under the supervision of Professor Carlos Martinho on the topic of Plan Recognition and Personality.
 
-## Márcia Baptista (IST)
+#### Márcia Baptista (IST)
 <span class="logo">
   <img src="images/marcia.png" alt="" />
 </span>
@@ -134,9 +134,9 @@ He is currently pursuing a PhD in Information Systems and Computer Engineering a
 Márcia Baptista graduated in Information Systems and Computer Engineering and is currently 
 working as a research assistant in INESC-ID under the supervision of Prof. Pedro Santos.
 
-She is interested in game theory, social dilemmas, simulation and rational choice theory. 
+She is interested in game theory, economics, social dilemmas, simulation and rational choice theory. 
 
-## Alexandre Barata (IST)
+#### Alexandre Barata (IST)
 
 Alexandre Barata is currently finishing his MSC in Information
 Systems and Computer Engineering, having developed Almansur's <http://www.almansur.net> 
@@ -147,5 +147,31 @@ Has recently presented an article on AIIDE 2011
 discussing the creation of AI systems and all details surrounding
 it.
 
-He is interested in software engineering, artificial inteligence and
+#### Bruno Antunes (IST)
+<span class="logo">
+  <img src="images/davidg.jpg" alt="" />
+</span>
+
+Information to be requested
+
+#### David Gonçalves (IST)
+<span class="logo">
+  <img src="images/davidg.jpg" alt="" />
+</span>
+
+David is interested in software engineering, artificial inteligence and
 building better, faster, smarter systems in general.
+
+#### Jorge Galvão (IST)
+<span class="logo">
+  <img src="images/davidg.jpg" alt="" />
+</span>
+
+Information to be requested
+
+David Gonçalves has completed his BSc degree in Information Systems and Computer Engineering at IST.
+Currently he's aiming to attain his MSc degree in the areas of Multimedia Systems (major) and Software Engineering (minor), working under the supervision of Professor Carlos Martinho
+and Professor Rui Prada on the field of Suggestion of Social Identity Through Visual Clues.
+
+He is mostly interested in the topics related to game design and development, from concept to implementation.
+
