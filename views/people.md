@@ -137,6 +137,9 @@ working as a research assistant in INESC-ID under the supervision of Prof. Pedro
 She is interested in game theory, economics, social dilemmas, simulation and rational choice theory. 
 
 #### Alexandre Barata (IST)
+<span class="logo">
+	<img src="images/alexandre.png" alt="" />
+</span>
 
 Alexandre Barata is currently finishing his MSC in Information
 Systems and Computer Engineering, having developed Almansur's <http://www.almansur.net> 
@@ -148,8 +151,21 @@ discussing the creation of AI systems and all details surrounding
 it.
 
 #### Bruno Antunes (IST)
+<span class="logo">
+	<img src="images/bruno.png" alt="" />
+</span>
 
-Information to be requested
+Bruno Antunes has completed his Degree (BSc) in Information Systems
+and Computer Engineering at IST.
+
+He is currently pursuing a Master Degree (MSc) in Information Systems
+and Computer Engineering at IST under the supervision of Professor
+Carlos Martinho and Professor Rui Prada on the topic of Social
+Identity and Intergroup Relations.
+
+He is mainly interested in systems that use AI to simulate Human
+behaviour and reactions. He is also interested in distributed systems
+and all the related problems.
 
 #### David Gonçalves (IST)
 <span class="logo">
