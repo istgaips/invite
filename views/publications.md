@@ -3,7 +3,7 @@
 Here follows the updated list of current publications. 
 
 <span class="logo">
-  <img src="images/rui.png" alt="" />
+  <img src="images/aamas2012.png" alt="" />
 </span>
 
 Rui Prada, Guilherme Raimundo, Márcia Baptista, Joana Dimas, Pedro A.
@@ -15,7 +15,7 @@ Autonomous Agents and Multiagent Systems (AAMAS 2012), IFAAMAS (aamas2012.webs.u
 <a href="http://aamas2012.webs.upv.es/">Article in AAMAS2012</a>
 
 <span class="logo">
-  <img src="images/rui.png" alt="" />
+  <img src="images/vj2011.png" alt="" />
 </span>
 
 Márcia L. Baptista, Joana Dimas, Carlos Martinho, Jorge F. Peña, Rui
