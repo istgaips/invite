@@ -1,5 +1,5 @@
 # Partners
-
+<p></p>
 Project INVITE involves the collaborations of several international organizations, namely:  
 
 #### INESC-ID 
