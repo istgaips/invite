@@ -2,6 +2,14 @@
 <p></p>
 Project INVITE involves the collaborations of several international organizations, namely:  
 
+<div class="news column c3 alpha">
+     <h4>Inesc ID</h4>
+	    <p>Among others, a research article was accepted for publishing in conference AAMAS2012.</p>
+	    <p></p>
+	    <p></p>
+	    <a href="news">Read More</a>	
+</div>
+
 #### INESC-ID 
 Lisbon, PT: GAIPS – Intelligent Agents and Synthetic Characters Group
 <img class="logo" src="images/gaips.jpg" width="100" height="100"> </img>
