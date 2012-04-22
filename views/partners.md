@@ -2,7 +2,7 @@
 <p></p>
 Project INVITE involves the collaborations of several international organizations, namely:  
 
-<div class="news c3 alpha">
+<div class="news alpha">
      <h4>Inesc ID</h4>
 	    <p>Among others, a research article was accepted for publishing in conference AAMAS2012.</p>
 	    <p></p>
