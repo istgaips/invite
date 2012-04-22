@@ -3,23 +3,16 @@
 Project INVITE involves the collaborations of several international organizations, namely:  
 
 <div class="news alpha">
-     <h4>Inesc ID</h4>
-	    <p>Among others, a research article was accepted for publishing in conference AAMAS2012.</p>
-	    <p></p>
-	    <p></p>
-	    <a href="news">Read More</a>	
+     <h4>GAIPS</h4>
+	    <p>GAIPS is the INESC-ID research group on Intelligent Agents and Synthetic Characters. </p>
+	    <p>Location: Av. Prof. Cavaco Silva, Tagus Park, Porto Salvo, Portugal</p>
+	    <img class="logo" src="images/gaips.jpg" width="100" height="100"> </img>
+	    <a href="news">Read More</a>
 </div>
 
-#### INESC-ID 
-Lisbon, PT: GAIPS – Intelligent Agents and Synthetic Characters Group
-<img class="logo" src="images/gaips.jpg" width="100" height="100"> </img>
-
-###### About	
-GAIPS is the INESC-ID research group on Intelligent Agents and Synthetic Characters.
 <img class="logo" src="images/logo_inesc.png" width="200" height="100"> </img>
+	
 
-######  Location	
-Av. Prof. Cavaco SIlva, Tagus Park, Porto Salvo, Portugal
  
 ##### Website	
 <http://gaips.inesc-id.pt/>
