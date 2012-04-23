@@ -25,9 +25,9 @@ dos Videojogos).
 
 #### Carlos Martinho (INESC-ID)
 <span class="logo">
-  <img src="images/carlos.png" alt="" />
-  </br>
+  <img src="images/carlos.png" alt="" ><br></br><span class="logo"></br>
   <a href="http://gaips.inesc-id.pt/cmartinho">More Information</a>
+</span></img>
 </span>
 
 Carlos Martinho is an Assistant Professor at the Department of Computer Science and
