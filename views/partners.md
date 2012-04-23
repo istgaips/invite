@@ -16,7 +16,7 @@ Project INVITE involves the collaborations of several international organization
 <p></p>
 <div class="news alpha">
      <h4>GAIPS</h4></br>
-     	    <img class="logo" src="images/gaips.jpg"> </img>
+     	    <img class="logo" src="images/gaips.jpg" width="20%"> </img>
 	    <p>GAIPS is the INESC-ID research group on Intelligent Agents and Synthetic Characters. 
 	    <br/>Location: Av. Prof. Cavaco Silva, Tagus Park, 2744-016 Porto Salvo, Portugal
 	    <br/>Website: http://gaips.inesc-id.pt
@@ -46,7 +46,9 @@ other areas of Mathematics and also to Physics and Engineering.
 <p></p>
 <div class="news alpha">
      <h4>College of Communication at University of Texas (Austin)</h4></br>
+     	    <p></br></br>
      	    <img class="logo" src="images/texas.gif" width="40%""> </img>
+     	    </p>
 	    <p>The University of Texas at Austin is a comprehensive university with a
 broad mission of undergraduate and graduate education, research, and service to
 society. The College of Communication seeks to understand communication and to
