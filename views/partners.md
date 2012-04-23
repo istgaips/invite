@@ -11,7 +11,7 @@ Project INVITE involves the collaborations of several international organization
 	    <br/>
 	    <br/><br/>
 	    </p>
-	    <a href="http://www.inesc-id.pt/">Go To Website</a>
+	    <a href="http://www.inesc-id.pt/">Visit Website</a>
 </div>
 <p></p>
 <div class="news alpha">
@@ -23,7 +23,7 @@ Project INVITE involves the collaborations of several international organization
 	    <br/>
 	    <br/><br/>
 	    </p>
-	    <a href="http://gaips.inesc-id.pt">Go To Website</a>
+	    <a href="http://gaips.inesc-id.pt">Visit Website</a>
 </div>
 
 
