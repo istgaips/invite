@@ -5,7 +5,7 @@
 
 <div class="news alpha">
      <h4>4th Major Meeting</h4>
-     <p align="right">Austin, Texas 2012</p>
+     <p align="right">Austin, Texas (USA) 2012</p>
      <p>
      <img class="logo" hspace="20" vspace="20" src="images/austin.jpg" width="14%"> </img>
      </p>
@@ -15,25 +15,41 @@
 </div>
 <p></p>
 
-#### Major Fourth Global Project Meeting (Austin, USA)
-The fourth project meeting took place in Austin in the USA. 
+<div class="news alpha">
+     <h4>Article in AAMAS2012</h4>
+     <p align="right">2011</p>
+     <p>
+     <img class="logo" hspace="20" vspace="20" src="images/aamas2012.png" width="14%"> </img>
+     </p>
+     <p>A research article (extended abstract) was accepted for publishing in AAMAS2012.</p>
+     <p></p>
+     <p></p>
+</div>
+<p></p>
 
-#### Article Accepted in AAMAS2012
-A research article (extended abstract) was accepted for publishing in AAMAS2012.
-
-#### Article Accepted in VJ2011 (14/11/2011)
-The submission "A Videogame to study Social Dilemmas and Social Identity"  was accepted for publishing as a WORK IN PROGRESS paper in VideoJogos'2011.
-Details of the submission and revision process follows. <p></p>
-  - PAPER: 57<p></p>
-  - TITLE: A Videogame to study Social Dilemmas and Social Identity<p></p>
+<div class="news alpha">
+     <h4>Article in VJ2011</h4>
+     <p align="right">14/11/2011</p>
+     <p>
+     <img class="logo" hspace="20" vspace="20" src="images/aamas2012.png" width="14%"> </img>
+     </p>
+     <p>A research article was accepted for publishing in a Portuguese conference of videogames in 2011.</p>
+     <p>The submission "A Videogame to study Social Dilemmas and Social Identity"  was accepted for publishing as a WORK IN PROGRESS paper in VideoJogos'2011. Details of the submission and revision process follows.</p>
+  - PAPER: 57</br>
+  - TITLE: A Videogame to study Social Dilemmas and Social Identity</br>
   - REVISED TITLE (According to comments of reviewers): A social dilemma videogame / Um videojogo sobre dilemas sociais
   - AUTHORS: Márcia L. Baptista, Joana Dimas, Carlos Martinho, Jorge F. Peña, Rui Prada, Guilherme Raimundo and Pedro A. Santos
-  - OVERALL RATING: 2 (accept)<p></p>
-  - REVIEWER'S CONFIDENCE: 3 (high) <p></p>
-  - PAPER CLASSIFICATION: S = State of the Art report (reviews of recent advances)<p></p>
-  - Major session for the paper: Serious Gaming<p></p>
-  - Minor session for the paper: Social, cultural e community studying<p></p>
+  - OVERALL RATING: 2 (accept)</br>
+  - REVIEWER'S CONFIDENCE: 3 (high) </br>
+  - PAPER CLASSIFICATION: S = State of the Art report (reviews of recent advances)</br>
+  - Major session for the paper: Serious Gaming</br>
+  - Minor session for the paper: Social, cultural e community studying</br>
 The article was subject to a number of comments and revisions (7) at 7th November and the final version was submitted at 14th November.  
+</div>
+<p></p>
+
+
+#### Article Accepted in VJ2011 (14/11/2011)
 
 
 #### Major Third Global Project Meeting (08/09/2011 to 09/09/2011 2N7.1 Oeiras, Portugal)
