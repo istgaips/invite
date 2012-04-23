@@ -83,7 +83,7 @@ social stereotypes through uniforms and roles facilitates non-conscious
 responses in virtual contexts. Dr. Pena employs experiments and content
 analysis as primary research tools.
 
-<a href="http://gaips.inesc-id.pt/rprada">Visit Jorge's Official Webpage</a>
+<a href="http://www.utexas.edu/opa/experts/profile.php?id=1098">Visit Jorge's Official Webpage</a>
 
 #### Luís Landeiro Ribeiro (PDM&FC)
 <span class="logo">
