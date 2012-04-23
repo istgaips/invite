@@ -6,7 +6,9 @@
 <div class="news alpha">
      <h4>4th Major Meeting</h4>
      <p align="right">TOBEDEFINED</p>
+     <p>
      <img class="logo" hspace="20" vspace="20" src="images/austin.jpg" width="10%"> </img>
+     </p>
      <p>The fourth project meeting took place in Austin in the USA.</p>
      <p></p>
      <p></p>
