@@ -31,7 +31,7 @@ Project INVITE involves the collaborations of several international organization
      	<p>
      	    </br>
             <img class="logo" src="images/logo_ist.jpg" width="70" height="120"> </img>
-     	    <img class="logo" src="images/ceaf.gif" width="100" height="20"> </img>
+     	    <img class="logo" src="images/ceaf.gif"> </img>
      	    </p>
 	    <p>The Center for Functional Analysis and Applications-CEAF is aimed at developing
 research in the area of Functional Analysis keeping in view applications to
