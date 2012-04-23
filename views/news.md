@@ -58,6 +58,7 @@
      <p>The third project meeting took place in Oeiras at IST-Taguspark. The discussion was centered in the formal design of the first game scenario.</p>
      <p></p>
      <p></p>
+     <p></p>
 </div>
 <p></p>
 
