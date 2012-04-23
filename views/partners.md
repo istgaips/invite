@@ -71,7 +71,7 @@ improve its practice in a variety of relationships.
      	    <img class="logo" src="images/logo_pdm.png"> </img></p>
 	    <p>PDM&FC is a Portuguese IT Company specialized in remote monitoring, cloud computing, system auditing, mobile applications, web portals and web design. 
 	    <br/>Location: Av. Conde Valbom, N. 30, Piso 3, 1050-068 Lisboa Portugal
-	    <br/>Website: http://www.inesc-id.pt/
+	    <br/>Website: http://www.pdmfc.com/
 	    <br/>
 	    <br/><br/>
 	    </p>
