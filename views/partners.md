@@ -42,7 +42,7 @@ other areas of Mathematics and also to Physics and Engineering.
 <p></p>
 <div class="news alpha">
      <h4>University of Texas at Austin (College of Communication)</h4>
-     	    <img class="logo" src="images/texas.gif" width="200" height="30"> </img>
+     	    <img class="logo" src="images/texas.gif" width="300" height="60"> </img>
 	    <p>The University of Texas at Austin is a comprehensive university with a
 broad mission of undergraduate and graduate education, research, and service to
 society. The College of Communication seeks to understand communication and to
