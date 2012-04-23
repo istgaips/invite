@@ -4,7 +4,7 @@ Project INVITE involves the collaborations of several international organization
 
 <div class="news alpha">
      <h4>INESC-ID</h4>
-     	    <img class="logo" src="images/logo_inesc.png" width="20%" height="20%"> </img>
+     	    <img class="logo" src="images/logo_inesc.png" width="20%"> </img>
 	    <p>INESC-ID is a Research Institute in Portugal (Computer Engineering). 
 	    <br/>Location: Av. Prof. Cavaco Silva, Tagus Park, 2744-016 Porto Salvo, Portugal (Lisbon Location)
 	    <br/>Website: http://www.inesc-id.pt/
