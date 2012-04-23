@@ -23,13 +23,11 @@ He is currently the
 vice-president of the SPCVideojogos (Sociedade Portuguesa de Ciências
 dos Videojogos).
 
-<span class="logo">
-  <a href="http://gaips.inesc-id.pt/rprada">More Information</a>
-</span>
-
 #### Carlos Martinho (INESC-ID)
 <span class="logo">
   <img src="images/carlos.png" alt="" />
+  </br>
+  <a href="http://gaips.inesc-id.pt/cmartinho">More Information</a>
 </span>
 
 Carlos Martinho is an Assistant Professor at the Department of Computer Science and
@@ -48,11 +46,11 @@ synthetic characters, using approaches from several subfield of
 artificial intelligence such as anticipatory computing, affective
 computing and artificial life.
 
-<a href="http://gaips.inesc-id.pt/cmartinho">Visit Carlos's Official Webpage</a>
-
 #### Pedro Santos (IST/INESC-ID)
 <span class="logo">
   <img src="images/pedro.png" alt="" />
+  </br>
+  <a href="http://gaips.inesc-id.pt/psantos">More Information</a>
 </span>
 
 Pedro Alexandre Simões dos Santos is Assistant Professor in the
@@ -69,11 +67,11 @@ Development courses.
 His numerous scientific interests include Operator Theory, Artificial
 Inteligence, Game Theory, Game Design and History.
 
-<a href="http://gaips.inesc-id.pt/psantos">Visit Pedro's Official Webpage</a>
-
 #### Jorge F. Peña (University of Austin TEXAS)
 <span class="logo">
 	<img src="images/jorge.png" alt="" />
+	</br>
+  <a href="http://www.utexas.edu/opa/experts/profile.php?id=1098">More Information</a>
 </span>
 
 Dr. Pena examines the cognitive, emotional and behavioral foundations of
@@ -87,7 +85,6 @@ social stereotypes through uniforms and roles facilitates non-conscious
 responses in virtual contexts. Dr. Pena employs experiments and content
 analysis as primary research tools.
 
-<a href="http://www.utexas.edu/opa/experts/profile.php?id=1098">Visit Jorge's Official Webpage</a>
 
 #### Luís Landeiro Ribeiro (PDM&FC)
 <span class="logo">
@@ -119,7 +116,8 @@ performance or for highly concurrent apps.
 
 #### Joana Dimas (INESC-ID)
 <span class="logo">
-  <img src="images/joana.png" alt="" />
+  <img src="images/joana.png" alt="" /></br>
+	<a href="http://gaips.inesc-id.pt/jdimas">More Information</a>
 </span>
 
 Joana Dimas is graduated in Social Psychology and is currently doing a
@@ -129,11 +127,12 @@ supervision of Prof. Rui Prada.
 She is interested in game design, player experience, emotion in games
 and cognitive science.
 
-<a href="http://gaips.inesc-id.pt/jdimas">Visit Joana's Official Webpage</a>
 
 #### Guilherme Raimundo (INESC-ID)
 <span class="logo">
 	<img src="images/guilherme.png" alt="" />
+	</br>
+	<a href="http://gaips.inesc-id.pt/graimundo">More Information</a>
 </span>
 
 Guilherme Raimundo is a research assistant at INESC-ID with interests on plan recognition, intelligent agents and machine learning.
@@ -145,6 +144,8 @@ He is currently pursuing a PhD in Information Systems and Computer Engineering a
 #### Márcia Baptista (IST)
 <span class="logo">
   <img src="images/marcia.png" alt="" />
+  </br>
+	<a href="http://gaips.inesc-id.pt/mbaptista">More Information</a>
 </span>
 
 Márcia Baptista graduated in Information Systems and Computer Engineering and is currently 
