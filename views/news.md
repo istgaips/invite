@@ -5,17 +5,9 @@
 
 <div class="news alpha">
      <h4>4th Major Meeting</h4>
-     <p align="right">12/12/2012</p>
-     <p></br>
-           <img class="logo" src="images/logo_inesc.png" width="20%"> </img>
-     	    </p>
-	    <p>INESC-ID is a Research Institute in Portugal (Computer Engineering). 
-	    <br/>Location: Av. Prof. Cavaco Silva, Tagus Park, 2744-016 Porto Salvo, Portugal (Lisbon Location)
-	    <br/>Website: http://www.inesc-id.pt/
-	    <br/>
-	    <br/><br/>
-	    </p>
-	    <a href="http://www.inesc-id.pt/">Visit Website</a>
+     <p align="right">TOBEDEFINED</p>
+     <img class="logo" src="images/austin.jpg" width="10%"> </img>
+     <p>The fourth project meeting took place in Austin in the USA.</p>
 </div>
 <p></p>
 
