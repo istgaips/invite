@@ -29,7 +29,7 @@ Project INVITE involves the collaborations of several international organization
 <div class="news alpha">
      <h4>CEAF at Instituto Superior Técnico</h4>
      	    <img class="logo" src="images/ceaf.gif" width="100" height="20"> </img>
-     	    <img class="logo" src="images/logo_ist.jpg" width="100" height="120"> </img>
+     	    <img class="logo" src="images/logo_ist.jpg" width="80" height="120"> </img>
 	    <p>The Center for Functional Analysis and Applications-CEAF is aimed at developing
 research in the area of Functional Analysis keeping in view applications to
 other areas of Mathematics and also to Physics and Engineering.
