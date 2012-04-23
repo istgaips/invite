@@ -53,7 +53,7 @@
      <h4>3rd Major Meeting</h4>
      <p align="right">Oeiras, Portugal (2N7.1) - 08/09/2011 to 09/09/2011</p>
      <p>
-     <img class="logo" hspace="20" vspace="20" src="images/tagus001.jpg" width="25%"> </img>
+     <img class="logo" hspace="20" vspace="20" src="images/tagus001.jpg" width="20%"> </img>
      </p>
      <p>The third project meeting took place in Oeiras at IST-Taguspark. The discussion was centered in the formal design of the first game scenario.</p>
      <p></p>
@@ -65,7 +65,7 @@
      <h4>2nd Major Meeting</h4>
      <p align="right">Oeiras, Portugal (2N7.1) - 02/06/2011</p>
      <p>
-     <img class="logo" hspace="20" vspace="20" src="images/tagus001.jpg" width="25%"> </img>
+     <img class="logo" hspace="20" vspace="20" src="images/tagus001.jpg" width="20%"> </img>
      </p>
      <p>A project meeting was held in Portugal with the following goals:</p> 
      <p> - Review of the project progress <br></br>
@@ -80,7 +80,7 @@
      <h4>Colab Newsletter</h4>
      <p align="right">2011</p>
      <p>
-     <img class="logo" hspace="20" vspace="20" src="images/tagus001.jpg" width="25%"> </img>
+     <img class="logo" hspace="20" vspace="20" src="images/austin.jpg" width="14%"> </img>
      </p>
      <p>INVITE was selected for the R&D Project Highlight in the June issue of the CoLab Square Newsletter.</p>
      <p></p>
