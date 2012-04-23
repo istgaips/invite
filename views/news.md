@@ -5,7 +5,7 @@
 
 <div class="news alpha">
      <h4>4th Major Meeting</h4>
-     <p align="right">TOBEDEFINED</p>
+     <p align="right">Austin, Texas 2012</p>
      <p>
      <img class="logo" hspace="20" vspace="20" src="images/austin.jpg" width="10%"> </img>
      </p>
