@@ -5,7 +5,7 @@
 
 <div class="news alpha">
      <h4>4th Major Meeting</h4>
-     <span class="logo">12/12/2012</span>
+     <span align="right">12/12/2012</span>
      <p></br>
            <img class="logo" src="images/logo_inesc.png" width="20%"> </img>
      	    </p>
