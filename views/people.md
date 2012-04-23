@@ -5,7 +5,7 @@
   <img src="images/rui.png" alt="" />
 </span>
 
-Is currently an assistant professor at the Computer Science
+Rui Prada currently an assistant professor at the Computer Science
 Department of Instituto Superior Técnico – Technical University of
 Lisbon (IST-UTL), where he teaches courses on User Centred Design,
 Social Intelligent Agents and Game Design and Development. 
@@ -26,7 +26,7 @@ dos Videojogos).
   <img src="images/carlos.png" alt="" />
 </span>
 
-Is an Assistant Professor at the Department of Computer Science and
+Carlos Martinho is an Assistant Professor at the Department of Computer Science and
 Engineering of Instituto Superior Técnico from the Technical University
 of Lisbon and a member of GAIPS, Intelligent Agents and Synthetic
 Character Group at INESC-ID.
