@@ -4,7 +4,7 @@ Project INVITE involves the collaborations of several international organization
 
 <div class="news alpha">
      <h4>INESC-ID</h4>
-     	    <img class="logo" src="images/logo_inesc.png" width="170" height="100"> </img>
+     	    <img class="logo" src="images/logo_inesc.png"> </img>
 	    <p>INESC-ID is a Research Institute in Portugal (Computer Engineering). 
 	    <br/>Location: Av. Prof. Cavaco Silva, Tagus Park, 2744-016 Porto Salvo, Portugal (Lisbon Location)
 	    <br/>Website: http://www.inesc-id.pt/
@@ -30,7 +30,7 @@ Project INVITE involves the collaborations of several international organization
      <h4>CEAF at Instituto Superior Técnico</h4>
      	<p>
      	    </br>
-            <img class="logo" src="images/logo_ist.jpg" width="70" height="120"> </img>
+            <img class="logo" src="images/logo_ist.jpg"> </img>
      	    <img class="logo" src="images/ceaf.gif"> </img>
      	    </p>
 	    <p>The Center for Functional Analysis and Applications-CEAF is aimed at developing
