@@ -5,7 +5,7 @@
 
 <div class="news alpha">
      <h4>4th Major Meeting</h4>
-     <p align="right">Austin, Texas (USA) 2012</p>
+     <p align="right">Austin, Texas (USA), 2012</p>
      <p>
      <img class="logo" hspace="20" vspace="20" src="images/austin.jpg" width="14%"> </img>
      </p>
@@ -49,25 +49,54 @@
 <p></p>
 
 
-#### Article Accepted in VJ2011 (14/11/2011)
+<div class="news alpha">
+     <h4>3rd Major Meeting</h4>
+     <p align="right">Oeiras, Portugal (2N7.1) - 08/09/2011 to 09/09/2011</p>
+     <p>
+     <img class="logo" hspace="20" vspace="20" src="images/tagus001.jpg" width="25%"> </img>
+     </p>
+     <p>The third project meeting took place in Oeiras at IST-Taguspark. The discussion was centered in the formal design of the first game scenario.</p>
+     <p></p>
+     <p></p>
+</div>
+<p></p>
 
+<div class="news alpha">
+     <h4>2nd Major Meeting</h4>
+     <p align="right">Oeiras, Portugal (2N7.1) - 02/06/2011</p>
+     <p>
+     <img class="logo" hspace="20" vspace="20" src="images/tagus001.jpg" width="25%"> </img>
+     </p>
+     <p>A project meeting was held in Portugal with the following goals:</p> 
+     <p> - Review of the project progress <br></br>
+     - Discussion of the research challenges of the project <br></br>
+     - Design of the game base scenario and satellite scenarios <br></br>
+     - Management of the INVITE website <br></br>
+     - Discussion of other open issues</p>
+</div>
+<p></p>
 
-#### Major Third Global Project Meeting (08/09/2011 to 09/09/2011 2N7.1 Oeiras, Portugal)
-The third project meeting took place in Oeiras at IST-Taguspark. The discussion was centered in the formal design of the first game scenario.
+<div class="news alpha">
+     <h4>Colab Newsletter</h4>
+     <p align="right">2011</p>
+     <p>
+     <img class="logo" hspace="20" vspace="20" src="images/tagus001.jpg" width="25%"> </img>
+     </p>
+     <p>INVITE was selected for the R&D Project Highlight in the June issue of the CoLab Square Newsletter.</p>
+     <p></p>
+     <p></p>
+</div>
+<p></p>
 
-###### Secondary Global Project Meeting (02/06/2011 14h00 2N7.1 Oeiras, Portugal)
-A project meeting was held in Portugal with the following goals: 
-  - Review of the project progress
-  - Discussion of the research challenges of the project
-  - Design of the game base scenario and satellite scenarios
-  - Management of the INVITE website
-  - Discussion of other open issues
-
-#### Colab Newsletter
-INVITE was selected for the R&D Project Highlight in the June issue of the CoLab Square Newsletter.
-
-#### Major Second Global Project Meeting
-The second project meeting took place in Austin at UT-Austin. The discussion was centered in the project requirements.
-
-
+<div class="news alpha">
+     <h4>2nd Major Meeting</h4>
+     <p align="right">2011</p>
+     <p>
+     <img class="logo" hspace="20" vspace="20" src="images/austin.jpg" width="14%"> </img>
+     </p>
+     <p>The second project meeting took place in Austin at UT-Austin. The discussion was centered in the project requirements.</p>
+     <p></p>
+     <p></p>
+</div>
+<p></p>
 
