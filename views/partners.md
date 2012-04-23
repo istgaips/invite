@@ -13,7 +13,7 @@ Project INVITE involves the collaborations of several international organization
 	    </p>
 	    <a href="http://www.inesc-id.pt/">Go To Website</a>
 </div>
-
+<p></p>
 <div class="news alpha">
      <h4>GAIPS</h4>
      	    <img class="logo" src="images/gaips.jpg" width="100" height="100"> </img>
