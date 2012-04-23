@@ -2,8 +2,8 @@
 <p></p>
 #### Rui Prada (INESC-ID)
 <span class="logo">
-  <img src="images/rui.png" alt=""><br></br><span class="logo">
-  <a href="http://gaips.inesc-id.pt/rprada">Rui's Site</a>
+  <img src="images/rui.png" alt=""><br></br><span class="logo"><br></br>
+  <a href="http://gaips.inesc-id.pt/rprada">More Information</a>
 </span></img>
 </span>
 
