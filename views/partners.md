@@ -3,22 +3,29 @@
 Project INVITE involves the collaborations of several international organizations, namely:  
 
 <div class="news alpha">
+     <h4>INESC-ID</h4>
+     	    <img class="logo" src="images/logo_inesc.png" width="100" height="100"> </img>
+	    <p>INESC-ID is a Research Institute in Portugal (Computer Engineering). 
+	    <br/>Location: Av. Prof. Cavaco Silva, Tagus Park, 2744-016 Porto Salvo, Portugal (Lisbon Location)
+	    <br/>Website: http://www.inesc-id.pt/
+	    <br/>
+	    <br/><br/>
+	    </p>
+	    <a href="http://www.inesc-id.pt/">Go To Website</a>
+</div>
+
+<div class="news alpha">
      <h4>GAIPS</h4>
      	    <img class="logo" src="images/gaips.jpg" width="100" height="100"> </img>
 	    <p>GAIPS is the INESC-ID research group on Intelligent Agents and Synthetic Characters. 
-	    <br/>Location: Av. Prof. Cavaco Silva, Tagus Park, Porto Salvo, Portugal
+	    <br/>Location: Av. Prof. Cavaco Silva, Tagus Park, 2744-016 Porto Salvo, Portugal
+	    <br/>Website: http://gaips.inesc-id.pt
 	    <br/>
 	    <br/><br/>
 	    </p>
 	    <a href="http://gaips.inesc-id.pt">Go To Website</a>
 </div>
 
-<img class="logo" src="images/logo_inesc.png" width="200" height="100"> </img>
-	
-
- 
-##### Website	
-<http://gaips.inesc-id.pt/>
 
 #### Instituto Superior Técnico
 Lisbon, PT: CEAF - Centro de Análise Funcional e Aplicações
