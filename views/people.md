@@ -3,7 +3,6 @@
 #### Rui Prada (INESC-ID)
 <span class="logo">
   <img src="images/rui.png" alt=""> </img>
-  <a href="http://gaips.inesc-id.pt/rprada">More</a>
 </span>
 
 Rui Prada currently an assistant professor at the Computer Science
@@ -22,7 +21,9 @@ He is currently the
 vice-president of the SPCVideojogos (Sociedade Portuguesa de Ciências
 dos Videojogos).
 
-<a href="http://gaips.inesc-id.pt/rprada">Visit Rui's Official Webpage</a>
+<span class="logo">
+  <a href="http://gaips.inesc-id.pt/rprada">More Information</a>
+</span>
 
 #### Carlos Martinho (INESC-ID)
 <span class="logo">
