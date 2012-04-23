@@ -2,7 +2,8 @@
 <p></p>
 #### Rui Prada (INESC-ID)
 <span class="logo">
-  <img src="images/rui.png" alt="" />
+  <img src="images/rui.png" alt=""> </img>
+  <a href="http://gaips.inesc-id.pt/rprada">More</a>
 </span>
 
 Rui Prada currently an assistant professor at the Computer Science
