@@ -6,13 +6,8 @@
 <div class="news alpha">
      <h4>4th Major Meeting</h4>
      <p align="right">TOBEDEFINED</p>
-     </br>
      <img class="logo" src="images/austin.jpg" width="10%"> </img>
-     The fourth project meeting took place in Austin in the USA.
-     <p><br/>
-	    <br/>
-	    <br/>
-	    </p>
+     <p>The fourth project meeting took place in Austin in the USA.</p>
 </div>
 <p></p>
 
