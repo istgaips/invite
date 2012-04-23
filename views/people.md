@@ -48,9 +48,9 @@ computing and artificial life.
 
 #### Pedro Santos (IST/INESC-ID)
 <span class="logo">
-  <img src="images/pedro.png" alt="" />
-  </br>
+  <img src="images/pedro.png" alt="" ><br></br><span class="logo"></br>
   <a href="http://gaips.inesc-id.pt/psantos">More Information</a>
+</span></img>
 </span>
 
 Pedro Alexandre Simões dos Santos is Assistant Professor in the
@@ -69,9 +69,9 @@ Inteligence, Game Theory, Game Design and History.
 
 #### Jorge F. Peña (University of Austin TEXAS)
 <span class="logo">
-	<img src="images/jorge.png" alt="" />
-	</br>
+	<img src="images/jorge.png" alt="" ><br></br><span class="logo"></br>
   <a href="http://www.utexas.edu/opa/experts/profile.php?id=1098">More Information</a>
+</span></img>
 </span>
 
 Dr. Pena examines the cognitive, emotional and behavioral foundations of
@@ -116,8 +116,9 @@ performance or for highly concurrent apps.
 
 #### Joana Dimas (INESC-ID)
 <span class="logo">
-  <img src="images/joana.png" alt="" /></br>
-	<a href="http://gaips.inesc-id.pt/jdimas">More Information</a>
+  <img src="images/joana.png" alt="" ><br></br><span class="logo"></br>
+  <a href="http://gaips.inesc-id.pt/jdimas">More Information</a>
+</span></img>
 </span>
 
 Joana Dimas is graduated in Social Psychology and is currently doing a
@@ -130,30 +131,26 @@ and cognitive science.
 
 #### Guilherme Raimundo (INESC-ID)
 <span class="logo">
-	<img src="images/guilherme.png" alt="" />
-	</br>
-	<a href="http://gaips.inesc-id.pt/graimundo">More Information</a>
+	<img src="images/guilherme.png" alt="" ><br></br><span class="logo"></br>
+  <a href="http://gaips.inesc-id.pt/graimundo">More Information</a>
+</span></img>
 </span>
 
 Guilherme Raimundo is a research assistant at INESC-ID with interests on plan recognition, intelligent agents and machine learning.
 
 He is currently pursuing a PhD in Information Systems and Computer Engineering at IST under the supervision of Professor Carlos Martinho on the topic of Plan Recognition and Personality.
 
-<a href="http://gaips.inesc-id.pt/graimundo">Visit Guilherme's Official Webpage</a>
-
 #### Márcia Baptista (IST)
 <span class="logo">
-  <img src="images/marcia.png" alt="" />
-  </br>
-	<a href="http://gaips.inesc-id.pt/mbaptista">More Information</a>
+  <img src="images/marcia.png" alt="" ><br></br><span class="logo"></br>
+  <a href="http://gaips.inesc-id.pt/mbaptista">More Information</a>
+</span></img>
 </span>
 
 Márcia Baptista graduated in Information Systems and Computer Engineering and is currently 
 working as a research assistant in INESC-ID under the supervision of Prof. Pedro Santos.
 
 She is interested in game theory, economics, social dilemmas, simulation and rational choice theory. 
-
-<a href="http://gaips.inesc-id.pt/mbaptista">Visit Márcia's Official Webpage</a>
 
 #### Alexandre Barata (IST)
 <span class="logo">
