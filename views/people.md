@@ -44,7 +44,7 @@ synthetic characters, using approaches from several subfield of
 artificial intelligence such as anticipatory computing, affective
 computing and artificial life.
 
-<a href="http://gaips.inesc-id.pt/rprada">Visit Carlos's Official Webpage</a>
+<a href="http://gaips.inesc-id.pt/cmartinho">Visit Carlos's Official Webpage</a>
 
 #### Pedro Santos (IST/INESC-ID)
 <span class="logo">
@@ -65,7 +65,7 @@ Development courses.
 His numerous scientific interests include Operator Theory, Artificial
 Inteligence, Game Theory, Game Design and History.
 
-<a href="http://gaips.inesc-id.pt/rprada">Visit Pedro's Official Webpage</a>
+<a href="http://gaips.inesc-id.pt/psantos">Visit Pedro's Official Webpage</a>
 
 #### Jorge F. Peña (University of Austin TEXAS)
 <span class="logo">
@@ -125,7 +125,7 @@ supervision of Prof. Rui Prada.
 She is interested in game design, player experience, emotion in games
 and cognitive science.
 
-<a href="http://gaips.inesc-id.pt/rprada">Visit Joana's Official Webpage</a>
+<a href="http://gaips.inesc-id.pt/jdimas">Visit Joana's Official Webpage</a>
 
 #### Guilherme Raimundo (INESC-ID)
 <span class="logo">
@@ -136,7 +136,7 @@ Guilherme Raimundo is a research assistant at INESC-ID with interests on plan re
 
 He is currently pursuing a PhD in Information Systems and Computer Engineering at IST under the supervision of Professor Carlos Martinho on the topic of Plan Recognition and Personality.
 
-<a href="http://gaips.inesc-id.pt/rprada">Visit Guilherme's Official Webpage</a>
+<a href="http://gaips.inesc-id.pt/graimundo">Visit Guilherme's Official Webpage</a>
 
 #### Márcia Baptista (IST)
 <span class="logo">
@@ -148,7 +148,7 @@ working as a research assistant in INESC-ID under the supervision of Prof. Pedro
 
 She is interested in game theory, economics, social dilemmas, simulation and rational choice theory. 
 
-<a href="http://gaips.inesc-id.pt/rprada">Visit Márcia's Official Webpage</a>
+<a href="http://gaips.inesc-id.pt/mbaptista">Visit Márcia's Official Webpage</a>
 
 #### Alexandre Barata (IST)
 <span class="logo">
