@@ -25,7 +25,35 @@ Project INVITE involves the collaborations of several international organization
 	    </p>
 	    <a href="http://gaips.inesc-id.pt">Visit Website</a>
 </div>
-
+<p></p>
+<div class="news alpha">
+     <h4>CEAF at Instituto Superior Técnico</h4>
+     	    <img class="logo" src="images/ceaf.gif" width="100" height="100"> </img>
+	    <p>The Center for Functional Analysis and Applications-CEAF is aimed at developing
+research in the area of Functional Analysis keeping in view applications to
+other areas of Mathematics and also to Physics and Engineering.
+	    <br/>Location: Av. Rovisco Pais, 1049-001 Lisboa, Portugal
+	    <br/>Website: http://ceaf.ist.utl.pt/contacts
+	    <br/>
+	    <br/><br/>
+	    </p>
+	    <a href="http://ceaf.ist.utl.pt/contacts">Visit Website</a>
+</div>
+<p></p>
+<div class="news alpha">
+     <h4>University of Texas at Austin (College of Communication)</h4>
+     	    <img class="logo" src="images/texas.gif" width="400" height="100"> </img>
+	    <p>The University of Texas at Austin is a comprehensive university with a
+broad mission of undergraduate and graduate education, research, and service to
+society. The College of Communication seeks to understand communication and to
+improve its practice in a variety of relationships.
+	    <br/>Location: The University of Texas at Austin, Department of Communication Studies, 1 University Station A1105, Austin, TX 78712-0115, USA
+	    <br/>Website: http://commstudies.utexas.edu/
+	    <br/>
+	    <br/><br/>
+	    </p>
+	    <a href="http://commstudies.utexas.edu/">Visit Website</a>
+</div>
 
 #### Instituto Superior Técnico
 Lisbon, PT: CEAF - Centro de Análise Funcional e Aplicações
@@ -48,10 +76,7 @@ USA: College of Communication
 <img class="logo" src="images/texas.gif"> </img>
 
 ###### About
-The University of Texas at Austin is a comprehensive university with a
-broad mission of undergraduate and graduate education, research, and service to
-society. The College of Communication seeks to understand communication and to
-improve its practice in a variety of relationships. 
+ 
 
 ###### Location
 The University of Texas at Austin
