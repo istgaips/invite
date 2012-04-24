@@ -38,7 +38,7 @@ Character Group at INESC-ID.
 At Instituto Superior Técnico, Carlos Martinho has been helping
 educating Engineers, Masters and Doctors since 1996. His teachings cover
 subjects such as computer graphics, human-computer interaction, game
-design and technology, and artificial life (MRC: And economics).
+design and technology, and artificial life.
  
 At GAIPS, since its foundation, he works at the frontier between
 computer graphics and artificial intelligence, building agent-based
