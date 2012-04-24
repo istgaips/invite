@@ -1,28 +1,30 @@
 # Research
 <p></p>
 #### Introduction
+<p align="justify">
 Agents that interact in complex social situations need to take the social 
-situation in consideration in order to perform believably.
+situation in consideration in order to perform believably.</br>
 
 We argue that, since social identity is an important factor in the social 
-situation, agents should incorporate social identity theory in their behaviour.
+situation, agents should incorporate social identity theory in their behaviour. </br>
 
 In addition, social situations often present social dilemmas with expected 
 rational choices and social identity can influence the agent to deviate 
 from the rational choice (e.g. favor other agents that share the same 
-social group).
+social group).</br>
 
 However in some situations the rational choice may be the expected. As such 
 we propose that to be believable agents should take into account individual 
 rationality and social bias in their decision making. In fact, we believe that 
 finding the dynamics between the social bias induced by social identity and 
 the rational motivation is one of the challenges of building believable 
-social agents. 
+social agents. </br>
 
 Furthermore, we would like to stress that in order to be believable in social 
 situations and social dilemmas agents need the ability to anticipate and take 
 others in consideration, since this is a crucial point for achieving any kind 
-of social intelligence.
+of social intelligence. </br>
+</p>
 
 #### Social Identity
 
