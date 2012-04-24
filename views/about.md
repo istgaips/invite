@@ -3,6 +3,7 @@
   <img src="images/logo_invite001.png" width="100%" />
 </p>
 <p></p>
+<p align="justify">
 Project INVITE (social Identity and partNership in VIrTual Environments) is a
 research project on the themes of multimedia, artificial intelligence and games
 financed by the UTAustin – Portugal cooperation agreement (ref.
@@ -35,3 +36,4 @@ human-like behavior). For that, agents should be able to:
     about they strategies and plans. 
 
 Please check the <a href="research">Research</a> menu for more details.
+</p>
