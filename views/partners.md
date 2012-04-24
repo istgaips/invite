@@ -50,14 +50,14 @@ other areas of Mathematics and also to Physics and Engineering.
 <p></p>
 <div class="news alpha">
      <h4>College of Communication at University of Texas (Austin)</h4></br>
-     	    
+     	    <p><img class="logo" src="images/texas.gif" width="40%""> </img></p>
 	    <p>The University of Texas at Austin is a comprehensive university with a
 broad mission of undergraduate and graduate education, research, and service to
 society. The College of Communication seeks to understand communication and to
 improve its practice in a variety of relationships.
 	    <br/>Location: The University of Texas at Austin, Department of Communication Studies, 1 University Station A1105, Austin, TX 78712-0115, USA
 	    <br/>Website: http://commstudies.utexas.edu/
-	    <img class="logo" src="images/texas.gif" width="40%""> </img>
+	    
 	    <br/>
 	    <br/><br/>
 	    </p>
