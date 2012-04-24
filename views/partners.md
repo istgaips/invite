@@ -60,7 +60,7 @@ improve its practice in a variety of relationships.
 	    <br/>
 	    <br/><br/>
 	    </p>
-	    <p></p>
+	    <br></br>
 	    <a href="http://commstudies.utexas.edu/">Visit Website</a>
 </div>
 <p></p>
