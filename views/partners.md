@@ -57,11 +57,8 @@ society. The College of Communication seeks to understand communication and to
 improve its practice in a variety of relationships.
 	    <br/>Location: The University of Texas at Austin, Department of Communication Studies, 1 University Station A1105, Austin, TX 78712-0115, USA
 	    <br/>Website: http://commstudies.utexas.edu/
+	    <img class="logo" src="images/texas.gif" width="40%""> </img>
 	    <br/>
-	    <p></br></br>
-     	    <img class="logo" src="images/texas.gif" width="40%""> </img>
-     	    </p>
-	    
 	    <br/><br/>
 	    </p>
 	    
