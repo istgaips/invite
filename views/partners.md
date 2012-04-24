@@ -42,7 +42,6 @@ other areas of Mathematics and also to Physics and Engineering.
 	    <br/>Location: Av. Rovisco Pais, 1049-001 Lisboa, Portugal
 	    <br/>Website: http://ceaf.ist.utl.pt/contacts
 	    <br/>
-	    <br/><br/>
 	    </p>
 	    <a href="http://ceaf.ist.utl.pt/contacts">Visit Website</a>
 </div>
