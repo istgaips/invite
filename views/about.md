@@ -1,5 +1,4 @@
 #About
-<p></p>
 <p align="center">
   <img src="images/logo_invite001.png" width="100%" />
 </p>
