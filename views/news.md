@@ -33,18 +33,7 @@
      <p>
      <img class="logo" hspace="20" vspace="20" src="images/vj2011.png"> </img>
      </p>
-     <p>A research article was accepted for publishing in a Portuguese conference of videogames in 2011. The submission "A Videogame to study Social Dilemmas and Social Identity"  was accepted for publishing as a WORK IN PROGRESS paper in VideoJogos'2011. Details of the submission and revision process follows.</p>
-     <p>- PAPER: 57<br></br>
-     - TITLE: A Videogame to study Social Dilemmas and Social Identity<br></br>
-     - REVISED TITLE (According to comments of reviewers): A social dilemma videogame / Um videojogo sobre dilemas sociais<br></br>
-     - AUTHORS: Márcia L. Baptista, Joana Dimas, Carlos Martinho, Jorge F. Peña, Rui Prada, Guilherme Raimundo and Pedro A. Santos<br></br>
-     - OVERALL RATING: 2 (accept)<br></br>
-     - REVIEWER'S CONFIDENCE: 3 (high)<br></br>
-     - PAPER CLASSIFICATION: S = State of the Art report (reviews of recent advances)<br></br>
-     - Major session for the paper: Serious Gaming<br></br>
-     - Minor session for the paper: Social, cultural e community studying<br></br>
-     </p>
-     <p>The article was subject to a number of comments and revisions (7) at 7th November and the final version was submitted at 14th November.</p>  
+     <p>A research article was accepted for publishing in a Portuguese conference of videogames in 2011. The submission "A Videogame to study Social Dilemmas and Social Identity"  was accepted for publishing as a WORK IN PROGRESS paper in VideoJogos'2011.</p>
 </div>
 <p></p>
 
