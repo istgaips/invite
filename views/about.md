@@ -37,3 +37,5 @@ human-like behavior). For that, agents should be able to:
 
 Please check the <a href="research">Research</a> menu for more details.
 
+<a href="/documents/INVITEmonofolha.pdf">Download Monofolha</a>
+
