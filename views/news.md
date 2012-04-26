@@ -24,6 +24,7 @@
      <p>A research article (extended abstract) was accepted for publishing in AAMAS2012.</p>
      <p></p>
      <p></p>
+     <p></p>
 </div>
 <p></p>
 
