@@ -35,7 +35,5 @@ human-like behavior). For that, agents should be able to:
     positioned in the social groups, but it also includes building expectations
     about they strategies and plans. 
 
-Please check the <a href="research">Research</a> menu for more details.
-
-<a href="/documents/INVITEmonofolha.pdf">Download Monofolha</a>
+Please check the <a href="research">Research</a> menu for more details. Also download <a href="/documents/INVITEmonofolha.pdf">Monofolha</a> for a brief project description. 
 
