@@ -32,7 +32,7 @@
      <h4>Article in VJ2011</h4>
      <p align="right">14/11/2011</p>
      <p>
-     <img class="logo" hspace="20" vspace="20" src="images/vj201102.jpg" width="20%"> </img>
+     <img class="logo" hspace="20" vspace="20" src="images/vj201102.jpg" width="8%"> </img>
      </p>
      <p>A research article was accepted for publishing in a Portuguese conference of videogames in 2011. The submission "A Videogame to study Social Dilemmas and Social Identity"  was accepted for publishing as a WORK IN PROGRESS paper in VideoJogos'2011.</p>
 </div>
