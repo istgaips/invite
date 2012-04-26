@@ -19,7 +19,7 @@
      <h4>Article in AAMAS2012</h4>
      <p align="right">2011</p>
      <p>
-     <img class="logo" hspace="20" vspace="20" src="images/aamas2012.png" width="35%"> </img>
+     <img class="logo" hspace="20" vspace="20" src="images/aamas2012.png" width="30%"> </img>
      </p>
      <p>A research article (extended abstract) was accepted for publishing in AAMAS2012.</p>
      <p></p>
@@ -31,7 +31,7 @@
      <h4>Article in VJ2011</h4>
      <p align="right">14/11/2011</p>
      <p>
-     <img class="logo" hspace="20" vspace="20" src="images/vj2011.png" width="150%"> </img>
+     <img class="logo" hspace="20" vspace="20" src="images/vj2011.png" width="40%"> </img>
      </p>
      <p>A research article was accepted for publishing in a Portuguese conference of videogames in 2011. The submission "A Videogame to study Social Dilemmas and Social Identity"  was accepted for publishing as a WORK IN PROGRESS paper in VideoJogos'2011.</p>
 </div>
