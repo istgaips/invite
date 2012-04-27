@@ -93,3 +93,16 @@
 </div>
 <p></p>
 
+<div class="news alpha">
+     <h4>1st Major Meeting</h4>
+     <p align="right">2011</p>
+     <p>
+     <img class="logo" hspace="20" vspace="20" src="images/austin.jpg" width="14%"> </img>
+     </p>
+     <p>A project meeting was held in Oeiras at IST-Taguspark, Portugal. <br><\br>
+     The project overview was discussed, as well as the tasks, possible scenarios, evaluation and milestones.
+     <p></p>
+     <p></p>
+</div>
+<p></p>
+
