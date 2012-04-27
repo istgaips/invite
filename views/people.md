@@ -197,6 +197,10 @@ He is mostly interested in the topics related to game design and development, fr
 David is interested in software engineering, artificial inteligence and building better, faster, smarter systems in general.
 
 #### Jorge Galvão (IST)
+<span class="logo">
+  <img src="images/jgalvao.png" alt="" ><br></br><span class="logo"></br>
+</span></img>
+</span>
 
 Jorge Galvão has a BSc degree in Information Systems and Computer Engineering at IST.
 He is currently pursuing an MSc degree in te areas of Intelligent Systems and Software Engineering, working with Professor Rui Prada in his Master Thesis regarding the subject of Trust Relationships in Virtual Agents.
