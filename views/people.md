@@ -127,7 +127,8 @@ supervision of Prof. Rui Prada.
 
 She is interested in game design, player experience, emotion in games
 and cognitive science.
-
+<p></p>
+<p></p>
 
 #### Guilherme Raimundo (INESC-ID)
 <span class="logo">
@@ -139,6 +140,8 @@ and cognitive science.
 Guilherme Raimundo is a research assistant at INESC-ID with interests on plan recognition, intelligent agents and machine learning.
 
 He is currently pursuing a PhD in Information Systems and Computer Engineering at IST under the supervision of Professor Carlos Martinho on the topic of Plan Recognition and Personality.
+<p></p>
+<p></p>
 
 #### Márcia Baptista (IST)
 <span class="logo">
@@ -151,6 +154,8 @@ Márcia Baptista graduated in Information Systems and Computer Engineering and i
 working as a research assistant in INESC-ID under the supervision of Prof. Pedro Santos.
 
 She is interested in game theory, economics, social dilemmas, simulation and rational choice theory. 
+<p></p>
+<p></p>
 
 #### Alexandre Barata (IST)
 <span class="logo">
