@@ -3,7 +3,6 @@
 #### Rui Prada (INESC-ID)
 <span class="logo">
   <img src="images/rui.png" alt=""><br></br><span class="logo"></br>
-  <a href="http://gaips.inesc-id.pt/rprada">More Information</a>
 </span></img>
 </span>
 
@@ -21,12 +20,11 @@ and OpenSimulator, for serious gaming.
 
 He is currently the
 vice-president of the SPCVideojogos (Sociedade Portuguesa de Ciências
-dos Videojogos).
+dos Videojogos). <a href="http://gaips.inesc-id.pt/rprada">More Information</a>
 
 #### Carlos Martinho (INESC-ID)
 <span class="logo">
   <img src="images/carlos.png" alt="" ><br></br><span class="logo"></br>
-  <a href="http://gaips.inesc-id.pt/cmartinho">More Information</a>
 </span></img>
 </span>
 
@@ -44,12 +42,11 @@ At GAIPS, since its foundation, he works at the frontier between
 computer graphics and artificial intelligence, building agent-based
 synthetic characters, using approaches from several subfield of
 artificial intelligence such as anticipatory computing, affective
-computing and artificial life.
+computing and artificial life.<a href="http://gaips.inesc-id.pt/cmartinho">More Information</a>
 
 #### Pedro Santos (IST/INESC-ID)
 <span class="logo">
   <img src="images/pedro.png" alt="" ><br></br><span class="logo"></br>
-  <a href="http://gaips.inesc-id.pt/psantos">More Information</a>
 </span></img>
 </span>
 
@@ -65,12 +62,11 @@ Linear Algebra to advanced Operator Algebra courses to Game Design and
 Development courses.
 
 His numerous scientific interests include Operator Theory, Artificial
-Inteligence, Game Theory, Game Design and History.
+Inteligence, Game Theory, Game Design and History.<a href="http://gaips.inesc-id.pt/psantos">More Information</a>
 
 #### Jorge F. Peña (University of Austin TEXAS)
 <span class="logo">
 	<img src="images/jorge.png" alt="" ><br></br><span class="logo"></br>
-  <a href="http://www.utexas.edu/opa/experts/profile.php?id=1098">More Information</a>
 </span></img>
 </span>
 
@@ -83,7 +79,7 @@ messenger, etc.).
 His most recent work looks at how priming users with
 social stereotypes through uniforms and roles facilitates non-conscious
 responses in virtual contexts. Dr. Pena employs experiments and content
-analysis as primary research tools.
+analysis as primary research tools.<a href="http://www.utexas.edu/opa/experts/profile.php?id=1098">More Information</a>
 
 
 #### Luís Landeiro Ribeiro (PDM&FC)
@@ -117,7 +113,6 @@ performance or for highly concurrent apps.
 #### Joana Dimas (INESC-ID)
 <span class="logo">
   <img src="images/joana.png" alt="" ><br></br><span class="logo"></br>
-  <a href="http://gaips.inesc-id.pt/jdimas">More Information</a>
 </span></img>
 </span>
 
@@ -126,27 +121,26 @@ PhD in Information Systems and Computer Engineering under the
 supervision of Prof. Rui Prada.
 
 She is interested in game design, player experience, emotion in games
-and cognitive science.
+and cognitive science.<a href="http://gaips.inesc-id.pt/jdimas">More Information</a>
 <p></p>
 <p></p>
 
 #### Guilherme Raimundo (INESC-ID)
 <span class="logo">
 	<img src="images/guilherme.png" alt="" ><br></br><span class="logo"></br>
-  <a href="http://gaips.inesc-id.pt/graimundo">More Information</a>
 </span></img>
 </span>
 
 Guilherme Raimundo is a research assistant at INESC-ID with interests on plan recognition, intelligent agents and machine learning.
 
 He is currently pursuing a PhD in Information Systems and Computer Engineering at IST under the supervision of Professor Carlos Martinho on the topic of Plan Recognition and Personality.
-<p></p>
+<a href="http://gaips.inesc-id.pt/graimundo">More Information</a><p></p>
 <p></p>
 
 #### Márcia Baptista (IST)
 <span class="logo">
   <img src="images/marcia.png" alt="" ><br></br><span class="logo"></br>
-  <a href="http://gaips.inesc-id.pt/mbaptista">More Information</a>
+ 
 </span></img>
 </span>
 
@@ -154,6 +148,7 @@ Márcia Baptista graduated in Information Systems and Computer Engineering and i
 working as a research assistant in INESC-ID under the supervision of Prof. Pedro Santos.
 
 She is interested in game theory, economics, social dilemmas, simulation and rational choice theory. 
+ <a href="http://gaips.inesc-id.pt/mbaptista">More Information</a>
 <p></p>
 <p></p>
 
