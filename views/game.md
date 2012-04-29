@@ -3,9 +3,6 @@
 
 
 #### First prototype
-<span>
-  <img src="images/rui.png" alt=""></img>
-</span>
 
 <p align="justify">
 The first prototype of April, 2012 included the following features: <br></br>
@@ -23,15 +20,18 @@ The first prototype of April, 2012 included the following features: <br></br>
 &nbsp;&nbsp;&nbsp;&nbsp;- Movement of players in the island (camp and harvesting site) <br></br>
 &nbsp;&nbsp;&nbsp;&nbsp;- Mini-game for collection of wood/ gold pellets <br></br>
 </p>
+<p>
+Here follows some screenshots of the first prototype. Click on the smaller pictures to view the screenshot in the preview window. 
+</p>
 
 <div id="gallery" align="center"> 
-    <div id="thumbs" align="left"">
+    <span id="thumbs" align="left"">
         <a href="javascript: changeImage(1);" width="200" ><img src="images/screens/001/001.png" width="200" alt="" /></a>
         <a href="javascript: changeImage(2); " width="200" ><img src="images/screens/001/003.png" width="200" alt="" /></a>
         <a href="javascript: changeImage(3);" width="200"><img src="images/screens/001/007.png" width="200" alt="" /></a>
         <a href="javascript: changeImage(4);" width="200"><img src="images/screens/001/004.png" width="200" alt="" /></a>
-    </div>
- 
+    </span>
+
     <div id="bigimages" align="center">
         <div id="normal1">
             <img src="images/screens/001/001.png" alt=""/>
