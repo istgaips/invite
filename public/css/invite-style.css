@@ -550,12 +550,8 @@ height: 500px;
 }
 #thumbs a:link, #thumbs a:visited {
 	height: 90px;
-	border: 6px solid #555;
 	margin: 6px;
 	float: left;
-}
-#thumbs a:hover {
-	border: 6px solid #888;
 }
 
 /* @end */
