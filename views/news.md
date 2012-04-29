@@ -22,7 +22,8 @@
      <img class="logo" hspace="20" vspace="20" src="images/aamas201202.jpg" width="150"> </img>
      </p>
      <p>The paper "The Role of Social Identity, Rationality and Anticipation in Believable Agents" was accepted as an Extended Abstract for publication in the proceedings of the Eleventh International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2012).</p>
-     <p></p>
+     
+     <p>The conference official website can be found <a href="http://aamas2012.webs.upv.es">Here</a></p>
 </div>
 <p></p>
 
