@@ -20,3 +20,9 @@ function changeImage(current) {
         }
     }
 };
+
+function changePreview(current) {
+
+    document.getElementById("preview").src = document.getElementById("img" + i).src;
+
+};
