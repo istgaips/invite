@@ -21,7 +21,7 @@ The first prototype of April, 2012 included the following features: <br></br>
 &nbsp;&nbsp;&nbsp;&nbsp;- Mini-game for collection of wood/ gold pellets <br></br>
 </p>
 <p>
-Here follows some screenshots of the first prototype. Click on the smaller pictures to view the screenshot in the preview window. 
+Here follows some screenshots of the first prototype. Click on the smaller pictures to open the screenshot in the preview window. 
 </p>
 
 <div id="gallery" align="center"> 
