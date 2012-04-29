@@ -1,5 +1,7 @@
-#People
+#Game
 <p></p>
+
+
 #### Rui Prada (INESC-ID)
 <span class="logo">
   <img src="images/rui.png" alt=""><br></br><span class="logo"></br>
