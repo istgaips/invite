@@ -41,7 +41,6 @@ Here follows some screenshots of the first prototype. Click on the smaller pictu
         <img id="normal4" src="images/screens/001/004.png" alt=""/>
         <img id="normal5" src="images/screens/001/006.png" alt=""/>
         <img id="normal6" src="images/screens/001/002.png" alt=""/>
-        <img id="normal1" src="images/screens/001/001.png" alt=""/>
     </div>
 </div>
 
