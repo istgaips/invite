@@ -45,7 +45,6 @@ Here follows some screenshots of the first prototype. Click on the smaller pictu
     </div>
 </div>
 
-
-He is currently the
-vice-president of the SPCVideojogos (Sociedade Portuguesa de Ciências
-dos Videojogos). <a href="http://gaips.inesc-id.pt/rprada">More Information</a>
+<p>
+The video below also shows some of the features of the prototype. 
+</p>
