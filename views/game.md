@@ -40,32 +40,32 @@ The first prototype of April, 2012 included the following features: <br></br>
 
 <div id="gallery">
     <div id="thumbs">
-        <a href="javascript: changeImage(1);"><img src="images/image1.png" alt="" /></a>
-        <a href="javascript: changeImage(2);"><img src="images/image2.png" alt="" /></a>
-        <a href="javascript: changeImage(3);"><img src="images/image3.png" alt="" /></a>
-        <a href="javascript: changeImage(4);"><img src="images/image4.png" alt="" /></a>
-        <a href="javascript: changeImage(5);"><img src="images/image5.png" alt="" /></a>
+        <a href="javascript: changeImage(1);"><img src="images/screens/001/001.png" alt="" /></a>
+        <a href="javascript: changeImage(2);"><img src="images/screens/001/003png" alt="" /></a>
+        <a href="javascript: changeImage(3);"><img src="images/screens/001/007.png" alt="" /></a>
+        <a href="javascript: changeImage(4);"><img src="images/screens/001/004.png" alt="" /></a>
+        <a href="javascript: changeImage(5);"><img src="images/screens/001/006.png" alt="" /></a>
     </div>
  
     <div id="bigimages">
         <div id="normal1">
-            <img src="images/bigimage1.png" alt=""/>
+            <img src="images/screens/001/001.png" alt=""/>
         </div>
  
         <div id="normal2">
-            <img src="images/bigimage2.png" alt=""/>
+            <img src="images/screens/001/003.png" alt=""/>
         </div>
  
         <div id="normal3">
-            <img src="images/bigimage3.png" alt=""/>
+            <img src="images/screens/001/007.png" alt=""/>
         </div>
  
         <div id="normal4">
-            <img src="images/bigimage4.png" alt=""/>
+            <img src="images/screens/001/004.png" alt=""/>
         </div>
  
         <div id="normal5">
-            <img src="images/bigimage5.png" alt=""/>
+            <img src="images/screens/001/006.png" alt=""/>
         </div>
     </div>
 </div>
