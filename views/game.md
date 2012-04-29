@@ -25,12 +25,12 @@ Here follows some screenshots of the first prototype. Click on the smaller pictu
 </p>
 
 <div id="gallery" align="center"> 
-    <span id="thumbs" align="left"">
-        <a href="javascript: changeImage(1);" width="200" ><img src="images/screens/001/001.png" width="200" alt="" /></a>
+    <div id="thumbs" align="left"">
+        <a href="javascript: changeImage(1);" width="400" ><img src="images/screens/001/001.png" width="400" alt="" /></a>
         <a href="javascript: changeImage(2); " width="200" ><img src="images/screens/001/003.png" width="200" alt="" /></a>
         <a href="javascript: changeImage(3);" width="200"><img src="images/screens/001/007.png" width="200" alt="" /></a>
         <a href="javascript: changeImage(4);" width="200"><img src="images/screens/001/004.png" width="200" alt="" /></a>
-    </span>
+    </div>
 
     <div id="bigimages" align="center">
         <div id="normal1">
