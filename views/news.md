@@ -16,6 +16,19 @@
 <p></p>
 
 <div class="news alpha">
+     <h4>INVITE Monosheet</h4>
+     <p align="right">December, 2011</p>
+     <p>
+     <img class="logo" hspace="20" vspace="20" src="images/UTexas.jpg" width="150"> </img>
+     </p>
+     <p>A monosheet was created for the project summarizing the major research topics and project aim.<br></br>
+     The sheet can be downloaded from <a href="/documents/INVITEmonofolha.pdf">Here</a></p>
+     <p></p>
+     <p></p>
+</div>
+<p></p>
+
+<div class="news alpha">
      <h4>Article Acceptance in AAMAS2012</h4>
      <p align="right">December, 2011</p>
      <p>
