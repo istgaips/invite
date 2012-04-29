@@ -95,7 +95,7 @@
      <h4>Colab Newsletter</h4>
      <p align="right">June, 2011</p>
      <p>
-     <img class="logo" hspace="20" vspace="20" src="images/UTexas.jpg" width="150"> </img>
+     <img class="logo" hspace="20" vspace="20" src="images/colabsquare001.png" width="150"> </img>
      </p>
      <p>INVITE was selected for the R&D Project Highlight in the June issue of the CoLab Square Newsletter.<br></br>
      The newsletter can be found <a href="http://utaustinportugal.org/newsletters/CoLab-newsletter-2011.06.pdf">Here</a></p>
