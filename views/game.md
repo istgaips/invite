@@ -45,6 +45,6 @@ Here follows some screenshots of the first prototype. Click on the smaller pictu
 The video below also shows some of the features of the prototype (the video is best seen in full screen). 
 </p>
 
-<div align="center">
+<div align="center" width="100%">
 <iframe width="853" height="480" src="http://www.youtube.com/embed/gDmZDVYIcoE" frameborder="0" allowfullscreen></iframe>
 </div>
