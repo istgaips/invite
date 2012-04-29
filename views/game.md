@@ -38,16 +38,16 @@ The first prototype of April, 2012 included the following features: <br></br>
 </div>
 </div>
 
-<div id="gallery" align="center" width="100%"> 
-    <div id="thumbs" width="100%">
-        <a href="javascript: changeImage(1); changePreview(2);"><img src="images/screens/001/001.png" alt="" /></a>
+<div id="gallery" align="center"> 
+    <div id="thumbs">
+        <a href="javascript: changePreview(2);"><img src="images/screens/001/001.png" alt="" /></a>
         <a href="javascript: changeImage(2); "><img src="images/screens/001/003.png" alt="" /></a>
         <a href="javascript: changeImage(3);"><img src="images/screens/001/007.png" alt="" /></a>
         <a href="javascript: changeImage(4);"><img src="images/screens/001/004.png" alt="" /></a>
         <a href="javascript: changeImage(5);"><img src="images/screens/001/006.png" alt="" /></a>
     </div>
  
-    <div id="bigimages" width="100%">
+    <div id="bigimages" align="center">
         <div id="normal1">
             <img src="images/screens/001/001.png" alt=""/>
         </div>
