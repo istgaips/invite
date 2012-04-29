@@ -25,9 +25,9 @@ The first prototype of April, 2012 included the following features: <br></br>
 </p>
 
 <div class="gallery" align="center">
-<h6>Simple and Effective Photo Gallery with HTML and JavaScript</h6><br/>
+<h8>Simple and Effective Photo Gallery with HTML and JavaScript</h8><br/>
 <div class="thumbnails">
-<img onmouseover="preview.src=img1.src" id="img1" src="screens/001/001.png" alt="Image Not Loaded"/>
+<img onmouseover="preview.src=img1.src" id="img1" src="images/rui.png" alt="Image Not Loaded"/>
 <img onmouseover="preview.src=img2.src" id="img2" src="http://bit.ly/1ug1e6" alt="Image Not Loaded"/>
 <img onmouseover="preview.src=img3.src" id="img3" src="http://bit.ly/1yIAYc" alt="Image Not Loaded"/>
 <img onmouseover="preview.src=img4.src" id="img4" src="http://bit.ly/2LHyDW" alt="Image Not Loaded"/>
