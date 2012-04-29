@@ -24,6 +24,7 @@
      <p>A monosheet was created for the project summarizing the major research topics and project aim.<br></br>
      The sheet can be downloaded from <a href="/documents/INVITEmonofolha.pdf">Here</a></p>
      <p></p>
+      <p></p>
      <p></p>
 </div>
 <p></p>
