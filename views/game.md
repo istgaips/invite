@@ -7,13 +7,16 @@
   <img src="images/rui.png" alt=""></img>
 </span>
 
-<p align="justified">
+<p align="justify">
 The first prototype of April, 2012 included the following features: 
+
 - Stand-alone configuration module (desktop application)
 	- Creation of configuration file (xml) via console interaction
+	
 - Server module (Unity + ION)
 	- Configuration by the upload of a configuration file (xml)
 	- Visualization of the game environment
+	
 - Player module (Unity + ION)
 	- Login of players
 	- Visualization of the game environment
