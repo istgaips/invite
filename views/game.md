@@ -44,3 +44,6 @@ Here follows some screenshots of the first prototype. Click on the smaller pictu
 <p>
 The video below also shows some of the features of the prototype. 
 </p>
+
+<iframe width="560" height="315" src="http://www.youtube.com/embed/gDmZDVYIcoE" frameborder="0" allowfullscreen></iframe>
+
