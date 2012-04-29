@@ -527,7 +527,6 @@ padding: 1px;
 height: 500px;
 }
 
-
 #gallery {
     margin: 0 auto;
     width: 800px;
@@ -560,8 +559,6 @@ height: 500px;
 #thumbs a:hover {
     border: 6px solid #888;
 }
-
-
 
 /* @end */
 
