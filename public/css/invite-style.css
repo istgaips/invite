@@ -516,10 +516,10 @@ padding: 1px;
 margin: 0 10px 10px 0;
 }
  
-.thumbnails img:hover {
+/*.thumbnails img:hover {
 border: 4px solid #199cff;
 cursor:pointer;
-}
+}*/
  
 .preview img {
 border: 4px solid #fff;
