@@ -35,7 +35,7 @@ Here follows some screenshots of the first prototype. Click on the smaller pictu
     </div>
     
     <div id="thumbnails" align="left">
-        <img src="images/screens/001/001.png" alt="" onclick="javascript:changeImage(1);" />
+        <img src="images/screens/001/001.png" height="80" alt="" onclick="javascript:changeImage(1);" />
         <img src="images/screens/001/003.png" alt="" onclick="javascript:changeImage(2);"/>
         <img src="images/screens/001/007.png" alt="" onclick="javascript:changeImage(3);"/>
         <img src="images/screens/001/004.png"  alt="" onclick="javascript:changeImage(4);"/>
