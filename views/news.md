@@ -10,8 +10,7 @@
      <img class="logo" hspace="20" vspace="20" src="images/UTexas.jpg" width="150"> </img>
      </p>
      <p>The fifth project meeting took place in the University of Austin, Texas, USA, where was discussed the general state of the project and the progress and course of each task. <br></br>
-     It was also made an evaluation of the current prototype with some users.</p>
-     <br></br>
+     It was also made an evaluation of the current prototype with some users.<br></br></p>
      <p></p>
 </div>
 <p></p>
@@ -62,6 +61,7 @@
      <p>
      <img class="logo" hspace="20" vspace="20" src="images/ISTTagus.jpg" width="150"> </img>
      </p>
+     <p>
      A project meeting was held in Oeiras at IST-Taguspark, Portugal. <br></br>
      It's focal points were: <br></br>
      - the review of the project progress; <br></br>
@@ -69,7 +69,7 @@
      - design of the game base scenario and satellite scenarios; <br></br>
      - management of the INVITE website; <br></br>
      - discussion of other open issues.
-     <br></br>
+     <br></br></p>
 </div>
 <p></p>
 
