@@ -45,5 +45,6 @@ Here follows some screenshots of the first prototype. Click on the smaller pictu
 The video below also shows some of the features of the prototype. 
 </p>
 
-<iframe width="100%" src="http://www.youtube.com/embed/gDmZDVYIcoE" frameborder="0" allowfullscreen></iframe>
-
+<div align="center">
+<iframe width="853" height="480" src="http://www.youtube.com/embed/gDmZDVYIcoE" frameborder="0" allowfullscreen></iframe>
+</div>
