@@ -11,7 +11,7 @@
 The first prototype of April, 2012 included the following features: <br></br>
 
 - Stand-alone configuration module (desktop application) <br></br>
-	- Creation of configuration file (xml) via console interaction <br></br>
+&nbsp;- Creation of configuration file (xml) via console interaction <br></br>
 	
 - Server module (Unity + ION) <br></br>
 	- Configuration by the upload of a configuration file (xml) <br></br>
