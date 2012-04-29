@@ -25,13 +25,13 @@ Here follows some screenshots of the first prototype. Click on the smaller pictu
 </p>
 
 <div id="gallery" align="center"> 
-    <div id="thumbs" align="left">
-        <a href="javascript: changeImage(1);" width="150" ><img src="images/screens/001/001.png" width="150" alt="" /></a>
-        <a href="javascript: changeImage(2); " width="150" ><img src="images/screens/001/003.png" width="150" alt="" /></a>
-        <a href="javascript: changeImage(3);" width="150"><img src="images/screens/001/007.png" width="150" alt="" /></a>
-        <a href="javascript: changeImage(4);" width="150"><img src="images/screens/001/004.png" width="150" alt="" /></a>
-    	<a href="javascript: changeImage(5);" width="150"><img src="images/screens/001/006.png" width="150" alt="" /></a>
-    	<a href="javascript: changeImage(6);" width="150"><img src="images/screens/001/002.png" width="150" alt="" /></a>
+    <div id="thumbs" align="left" width="100%">
+        <a href="javascript: changeImage(1);" ><img src="images/screens/001/001.png" alt="" /></a>
+        <a href="javascript: changeImage(2); " ><img src="images/screens/001/003.png" alt="" /></a>
+        <a href="javascript: changeImage(3);" ><img src="images/screens/001/007.png" alt="" /></a>
+        <a href="javascript: changeImage(4);" ><img src="images/screens/001/004.png"  alt="" /></a>
+    	<a href="javascript: changeImage(5);" ><img src="images/screens/001/006.png" alt="" /></a>
+    	<a href="javascript: changeImage(6);" ><img src="images/screens/001/002.png" alt="" /></a>
     </div>
 
     <div id="bigimages" align="center">
