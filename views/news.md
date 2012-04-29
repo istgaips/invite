@@ -35,6 +35,7 @@
      <p>The paper "A Videogame to study Social Dilemmas and Social Identity" was accepted as Work in Progress for publication in the proceedings of the Fourth Anual Conference Videojogos 2011.
      <br></br>
      The conference official website can be found <a href="http://www.dcc.fc.up.pt/~videojogos2011/">Here</a>
+     To download the VJ2011 article go to <a href="/documents/Artigo INVITE PRISMA.COMv4.pdf">VJ2011 Article</a>.
      </p>
      <p></p>
      <p></p>
