@@ -42,7 +42,7 @@ Here follows some screenshots of the first prototype. Click on the smaller pictu
 </div>
 
 <p>
-The video below also shows some of the features of the prototype. 
+The video below also shows some of the features of the prototype (the video is best seen in full screen). 
 </p>
 
 <div align="center">
