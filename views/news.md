@@ -58,13 +58,14 @@
      <p>
      <img class="logo" hspace="20" vspace="20" src="images/ISTTagus.jpg" width="150"> </img>
      </p>
-     <p>A project meeting was held in Oeiras at IST-Taguspark, Portugal. <br></br>
+     A project meeting was held in Oeiras at IST-Taguspark, Portugal. <br></br>
      It's focal points were: <br></br>
      - the review of the project progress; <br></br>
      - discussion of the research challenges of the project; <br></br>
      - design of the game base scenario and satellite scenarios; <br></br>
      - management of the INVITE website; <br></br>
-     - discussion of other open issues.</p>
+     - discussion of other open issues.
+     <br></br>
 </div>
 <p></p>
 
