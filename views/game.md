@@ -39,9 +39,9 @@ The first prototype of April, 2012 included the following features: <br></br>
 </div>
 
 <div id="gallery">
-    <div id="thumbs">
+    <div id="thumbnails">
         <a href="javascript: changeImage(1);"><img src="images/screens/001/001.png" width="130" height="130" alt="" /></a>
-        <a href="javascript: changeImage(2);"><img src="images/screens/001/003png" width="130" height="130" alt="" /></a>
+        <a href="javascript: changeImage(2);"><img src="images/screens/001/003.png" width="130" height="130" alt="" /></a>
         <a href="javascript: changeImage(3);"><img src="images/screens/001/007.png" width="130" height="130" alt="" /></a>
         <a href="javascript: changeImage(4);"><img src="images/screens/001/004.png" width="130" height="130" alt="" /></a>
         <a href="javascript: changeImage(5);"><img src="images/screens/001/006.png" width="130" height="130" alt="" /></a>
