@@ -537,7 +537,7 @@ height: 500px;
 }
 
 #bigimages {
-	height: 700px;
+	height: 400px;
 	float: left;
 }
 #thumbs img {
@@ -546,12 +546,11 @@ height: 500px;
 #bigimages img {
 	border: 4px solid #555;
 	margin-top: 5px;
-	height: 700px;
+	height: 400px;
 }
 #thumbs a:link, #thumbs a:visited {
 	height: 80px;
 	margin: 3px;
-	float: left;
 }
 
 /* @end */
