@@ -548,11 +548,11 @@ height: 500px;
 }
 
 #thumbs img {
-	width: 80px;
+	width: 120px;
 }
 
 #thumbs a:hover, #thumbs a:active, #thumbs a:link, #thumbs a:visited {
-	width: 80px;
+	width: 120px;
 	padding: 3px 3px;
 	color: #fff;
 	
