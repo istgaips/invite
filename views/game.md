@@ -33,6 +33,15 @@ Here follows some screenshots of the first prototype. Click on the smaller pictu
     	<a href="javascript: changeImage(5);" ><img src="images/screens/001/006.png" alt="" /></a>
     	<a href="javascript: changeImage(6);" ><img src="images/screens/001/002.png" alt="" /></a>
     </div>
+    
+    <div id="thumbs" align="left">
+        <img src="images/screens/001/001.png" alt="" />
+        <img src="images/screens/001/003.png" alt="" />
+        <img src="images/screens/001/007.png" alt="" />
+        <img src="images/screens/001/004.png"  alt="" />
+    	<img src="images/screens/001/006.png" alt="" />
+    	<img src="images/screens/001/002.png" alt="" />
+    </div>
 
    <div id="bigimages" align="center">
         <img id="normal1" src="images/screens/001/001.png" alt=""/>
