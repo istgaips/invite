@@ -10,7 +10,7 @@ jQuery(document).ready(function(){
 });
 
 function changeImage(current) {
-    var imagesNumber = 5;
+    var imagesNumber = 6;
  
     for (i=1; i<=imagesNumber; i++) {
         if (i == current) {
