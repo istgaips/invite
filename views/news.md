@@ -4,24 +4,25 @@
 <p></p> 
 
 <div class="news alpha">
-     <h4>4th Major Meeting</h4>
-     <p align="right">Austin, Texas (USA), 2012</p>
+     <h4>5th Major Meeting</h4>
+     <p align="right">March, 2012</p>
      <p>
      <img class="logo" hspace="20" vspace="20" src="images/austin.jpg" width="14%"> </img>
      </p>
-     <p>The fourth project meeting took place in Austin in the USA.</p>
+     <p>The fifth project meeting took place in the University of Austin, Texas, USA, where was discussed the general state of the project and the progress and course of each task. <br></br>
+     It was also made an evaluation of the current prototype with some users.</p>
      <p></p>
      <p></p>
 </div>
 <p></p>
 
 <div class="news alpha">
-     <h4>Article in AAMAS2012</h4>
-     <p align="right">2011</p>
+     <h4>Article Acceptance in AAMAS2012</h4>
+     <p align="right">December, 2011</p>
      <p>
      <img class="logo" hspace="20" vspace="20" src="images/aamas2012.png" width="30%"> </img>
      </p>
-     <p>A research article (extended abstract) was accepted for publishing in AAMAS2012.</p>
+     <p>The paper "The Role of Social Identity, Rationality and Anticipation in Believable Agents" was accepted as an Extended Abstract for publication in the proceedings of the Eleventh International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2012).</p>
      <p></p>
      <p></p>
      <p></p>
@@ -29,12 +30,25 @@
 <p></p>
 
 <div class="news alpha">
-     <h4>Article in VJ2011</h4>
-     <p align="right">14/11/2011</p>
+     <h4>Article Acceptance in VJ2011</h4>
+     <p align="right">November, 2011</p>
      <p>
      <img class="logo" hspace="20" vspace="20" src="images/vj201102.jpg" width="15%"> </img>
      </p>
-     <p>A research article was accepted for publishing in a Portuguese conference of videogames in 2011. The submission "A Videogame to study Social Dilemmas and Social Identity"  was accepted for publishing as a WORK IN PROGRESS paper in VideoJogos'2011.</p>
+     <p>The paper "A Videogame to study Social Dilemmas and Social Identity" was accepted as Work in Progress for publication in the proceedings of the Fourth Anual Conference Videojogos 2011.</p>
+     <p></p>
+     <p></p>
+</div>
+<p></p>
+
+<div class="news alpha">
+     <h4>4th Major Meeting</h4>
+     <p align="right">September, 2011</p>
+     <p>
+     <img class="logo" hspace="20" vspace="20" src="images/tagus001.jpg" width="15%"> </img>
+     </p>
+     <p>The fourth project meeting took place in Oeiras at IST-Taguspark, Portugal. <br></br>
+     The discussion was centered in the formal design of the first game scenario.</p>
      <p></p>
      <p></p>
 </div>
@@ -43,35 +57,20 @@
 
 <div class="news alpha">
      <h4>3rd Major Meeting</h4>
-     <p align="right">Oeiras, Portugal (2N7.1) - 08/09/2011 to 09/09/2011</p>
+     <p align="right">June, 2011</p>
      <p>
      <img class="logo" hspace="20" vspace="20" src="images/tagus001.jpg" width="20%"> </img>
      </p>
-     <p>The third project meeting took place in Oeiras at IST-Taguspark. The discussion was centered in the formal design of the first game scenario.</p>
+     <p>A project meeting was held in Oeiras at IST-Taguspark, Portugal. <br></br>
+     It's focal points were: the review of the project progress; discussion of the research challenges of the project; design of the game base scenario and satellite scenarios; management of the INVITE website; discussion of other open issues.<p></p>
      <p></p>
      <p></p>
-     <p></p>
-</div>
-<p></p>
-
-<div class="news alpha">
-     <h4>2nd Major Meeting</h4>
-     <p align="right">Oeiras, Portugal (2N7.1) - 02/06/2011</p>
-     <p>
-     <img class="logo" hspace="20" vspace="20" src="images/tagus001.jpg" width="20%"> </img>
-     </p>
-     <p>A project meeting was held in Portugal with the following goals:</p> 
-     <p> - Review of the project progress <br></br>
-     - Discussion of the research challenges of the project <br></br>
-     - Design of the game base scenario and satellite scenarios <br></br>
-     - Management of the INVITE website <br></br>
-     - Discussion of other open issues</p>
 </div>
 <p></p>
 
 <div class="news alpha">
      <h4>Colab Newsletter</h4>
-     <p align="right">2011</p>
+     <p align="right">June, 2011</p>
      <p>
      <img class="logo" hspace="20" vspace="20" src="images/austin.jpg" width="14%"> </img>
      </p>
@@ -83,11 +82,12 @@
 
 <div class="news alpha">
      <h4>2nd Major Meeting</h4>
-     <p align="right">2011</p>
+     <p align="right">March, 2011</p>
      <p>
      <img class="logo" hspace="20" vspace="20" src="images/austin.jpg" width="14%"> </img>
      </p>
-     <p>The second project meeting took place in Austin at UT-Austin. The discussion was centered in the project requirements.</p>
+     <p>The second project meeting took place in the University of Austin, Texas, USA. <br></br>
+     The discussion was centered in the project requirements.</p>
      <p></p>
      <p></p>
 </div>
@@ -95,11 +95,11 @@
 
 <div class="news alpha">
      <h4>1st Major Meeting</h4>
-     <p align="right">2011</p>
+     <p align="right">October, 2010</p>
      <p>
      <img class="logo" hspace="20" vspace="20" src="images/austin.jpg" width="14%"> </img>
      </p>
-     <p>A project meeting was held in Oeiras at IST-Taguspark, Portugal. <br><\br>
+     <p>A project meeting was held in Oeiras at IST-Taguspark, Portugal. <br></br>
      The project overview was discussed, as well as the tasks, possible scenarios, evaluation and milestones.
      <p></p>
      <p></p>
