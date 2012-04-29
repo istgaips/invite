@@ -548,7 +548,7 @@ height: 500px;
 }
 
 #thumbs img {
-	height: 100%;
+	width: 100%;
 }
 
 #thumbs a:hover, #thumbs a:active, #thumbs a:link, #thumbs a:visited {
