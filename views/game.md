@@ -27,12 +27,13 @@ The first prototype of April, 2012 included the following features: <br></br>
 <div class="gallery" align="center">
 <h8>Simple and Effective Photo Gallery with HTML and JavaScript</h8><br/>
 <div class="thumbnails">
-<img onmouseover="preview.src=img1.src" id="img1" src="logo_invite001.png" alt="Image Not Loaded"/>
+<img onmouseover="preview.src=img1.src" id="img1" src="images/screens/001/001.png" alt="Image Not Loaded"/>
 <img onmouseover="preview.src=img2.src" id="img2" src="images/screens/001/002.png" alt="Image Not Loaded"/>
 <img onmouseover="preview.src=img3.src" id="img3" src="images/screens/001/003.png" alt="Image Not Loaded"/>
-<img onmouseover="preview.src=img4.src" id="img4" src="http://bit.ly/2LHyDW" alt="Image Not Loaded"/>
-<img onmouseover="preview.src=img5.src" id="img5" src="http://bit.ly/2wyHSR" alt="Image Not Loaded"/>
-<img onmouseover="preview.src=img6.src" id="img6" src="http://bit.ly/yRo1i" alt="Image Not Loaded"/>
+<img onmouseover="preview.src=img4.src" id="img4" src="images/screens/001/004.png" alt="Image Not Loaded"/>
+<img onmouseover="preview.src=img5.src" id="img5" src="images/screens/001/005.png" alt="Image Not Loaded"/>
+<img onmouseover="preview.src=img6.src" id="img6" src="images/screens/001/006.png" alt="Image Not Loaded"/>
+<img onmouseover="preview.src=img7.src" id="img7" src="images/screens/001/007.png" alt="Image Not Loaded"/>
 </div><br/>
 <div class="preview" align="center">
  <img id="preview" src="images/screens/001/001.png" alt="No Image Loaded"/>
