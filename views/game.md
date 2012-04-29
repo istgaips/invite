@@ -24,7 +24,18 @@ The first prototype of April, 2012 included the following features: <br></br>
 Here follows some screenshots of the first prototype. Click on the smaller pictures to open the screenshot in the preview window. 
 </p>
 
-<div id="gallery"> 
+<div id="gallery" align="center"> 
+    
+    
+    <div class="thumbnails" >
+        <img src="images/screens/001/001.png"  alt="" onclick="javascript:changeImage(1);" />
+        <img src="images/screens/001/003.png"   alt="" onclick="javascript:changeImage(2);"/>
+        <img src="images/screens/001/007.png"  alt="" onclick="javascript:changeImage(3);"/>
+        <img src="images/screens/001/004.png"   alt="" onclick="javascript:changeImage(4);"/>
+    	<img src="images/screens/001/006.png"  alt="" onclick="javascript:changeImage(5);"/>
+    	<img src="images/screens/001/002.png"  alt="" onclick="javascript:changeImage(6);"/>
+    </div>
+    
     <div id="thumbs" align="left">
         <a href="javascript: changeImage(1);" ><img src="images/screens/001/001.png" alt="" /></a>
         <a href="javascript: changeImage(2); " ><img src="images/screens/001/003.png" alt="" /></a>
@@ -33,15 +44,6 @@ Here follows some screenshots of the first prototype. Click on the smaller pictu
     	<a href="javascript: changeImage(5);" ><img src="images/screens/001/006.png" alt="" /></a>
     	<a href="javascript: changeImage(6);" ><img src="images/screens/001/002.png" alt="" /></a>
     </div>
-    
-    <span class="thumbnails" align="center">
-        <img src="images/screens/001/001.png"  alt="" onclick="javascript:changeImage(1);" />
-        <img src="images/screens/001/003.png"   alt="" onclick="javascript:changeImage(2);"/>
-        <img src="images/screens/001/007.png"  alt="" onclick="javascript:changeImage(3);"/>
-        <img src="images/screens/001/004.png"   alt="" onclick="javascript:changeImage(4);"/>
-    	<img src="images/screens/001/006.png"  alt="" onclick="javascript:changeImage(5);"/>
-    	<img src="images/screens/001/002.png"  alt="" onclick="javascript:changeImage(6);"/>
-    </span>
 
    <div id="bigimages" align="center">
         <img id="normal1" src="images/screens/001/001.png" alt=""/>
