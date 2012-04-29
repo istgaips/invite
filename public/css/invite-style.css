@@ -551,14 +551,14 @@ height: 500px;
     margin-top: 5px;
     width: 100%;
 }
-#thumbs b:link, #thumbs b:visited {
+#thumbs a:link, #thumbs a:visited {
     width: 130px;
     height: 130px;
     border: 6px solid #555;
     margin: 6px;
     float: left;
 }
-#thumbs b:hover {
+#thumbs a:hover {
     border: 6px solid #888;
 }
 /* @end */
