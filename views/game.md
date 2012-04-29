@@ -26,12 +26,12 @@ Here follows some screenshots of the first prototype. Click on the smaller pictu
 
 <div id="gallery" align="center"> 
     <div id="thumbs" align="left"">
-        <a href="javascript: changeImage(1);" width="200" ><img src="images/screens/001/001.png" width="200" alt="" /></a>
-        <a href="javascript: changeImage(2); " width="200" ><img src="images/screens/001/003.png" width="200" alt="" /></a>
-        <a href="javascript: changeImage(3);" width="200"><img src="images/screens/001/007.png" width="200" alt="" /></a>
-        <a href="javascript: changeImage(4);" width="200"><img src="images/screens/001/004.png" width="200" alt="" /></a>
-    	<a href="javascript: changeImage(5);" width="200"><img src="images/screens/001/006.png" width="200" alt="" /></a>
-    	<a href="javascript: changeImage(6);" width="200"><img src="images/screens/001/002.png" width="200" alt="" /></a>
+        <a href="javascript: changeImage(1);" width="220" ><img src="images/screens/001/001.png" width="220" alt="" /></a>
+        <a href="javascript: changeImage(2); " width="220" ><img src="images/screens/001/003.png" width="220" alt="" /></a>
+        <a href="javascript: changeImage(3);" width="220"><img src="images/screens/001/007.png" width="220" alt="" /></a>
+        <a href="javascript: changeImage(4);" width="220"><img src="images/screens/001/004.png" width="220" alt="" /></a>
+    	<a href="javascript: changeImage(5);" width="220"><img src="images/screens/001/006.png" width="220" alt="" /></a>
+    	<a href="javascript: changeImage(6);" width="220"><img src="images/screens/001/002.png" width="220" alt="" /></a>
     </div>
 
     <div id="bigimages" align="center">
