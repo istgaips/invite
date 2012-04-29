@@ -7,6 +7,7 @@
   <img src="images/rui.png" alt=""></img>
 </span>
 
+<p align="justified">
 The first prototype of April, 2012 included the following features: 
 - Stand-alone configuration module (desktop application)
 	- Creation of configuration file (xml) via console interaction
@@ -18,7 +19,7 @@ The first prototype of April, 2012 included the following features:
 	- Visualization of the game environment
 	- Movement of players in the island (camp and harvesting site)
 	- Mini-game for collection of wood/ gold pellets
-
+</p>
 
 He is currently the
 vice-president of the SPCVideojogos (Sociedade Portuguesa de Ciências
