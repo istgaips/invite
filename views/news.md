@@ -62,7 +62,12 @@
      <img class="logo" hspace="20" vspace="20" src="images/ISTTagus.jpg" width="150"> </img>
      </p>
      <p>A project meeting was held in Oeiras at IST-Taguspark, Portugal. <br></br>
-     It's focal points were: the review of the project progress; discussion of the research challenges of the project; design of the game base scenario and satellite scenarios; management of the INVITE website; discussion of other open issues.<p></p>
+     It's focal points were: 
+     the review of the project progress; 
+     discussion of the research challenges of the project; 
+     design of the game base scenario and satellite scenarios; 
+     management of the INVITE website; 
+     discussion of other open issues.<p></p>
      <p></p>
      <p></p>
 </div>
