@@ -528,39 +528,7 @@ height: 500px;
 }
 
 
-#normal2, #normal3, #normal4, #normal5 {
-    display: none;
-}
-#gallery {
-    margin: 0 auto;
-}
-#thumbs {
-    margin: 10px auto 10px auto;
-    text-align: center;
-}
-#bigimages {
-    width: 100%;
-    float: left;
-}
-#thumbs img {
-    width: 130px;
-    height: 130px;
-}
-#bigimages img {
-    border: 4px solid #555;
-    margin-top: 5px;
-    width: 100%;
-}
-#thumbs a:link, #thumbs a:visited {
-    width: 130px;
-    height: 130px;
-    border: 6px solid #555;
-    margin: 6px;
-    float: left;
-}
-#thumbs a:hover {
-    border: 6px solid #888;
-}
+
 /* @end */
 
 
