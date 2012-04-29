@@ -24,7 +24,7 @@ The first prototype of April, 2012 included the following features: <br></br>
 Here follows some screenshots of the first prototype. Click on the smaller pictures to open the screenshot in the preview window. 
 </p>
 
-<div id="gallery" align="center"> 
+<div id="gallery" align="left"> 
     
     
     <div class="thumbnails" align="left">
