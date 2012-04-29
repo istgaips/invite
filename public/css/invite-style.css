@@ -554,6 +554,10 @@ height: 500px;
 	margin: 3px;
 }
 
+#normal2, #normal3, #normal4, #normal5 {
+    display: none;
+}
+
 /* @end */
 
 
