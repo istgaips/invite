@@ -36,7 +36,9 @@
      <p>
      <img class="logo" hspace="20" vspace="20" src="images/vj201102.jpg" width="150"> </img>
      </p>
-     <p>The paper "A Videogame to study Social Dilemmas and Social Identity" was accepted as Work in Progress for publication in the proceedings of the Fourth Anual Conference Videojogos 2011. The conference official website can be found <a href="http://www.dcc.fc.up.pt/~videojogos2011/">Here</a><br></br>
+     <p>The paper "A Videogame to study Social Dilemmas and Social Identity" was accepted as Work in Progress for publication in the proceedings of the Fourth Anual Conference Videojogos 2011. 
+     <br>/br>
+     The conference official website can be found <a href="http://www.dcc.fc.up.pt/~videojogos2011/">Here</a><br></br>
      The VJ2011 article can also be downloaded <a href="/documents/ArtigoVJ2011.pdf">Here</a>
      </p>
      <p></p>
