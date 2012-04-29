@@ -25,12 +25,12 @@ Here follows some screenshots of the first prototype. Click on the smaller pictu
 </p>
 
 <div class="thumbnails" align="center">
-        <img src="images/screens/001/001.png" alt=""  / onClick="javascript: changeImage(1);"></a>
-         <img src="images/screens/001/003.png" alt=""  / onClick="javascript: changeImage(2);"></a>
-         <img src="images/screens/001/007.png" alt=""  / onClick="javascript: changeImage(3);"></a>
-         <img src="images/screens/001/004.png" alt=""  / onClick="javascript: changeImage(4);"></a>
-         <img src="images/screens/001/006.png" alt=""  / onClick="javascript: changeImage(5);"></a>
-         <img src="images/screens/001/002.png" alt=""  / onClick="javascript: changeImage(6);"></a>
+        <img src="images/screens/001/001.png" alt=""  / onClick="changeImage(1);"></a>
+         <img src="images/screens/001/003.png" alt=""  / onClick="changeImage(2);"></a>
+         <img src="images/screens/001/007.png" alt=""  / onClick="changeImage(3);"></a>
+         <img src="images/screens/001/004.png" alt=""  / onClick="changeImage(4);"></a>
+         <img src="images/screens/001/006.png" alt=""  / onClick="changeImage(5);"></a>
+         <img src="images/screens/001/002.png" alt=""  / onClick="changeImage(6);"></a>
 </div>
 
 <div id="gallery" align="left"> 
