@@ -8,20 +8,20 @@
 </span>
 
 <p align="justify">
-The first prototype of April, 2012 included the following features: 
+The first prototype of April, 2012 included the following features: </br>
 
-- Stand-alone configuration module (desktop application)
-	- Creation of configuration file (xml) via console interaction
+- Stand-alone configuration module (desktop application) </br>
+	- Creation of configuration file (xml) via console interaction </br>
 	
-- Server module (Unity + ION)
-	- Configuration by the upload of a configuration file (xml)
-	- Visualization of the game environment
+- Server module (Unity + ION) </br>
+	- Configuration by the upload of a configuration file (xml) </br>
+	- Visualization of the game environment </br>
 	
-- Player module (Unity + ION)
-	- Login of players
-	- Visualization of the game environment
-	- Movement of players in the island (camp and harvesting site)
-	- Mini-game for collection of wood/ gold pellets
+- Player module (Unity + ION) </br>
+	- Login of players </br>
+	- Visualization of the game environment </br>
+	- Movement of players in the island (camp and harvesting site) </br>
+	- Mini-game for collection of wood/ gold pellets </br>
 </p>
 
 He is currently the
