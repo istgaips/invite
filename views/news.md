@@ -12,7 +12,6 @@
      <p>The fifth project meeting took place in the University of Austin, Texas, USA, where was discussed the general state of the project and the progress and course of each task. <br></br>
      It was also made an evaluation of the current prototype with some users.</p>
      <p></p>
-     <p></p>
 </div>
 <p></p>
 
