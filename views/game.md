@@ -34,28 +34,14 @@ Here follows some screenshots of the first prototype. Click on the smaller pictu
     	<a href="javascript: changeImage(6);" ><img src="images/screens/001/002.png" alt="" /></a>
     </div>
 
-    <div id="bigimages" align="center">
-        <div id="normal1">
-            <img src="images/screens/001/001.png" alt=""/>
-        </div>
- 
-        <div id="normal2">
-            <img src="images/screens/001/003.png" alt=""/>
-        </div>
- 
-        <div id="normal3">
-            <img src="images/screens/001/007.png" alt=""/>
-        </div>
- 
-        <div id="normal4">
-            <img src="images/screens/001/004.png" alt=""/>
-        </div>
-        <div id="normal5">
-            <img src="images/screens/001/006.png" alt=""/>
-        </div>
-        <div id="normal6">
-            <img src="images/screens/001/002.png" alt=""/>
-        </div>
+   <div id="bigimages" align="center">
+        <img id="normal1" src="images/screens/001/001.png" alt=""/>
+        <img id="normal2" src="images/screens/001/003.png" alt=""/>
+        <img id="normal3" src="images/screens/001/007.png" alt=""/>
+        <img id="normal4" src="images/screens/001/004.png" alt=""/>
+        <img id="normal5" src="images/screens/001/006.png" alt=""/>
+        <img id="normal6" src="images/screens/001/002.png" alt=""/>
+        <img id="normal1" src="images/screens/001/001.png" alt=""/>
     </div>
 </div>
 
