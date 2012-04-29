@@ -24,6 +24,15 @@ The first prototype of April, 2012 included the following features: <br></br>
 Here follows some screenshots of the first prototype. Click on the smaller pictures to open the screenshot in the preview window. 
 </p>
 
+<div class="thumbnails" align="left">
+        <img src="images/screens/001/001.png" alt=""  / onClick="document.switch.src="javascript: changeImage(1);"></a>
+         <img src="images/screens/001/003.png" alt=""  / onClick="document.switch.src="javascript: changeImage(2);"></a>
+         <img src="images/screens/001/007.png" alt=""  / onClick="document.switch.src="javascript: changeImage(3);"></a>
+         <img src="images/screens/001/004.png" alt=""  / onClick="document.switch.src="javascript: changeImage(4);"></a>
+         <img src="images/screens/001/006.png" alt=""  / onClick="document.switch.src="javascript: changeImage(5);"></a>
+         <img src="images/screens/001/002.png" alt=""  / onClick="document.switch.src="javascript: changeImage(6);"></a>
+</div>
+
 <div id="gallery" align="left"> 
     
     <div id="thumbs" align="left">
