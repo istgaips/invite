@@ -72,7 +72,8 @@
      - discussion of the research challenges of the project; <br></br>
      - design of the game base scenario and satellite scenarios; <br></br>
      - management of the INVITE website; <br></br>
-     - discussion of other open issues.</p>
+     - discussion of other open issues.<br></br><br></br>
+     </p>
 </div>
 <p></p>
 
