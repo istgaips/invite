@@ -38,7 +38,7 @@ The first prototype of April, 2012 included the following features: <br></br>
 </div>
 </div>
 
-<div id="gallery" align="center">
+<div id="gallery" align="center" width="100%"> 
     <div id="thumbs">
         <a href="javascript: changeImage(1);"><img src="images/screens/001/001.png" alt="" /></a>
         <a href="javascript: changeImage(2);"><img src="images/screens/001/003.png" alt="" /></a>
@@ -47,7 +47,7 @@ The first prototype of April, 2012 included the following features: <br></br>
         <a href="javascript: changeImage(5);"><img src="images/screens/001/006.png" alt="" /></a>
     </div>
  
-    <div id="bigimages">
+    <div id="bigimages" width="100%">
         <div id="normal1">
             <img src="images/screens/001/001.png" alt=""/>
         </div>
