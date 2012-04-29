@@ -40,7 +40,7 @@ The first prototype of April, 2012 included the following features: <br></br>
 
 <div id="gallery" align="center"> 
     <div id="thumbs">
-        <a href="javascript: changePreview(2);"><img src="images/screens/001/001.png" alt="" /></a>
+        <a href="javascript: changeImage(1);"><img src="images/screens/001/001.png" alt="" /></a>
         <a href="javascript: changeImage(2); "><img src="images/screens/001/003.png" alt="" /></a>
         <a href="javascript: changeImage(3);"><img src="images/screens/001/007.png" alt="" /></a>
         <a href="javascript: changeImage(4);"><img src="images/screens/001/004.png" alt="" /></a>
