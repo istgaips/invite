@@ -25,8 +25,6 @@
      <br> </br>
      The conference official website can be found <a href="http://aamas2012.webs.upv.es">Here</a>
      </p>
-     
-     <p></p>
 </div>
 <p></p>
 
