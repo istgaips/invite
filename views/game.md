@@ -27,7 +27,7 @@ Here follows some screenshots of the first prototype. Click on the smaller pictu
 <div id="gallery" align="center"> 
     
     
-    <div class="thumbnails" >
+    <div class="thumbnails" align="left">
         <img src="images/screens/001/001.png"  alt="" onclick="javascript:changeImage(1);" />
         <img src="images/screens/001/003.png"   alt="" onclick="javascript:changeImage(2);"/>
         <img src="images/screens/001/007.png"  alt="" onclick="javascript:changeImage(3);"/>
