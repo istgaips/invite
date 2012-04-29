@@ -537,21 +537,19 @@ height: 500px;
 }
 
 #bigimages {
-	width: 100%;
+	height: 700px;
 	float: left;
 }
 #thumbs img {
-	width: 130px;
-	height: 130px;
+	height: 90px;
 }
 #bigimages img {
 	border: 4px solid #555;
 	margin-top: 5px;
-	width: 100%;
+	height: 700px;
 }
 #thumbs a:link, #thumbs a:visited {
-	width: 130px;
-	height: 130px;
+	height: 90px;
 	border: 6px solid #555;
 	margin: 6px;
 	float: left;
