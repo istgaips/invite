@@ -207,4 +207,17 @@ He is currently pursuing an MSc degree in te areas of Intelligent Systems and So
 His main interests are Game Development, Artificial Intelligence and Game Physics.
 
 
+#### Hugo Damas (IST)
+<span class="logo">
+  <img width="105" src="images/hdamas.jpg" alt="" ><br></br><span class="logo"></br>
+</span></img>
+</span>
+
+Hugo Damas has a BSc degree in Information Systems and Computer Engineering at IST.
+In his MSc thesis he designed and developed an A.I. (AutoBroad) for a real time automatic broadcasting system which could assist with the live broadcasting of E-Sports. 
+His main interests are video-game development (developed five video-games focusing on gameplay and AI/Camera programming), writing (three web-comic collaborations) and judo, Japapense, drums and parachute. 
+
+
+
+
 
