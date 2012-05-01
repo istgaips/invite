@@ -4,7 +4,7 @@
 <p></p> 
 
 <div class="news alpha">
-     <h4>5th Major Meeting</h4>
+     <h4>5th Project Meeting</h4>
      <p align="right">March, 2012</p>
      <p>
      <img class="logo" hspace="20" vspace="20" src="images/UTexas.jpg" width="150"> </img>
@@ -30,7 +30,7 @@
 <p></p>
 
 <div class="news alpha">
-     <h4>Article Acceptance in AAMAS2012</h4>
+     <h4>Paper Acceptance in AAMAS2012</h4>
      <p align="right">December, 2011</p>
      <p>
      <img class="logo" hspace="20" vspace="20" src="images/aamas201202.jpg" width="150"> </img>
@@ -43,7 +43,7 @@
 <p></p>
 
 <div class="news alpha">
-     <h4>Article Acceptance in VJ2011</h4>
+     <h4>Paper Acceptance in VJ2011</h4>
      <p align="right">November, 2011</p>
      <p>
      <img class="logo" hspace="20" vspace="20" src="images/vj201102.jpg" width="150"> </img>
@@ -51,7 +51,7 @@
      <p>The paper "A Videogame to study Social Dilemmas and Social Identity" was accepted as Work in Progress for publication in the proceedings of the Fourth Anual Conference Videojogos 2011. 
      <br></br>
      The conference official website can be found <a href="http://www.dcc.fc.up.pt/~videojogos2011/">Here</a><br></br>
-     The VJ2011 article can also be downloaded <a href="/documents/ArtigoVJ2011.pdf">Here</a>
+     The VJ2011 paper can also be downloaded <a href="/documents/ArtigoVJ2011.pdf">Here</a>
      </p>
      <p></p>
      <p></p>
@@ -60,7 +60,7 @@
 <p></p>
 
 <div class="news alpha">
-     <h4>4th Major Meeting</h4>
+     <h4>4th Project Meeting</h4>
      <p align="right">September, 2011</p>
      <p>
      <img class="logo" hspace="20" vspace="20" src="images/ISTTagus.jpg" width="150"> </img>
@@ -74,7 +74,7 @@
 
 
 <div class="news alpha">
-     <h4>3rd Major Meeting</h4>
+     <h4>3rd Project Meeting</h4>
      <p align="right">June, 2011</p>
      <p>
      <img class="logo" hspace="20" vspace="20" src="images/ISTTagus.jpg" width="150"> </img>
@@ -105,7 +105,7 @@
 <p></p>
 
 <div class="news alpha">
-     <h4>2nd Major Meeting</h4>
+     <h4>2nd Project Meeting</h4>
      <p align="right">March, 2011</p>
      <p>
      <img class="logo" hspace="20" vspace="20" src="images/UTexas.jpg" width="150"> </img>
@@ -118,7 +118,7 @@
 <p></p>
 
 <div class="news alpha">
-     <h4>1st Major Meeting</h4>
+     <h4>Kick-off Meeting</h4>
      <p align="right">October, 2010</p>
      <p>
      <img class="logo" hspace="20" vspace="20" src="images/ISTTagus.jpg" width="150"> </img>
