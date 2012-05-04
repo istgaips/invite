@@ -1,6 +1,6 @@
 # Partners
 <p></p>
-Project INVITE involves the collaborations of several international organizations, namely:  
+Project INVITE involves the collaboration of several international organizations, namely:  
 
 <div class="news alpha">
      <h4>INESC-ID</h4>
