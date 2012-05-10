@@ -48,5 +48,5 @@ The video below also shows some of the features of the prototype (the video is b
 </p>
 
 <div align="center">
-<iframe width="100%" height="480" src="<iframe width="640" height="360" src="http://www.youtube.com/embed/m3AQwiO8T2A" frameborder="0" allowfullscreen></iframe>" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="480" src="http://www.youtube.com/embed/m3AQwiO8T2A" frameborder="0" allowfullscreen></iframe>
 </div>
