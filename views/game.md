@@ -52,3 +52,6 @@ The video below also shows some of the features of the prototype (the video is b
 </div>
 
 <link href="GameConfigurationv0001/GameConfigurationv0001.html" />
+
+<a href="GameConfigurationv0001/GameConfigurationv0001">News</a>
+<a href="GameConfigurationv0001/GameConfigurationv0001.html">News</a>
