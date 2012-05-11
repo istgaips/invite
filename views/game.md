@@ -50,3 +50,5 @@ The video below also shows some of the features of the prototype (the video is b
 <div align="center">
 <iframe width="100%" height="480" src="http://www.youtube.com/embed/m3AQwiO8T2A" frameborder="0" allowfullscreen></iframe>
 </div>
+
+<link href="views/GameConfigurationv0001/GameConfigurationv0001.html" />
