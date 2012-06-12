@@ -6,7 +6,7 @@
 <tr>
 <td> 
 <p align="left">
-<a href="configureextguide">Configure Guide >> </a> 
+<a href="configureextguide"> << Configure Guide</a> 
 </p>
 </td> 
 <td> 
