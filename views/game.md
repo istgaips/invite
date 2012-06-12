@@ -6,7 +6,7 @@
 
 <p align="justify">
 
-<a href="guide">Guide</a>
+<a href="guide.md">Guide</a>
 
 The first prototype of April, 2012 included the following features: <br></br>
 
