@@ -9,7 +9,7 @@
 <table width="100%">
 <tr>
 <th><a  href="guide">Configure Guide</a></th>
-<th align="right" ><a align="right"  href="guide">End Guide</a></th>
+<th text-align="right" ><a align="right"  href="guide">End Guide</a></th>
 </tr>
 </table>
 
