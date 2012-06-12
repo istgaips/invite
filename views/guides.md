@@ -4,7 +4,7 @@
 
 Here follows the list of online guides. 
 
-<table width="100%">
+<table width="100%" border="1">
 
 <tr>
 <td>
