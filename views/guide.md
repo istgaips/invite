@@ -5,14 +5,16 @@
 <a href="guide">Play Guide</a>
 <p></p>
 
-<div width="100%">
-<table align="center" style="tablecenter">
+
+<table width="100%">
 <tr>
 <td> 
 I'm in the center! 
 </td> 
 <td> 
+<p align="right">
 I'm aligned to the right! 
+</p>
 </td>
 </tr>
 </table>
