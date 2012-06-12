@@ -5,7 +5,7 @@
 <a href="guide">Play Guide</a>
 <p></p>
 
-
+<div width="100%">
 <table style="tablecenter">
 <tr>
 <td> 
@@ -16,6 +16,7 @@ I'm aligned to the right!
 </td>
 </tr>
 </table>
+</div>
 
 
 
