@@ -575,7 +575,7 @@ text-align: center;
 
 
 .customtable { border-collapse: collapse; }
-.customtable th, .pretty-table td { padding: 0.5em; }
+.customtable th, .customtable td { padding: 0.5em; }
 
 .customtable { border: 1px solid #333; }
 .customtable th, .customtable td { border: 1px dotted #666; }
