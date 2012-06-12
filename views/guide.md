@@ -1,4 +1,4 @@
-#Guide
+#Guide - How to Configure
 
 <p></p>
 
