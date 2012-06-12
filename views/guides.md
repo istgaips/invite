@@ -1,15 +1,37 @@
-#Guide - How to Configure
+#Guides
 
 <p></p>
 
+Here follows the list of online guides. 
+
 <table width="100%">
 <tr>
-<td> 
+<td>
+Extended Versions:  
+</td> 
+<td>
+<a href="configureextguide">Configure Guide</a> 
 </td> 
 <td> 
-<p align="right">
-<a href="launchextguide">Launch Guide >> </a> 
-</p>
+<a href="launchextguide">Launch Guide</a> 
+</td>
+<td> 
+<a href="playextguide">Play Guide</a> 
+</td>
+</tr>
+
+<tr>
+<td>
+Short Versions:  
+</td> 
+<td>
+<a href="configureshtguide">Configure Guide</a> 
+</td> 
+<td> 
+<a href="launchshtguide">Launch Guide</a> 
+</td>
+<td> 
+<a href="playshtguide">Play Guide</a> 
 </td>
 </tr>
 </table>
