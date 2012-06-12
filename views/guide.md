@@ -13,6 +13,12 @@
 </tr>
 </table>
 
+<table> 
+<tr> 
+<td><span>Left</span> Right</td> 
+</tr> 
+</table> 
+
 <a  href="guide" align="left">Configure Guide</a>
 <a  href="guide" align="right">Configure Guide</a>
 
