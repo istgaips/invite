@@ -5,11 +5,13 @@
 <a href="guide">Play Guide</a>
 <p></p>
 
-<p>
-  <a  href="guide">Configure Guide</a>
-  
-  <a href="guide">End Guide</a>
-</p>
+
+<table width="100%">
+<tr>
+<th><a  href="guide">Configure Guide</a></th>
+<th><a href="guide">End Guide</a></th>
+</tr>
+</table>
 
 
 
