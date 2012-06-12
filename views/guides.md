@@ -25,13 +25,13 @@ How to Play as a Client
 Extended Versions:  
 </td> 
 <td>
-<a href="configureextguide">Configure Guide</a> 
+<a href="configureextguide">Configure Extended Guide</a> 
 </td> 
 <td> 
-<a href="launchextguide">Launch Guide</a> 
+<a href="launchextguide">Launch Extended Guide</a> 
 </td>
 <td> 
-<a href="playextguide">Play Guide</a> 
+<a href="playextguide">Play Extended Guide</a> 
 </td>
 </tr>
 
@@ -40,13 +40,13 @@ Extended Versions:
 Short Versions:  
 </td> 
 <td>
-<a href="configureshtguide">Configure Guide</a> 
+<a href="configureshtguide">Configure Short Guide</a> 
 </td> 
 <td> 
-<a href="launchshtguide">Launch Guide</a> 
+<a href="launchshtguide">Launch Short Guide</a> 
 </td>
 <td> 
-<a href="playshtguide">Play Guide</a> 
+<a href="playshtguide">Play Short Guide</a> 
 </td>
 </tr>
 </table>
