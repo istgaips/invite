@@ -2,11 +2,17 @@
 <p></p>
 
 
-#### First prototype
+#### Second prototype
 
 <p align="justify">
 
-<a href="guide">Guide</a>
+The prototype of June, 2012 has been released. 
+</p>
+
+
+#### First prototype
+
+<p align="justify">
 
 The first prototype of April, 2012 included the following features: <br></br>
 
@@ -53,8 +59,3 @@ The video below also shows some of the features of the prototype (the video is b
 <div align="center">
 <iframe width="100%" height="480" src="http://www.youtube.com/embed/m3AQwiO8T2A" frameborder="0" allowfullscreen></iframe>
 </div>
-
-<link href="GameConfigurationv0001/GameConfigurationv0001.html" />
-
-<a href="GameConfigurationv0001/GameConfigurationv0001">News</a>
-<a href="GameConfigurationv0001/GameConfigurationv0001.html">News</a>
