@@ -8,8 +8,12 @@
 
 <table width="100%">
 <tr>
-<th><a  href="guide">Configure Guide</a></th>
-<th text-align="right" ><a align="right"  href="guide">End Guide</a></th>
+<td align="right"> 
+I'm in the center! 
+</td> 
+<td align="right"> 
+I'm aligned to the right! 
+</td>
 </tr>
 </table>
 
