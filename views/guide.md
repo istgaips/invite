@@ -2,14 +2,14 @@
 
 <p></p>
 
-<table >
+<table width="100%">
 <tr>
 <td> 
 
 </td> 
 <td> 
 <p align="right">
-<a href="guide">Launch Guide</a> 
+<a href="guide">Launch Guide >> </a> 
 </p>
 </td>
 </tr>
