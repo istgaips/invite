@@ -577,17 +577,13 @@ text-align: center;
     border-style: solid;
 }
 
-.customtable td
-{
-    border-color: #600;
-    border-width: 1px 1px 0 0;
-    border-style: solid;
-    margin: 0;
-    padding: 4px;
-    background-color: #FFC;
-}
 
 
+.customtable { border-collapse: collapse; }
+.customtable th, .pretty-table td { padding: 0.5em; }
+
+.customtable { border: 1px solid #333; }
+.customtable th, .pretty-table td { border: 1px dotted #666; }
 
 
 /* @end */
