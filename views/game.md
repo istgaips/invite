@@ -8,7 +8,7 @@
 
 The prototype of June, 2012 has been released. Use the following link to download the prototype 
 <a href="/dev/InviteJuneRelease.zip">Release Version of June</a> and go to
-<a href="configureextguide">Guides</a> to follow the online guides on how to configure/ launch and play the game. 
+<a href="guides">Guides</a> to follow the online guides on how to configure/ launch and play the game. 
 </p>
 
 
