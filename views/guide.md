@@ -16,6 +16,6 @@
 
 
 
-
+<a href="guide">Short version>> </a>
 <img width="100%" src="images/guides/HowToConfigureExtendedGuide.png" alt=""/>
 
