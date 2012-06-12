@@ -11,7 +11,7 @@
 <td align="right"> 
 I'm in the center! 
 </td> 
-<td align="right"> 
+<td align="left"> 
 I'm aligned to the right! 
 </td>
 </tr>
