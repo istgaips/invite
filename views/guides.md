@@ -5,6 +5,21 @@
 Here follows the list of online guides. 
 
 <table width="100%">
+
+<tr>
+<td>
+</td> 
+<td>
+How to Configure a Game
+</td> 
+<td> 
+How to Launch the Server/Clients
+</td>
+<td> 
+How to Play as a Client
+</td>
+</tr>
+
 <tr>
 <td>
 Extended Versions:  
@@ -35,9 +50,4 @@ Short Versions:
 </td>
 </tr>
 </table>
-
-
-
-<a href="configureshtguide">Short version</a>
-<img width="100%" src="images/guides/HowToConfigureExtendedGuide.png" alt=""/>
 
