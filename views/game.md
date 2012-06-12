@@ -5,6 +5,9 @@
 #### First prototype
 
 <p align="justify">
+
+<a href="guide">Guide</a>
+
 The first prototype of April, 2012 included the following features: <br></br>
 
 - Stand-alone configuration module (desktop application) <br></br>
