@@ -8,10 +8,10 @@
 
 <table width="100%">
 <tr>
-<td align="right"> 
+<td> 
 I'm in the center! 
 </td> 
-<td align="left"> 
+<td align="right"> 
 I'm aligned to the right! 
 </td>
 </tr>
