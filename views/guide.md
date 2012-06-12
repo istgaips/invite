@@ -13,6 +13,10 @@
 </tr>
 </table>
 
+<a  href="guide" align="left">Configure Guide</a>
+<a  href="guide" align="right">Configure Guide</a>
+
+
 
 
 <img width="100%" src="images/guides/HowToConfigureExtendedGuide.png" alt=""/>
