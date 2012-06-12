@@ -6,9 +6,9 @@
 <p></p>
 
 <div width="100%">
-  <a href="guide">Configure Guide</a>
-  <div width="100%"></div>
-  <a href="guide">End Guide</a>
+  <a width="33%" href="guide">Configure Guide</a>
+  <div width="33%"></div>
+  <a width="33%" href="guide">End Guide</a>
 </div>
 
 
