@@ -6,7 +6,7 @@
 <p></p>
 
 
-<table width="100%" style="text-align: right; width: 100%;">
+<table width="100%" style="tablecenter">
 <tr>
 <td> 
 I'm in the center! 
