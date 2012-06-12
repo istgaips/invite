@@ -8,7 +8,7 @@
 </td> 
 <td> 
 <p align="right">
-<a href="launchextguide">Launch Guide >> </a> 
+<a href="launchshtguide">Launch Guide >> </a> 
 </p>
 </td>
 </tr>
@@ -16,6 +16,6 @@
 
 
 
-<a href="configureshtguide">Short version</a>
-<img width="100%" src="images/guides/HowToConfigureExtendedGuide.png" alt=""/>
+<a href="configureextguide">Extended version</a>
+<img width="100%" src="images/guides/HowToConfigureGuide.png" alt=""/>
 
