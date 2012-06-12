@@ -1,10 +1,11 @@
 #Guide
 
 <p></p>
+
 <table >
 <tr>
 <td> 
-I'm in the center! 
+
 </td> 
 <td> 
 <p align="right">
