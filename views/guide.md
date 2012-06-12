@@ -1,7 +1,7 @@
 #Guide
 
-
-<table width="100%">
+<p></p>
+<table >
 <tr>
 <td> 
 I'm in the center! 
