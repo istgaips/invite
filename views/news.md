@@ -13,6 +13,8 @@
      </p>
      <p>A new prototype has been released in <a href="/dev/InviteJuneRelease.zip">Release Version of June</a> with online <a href="guides">Guides</a>. 
      <br></br>
+     <br></br>
+     <br></br>
      </p>
      <p></p>
 </div>
