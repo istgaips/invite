@@ -2,20 +2,16 @@
 
 <p></p>
 
-<table width="100%">
-<tr>
-<td> 
+
+
+<div width="100%">
 <p align="left">
 <a href="launchextguide"><< Launch Guide </a> 
 </p>
-</td> 
-<td> 
 <p align="right">
 <a href="configureextguide">Configure Guide >></a> 
 </p>
-</td>
-</tr>
-</table>
+</div>
 
 
 
