@@ -5,9 +5,6 @@
 Here follows the list of online guides. 
 
 <table width="100%" style="customtable">
-
-
-
 <tr>
 <td>
 Extended Versions:  
@@ -22,18 +19,11 @@ Extended Versions:
 <a href="playextguide" width="200">How to Play (Extended Guide)</a> 
 </td>
 </tr>
+</table>
 
-<tr>
-<td>
-</td> 
-<td>
-</td> 
-<td> 
-</td>
-<td> 
-</td>
-</tr>
+<p></p>
 
+<table width="100%" style="customtable">
 <tr>
 <td>
 Short Versions:  
