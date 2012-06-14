@@ -3,6 +3,20 @@
 
 <p></p> 
 
+
+
+<div class="news alpha">
+     <h4>June Release</h4>
+     <p align="right">June, 2012</p>
+     <p>
+     <img class="logo" hspace="20" vspace="20" src="images/UTexas.jpg" width="150"> </img>
+     </p>
+     <p>A new prototype has been released in <a href="/dev/InviteJuneRelease.zip">Release Version of June</a> with online<a href="guides">Guides</a>. 
+     
+     </p>
+     <p></p>
+</div>
+<p></p>
 <div class="news alpha">
      <h4>5th Project Meeting</h4>
      <p align="right">March, 2012</p>
