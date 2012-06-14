@@ -4,9 +4,7 @@
 
 
 <div width="100%">
-<p align="left">
 <a href="configureextguide"> << Configure Guide</a> 
-</p>
 <p align="right">
 <a href="playextguide">Play Guide >> </a>
 </p>
