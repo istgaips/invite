@@ -4,11 +4,9 @@
 
 
 
-<div width="100%">
+<div width="100%" align="center">
 <a href="configureshtguide">Configure Guide >> </a> 
-<p align="right">
 <a href="playshtguide">Play Guide >> </a> 
-</p>
 </div>
 
 
