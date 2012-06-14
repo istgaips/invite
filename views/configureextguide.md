@@ -2,17 +2,10 @@
 
 <p></p>
 
-<table width="100%">
-<tr>
-<td> 
-</td> 
-<td> 
-<p align="right">
-<a href="launchextguide">Launch Guide >> </a> 
-</p>
-</td>
-</tr>
-</table>
+
+<div width="100%">
+<a href="launchextguide" align="right">Launch Guide >> </a> 
+</div>
 
 
 
