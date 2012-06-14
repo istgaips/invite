@@ -2,17 +2,12 @@
 
 <p></p>
 
-<table width="100%">
-<tr>
-<td> 
-</td> 
-<td> 
+
+<div width="100%">
 <p align="right">
-<a href="launchshtguide">Launch Guide >> </a> 
+<a href="launchshtguide" align="right">Launch Guide >> </a> 
 </p>
-</td>
-</tr>
-</table>
+</div>
 
 
 
