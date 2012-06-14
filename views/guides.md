@@ -39,13 +39,13 @@ Extended Versions:
 Short Versions:  
 </td> 
 <td>
-<a href="configureshtguide">Configure Short Guide</a> 
+<a href="configureshtguide" width="200">How to Configure (Short Guide)</a> 
 </td> 
 <td> 
-<a href="launchshtguide">Launch Short Guide</a> 
+<a href="launchshtguide" width="200"> How to Launch (Short Guide)</a> 
 </td>
 <td> 
-<a href="playshtguide">Play Short Guide</a> 
+<a href="playshtguide" width="200">How to Play (Short Guide)</a> 
 </td>
 </tr>
 </table>
