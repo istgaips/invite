@@ -4,7 +4,7 @@
 
 Here follows the list of online guides. 
 
-<table width="100%" border="3" bordercolor="#c86260" bgcolor="#ffffcc" width="50%" cellspacing="2" cellpadding="3">
+<table width="100%">
 <tr>
 <td>
 Extended Versions:  
