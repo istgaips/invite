@@ -3,7 +3,7 @@
 <p></p>
 
 
-<div width="100%">
+<div>
 <a href="configureextguide"> << Configure Guide</a> 
 <p align="right">
 <a href="playextguide">Play Guide >> </a>
