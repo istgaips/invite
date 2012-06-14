@@ -580,6 +580,11 @@ text-align: center;
 #customtable { border: 1px solid #333; }
 #customtable th, .customtable td { border: 1px dotted #666; }
 
+table, th, td
+{
+border: 1px solid black;
+}
+
 
 /* @end */
 
