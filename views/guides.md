@@ -26,7 +26,7 @@ Extended Versions:
 <table width="100%" style="customtable">
 <tr>
 <td>
-Short Versions:  
+Short Versions:      
 </td> 
 <td>
 <a href="configureshtguide" width="200">How to Configure (Short Guide)</a> 
