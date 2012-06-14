@@ -5,9 +5,7 @@
 
 
 <div width="100%">
-<p align="left">
 <a href="launchextguide"><< Launch Guide </a> 
-</p>
 <p align="right">
 <a href="configureextguide">Configure Guide >></a> 
 </p>
