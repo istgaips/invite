@@ -5,8 +5,8 @@
 
 
 <div width="100%" align="center">
+<a href="launchshtguide"><< Launch Guide</a> 
 <a href="configureshtguide">Configure Guide >> </a> 
-<a href="playshtguide">Play Guide >> </a> 
 </div>
 
 
