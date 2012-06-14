@@ -574,11 +574,11 @@ text-align: center;
 
 
 
-.customtable { border-collapse: collapse; }
-.customtable th, .customtable td { padding: 0.5em; }
+#customtable { border-collapse: collapse; }
+#customtable th, .customtable td { padding: 0.5em; }
 
-.customtable { border: 1px solid #333; }
-.customtable th, .customtable td { border: 1px dotted #666; }
+#customtable { border: 1px solid #333; }
+#customtable th, .customtable td { border: 1px dotted #666; }
 
 
 /* @end */
