@@ -25,13 +25,13 @@ Extended Versions:
 Short Versions:      
 </td> 
 <td>
-<a href="configureshtguide" width="300">How to Configure (Short Guide)    </a> 
+<a href="configureshtguide" width="300">How to Configure     (Short Guide)</a> 
 </td> 
 <td> 
-<a href="launchshtguide" width="300"> How to Launch (Short Guide)</a> 
+<a href="launchshtguide" width="300"> How to Launch     (Short Guide)</a> 
 </td>
 <td> 
-<a href="playshtguide" width="300">How to Play (Short Guide)</a> 
+<a href="playshtguide" width="300">How to Play     (Short Guide)</a> 
 </td>
 </tr>
 </table>
