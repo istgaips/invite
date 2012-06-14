@@ -577,7 +577,7 @@ text-align: center;
 table { border-collapse: collapse; }
 table th, td { padding: 0.5em; }
 
-table { border: 1px solid #333; }
+table { border: 1px solid #dccdc; }
 table th, td { border: 1px dotted #666; }
 
 
