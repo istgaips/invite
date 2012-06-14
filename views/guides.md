@@ -10,32 +10,28 @@ Here follows the list of online guides.
 Extended Versions:  
 </td> 
 <td>
-<a href="configureextguide" width="200"> How to Configure (Extended Guide)</a> 
+<a href="configureextguide" width="300"> How to Configure (Extended Guide)</a> 
 </td> 
 <td> 
-<a href="launchextguide" width="200">How to Launch (Extended Guide)</a> 
+<a href="launchextguide" width="300">How to Launch (Extended Guide)</a> 
 </td>
 <td> 
-<a href="playextguide" width="200">How to Play (Extended Guide)</a> 
+<a href="playextguide" width="300">How to Play (Extended Guide)</a> 
 </td>
 </tr>
-</table>
 
-<p></p>
-
-<table width="100%" style="customtable">
 <tr>
 <td>
 Short Versions:      
 </td> 
 <td>
-<a href="configureshtguide" width="200">How to Configure (Short Guide)</a> 
+<a href="configureshtguide" width="300">How to Configure (Short Guide)</a> 
 </td> 
 <td> 
-<a href="launchshtguide" width="200"> How to Launch (Short Guide)</a> 
+<a href="launchshtguide" width="300"> How to Launch (Short Guide)</a> 
 </td>
 <td> 
-<a href="playshtguide" width="200">How to Play (Short Guide)</a> 
+<a href="playshtguide" width="300">How to Play (Short Guide)</a> 
 </td>
 </tr>
 </table>
