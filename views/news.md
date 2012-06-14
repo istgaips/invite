@@ -9,10 +9,10 @@
      <h4>June Release</h4>
      <p align="right">June, 2012</p>
      <p>
-     <img class="logo" hspace="20" vspace="20" src="images/UTexas.jpg" width="150"> </img>
+     <img class="logo" hspace="20" vspace="20" src="images/screens/001/001.png" width="150"> </img>
      </p>
-     <p>A new prototype has been released in <a href="/dev/InviteJuneRelease.zip">Release Version of June</a> with online<a href="guides">Guides</a>. 
-     
+     <p>A new prototype has been released in <a href="/dev/InviteJuneRelease.zip">Release Version of June</a> with online <a href="guides">Guides</a>. 
+     <br></br>
      </p>
      <p></p>
 </div>
