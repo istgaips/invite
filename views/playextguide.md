@@ -4,11 +4,9 @@
 
 
 
-<div width="100%">
+<div width="100%" align="center">
 <a href="launchextguide"><< Launch Guide </a> 
-<p align="right">
 <a href="configureextguide">Configure Guide >></a> 
-</p>
 </div>
 
 
