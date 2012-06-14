@@ -4,7 +4,9 @@
 
 
 <div width="100%">
+<p align="right">
 <a href="launchextguide" align="right">Launch Guide >> </a> 
+</p>
 </div>
 
 
