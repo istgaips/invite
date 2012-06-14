@@ -3,11 +3,9 @@
 <p></p>
 
 
-<div>
+<div width="100%" align="center">
 <a href="configureextguide"> << Configure Guide</a> 
-<p align="right">
 <a href="playextguide">Play Guide >> </a>
-</p>
 </div>
 
 
