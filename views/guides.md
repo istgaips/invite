@@ -6,32 +6,31 @@ Here follows the list of online guides.
 
 <table width="100%" style="customtable">
 
-<tr>
-<td>
-</td> 
-<td>
-How to Configure a Game
-</td> 
-<td> 
-How to Launch the Server/Clients
-</td>
-<td> 
-How to Play as a Client
-</td>
-</tr>
+
 
 <tr>
 <td>
 Extended Versions:  
 </td> 
 <td>
-<a href="configureextguide">Configure Extended Guide</a> 
+<a href="configureextguide" width="200"> How to Configure (Extended Guide)</a> 
 </td> 
 <td> 
-<a href="launchextguide">Launch Extended Guide</a> 
+<a href="launchextguide" width="200">How to Launch (Extended Guide)</a> 
 </td>
 <td> 
-<a href="playextguide">Play Extended Guide</a> 
+<a href="playextguide" width="200">How to Play (Extended Guide)</a> 
+</td>
+</tr>
+
+<tr>
+<td>
+</td> 
+<td>
+</td> 
+<td> 
+</td>
+<td> 
 </td>
 </tr>
 
