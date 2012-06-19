@@ -27,7 +27,7 @@
      <p>
      <img class="logo" hspace="20" vspace="20" src="images/aamas201202.jpg" width="150"> </img>
      </p>
-     <p>A poster <a href="/documents/AMMASposter.png">Poster of INVITE AAMAS 2012</a> was presented in the proceedings of the Eleventh International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2012).
+     <p>The poster named <a href="/documents/AMMASposter.png">The Role of Social Identity, Rationality and Anticipation in Believable Agents</a> was presented in the proceedings of the Eleventh International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2012).
      <br> </br>
      The conference official website can be found <a href="http://aamas2012.webs.upv.es">Here</a><br></br><br></br>
      </p>
