@@ -38,6 +38,8 @@ Short Versions:
 
 #Gallery
 <p>
+</p>
+<p>
 Here follows some screenshots of the first prototype. Click on the smaller pictures to open the screenshot in the preview window. 
 </p>
 
