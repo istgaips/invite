@@ -1,36 +1,51 @@
-#Game Development
-<p></p>
-
-
-#### Second prototype
-
-<p align="justify">
-
-The prototype of June, 2012 has been released. Use the following link to download the prototype 
-<a href="/dev/InviteJuneRelease.zip">Release Version of June</a> and go to
-<a href="guides">Guides</a> to follow the online guides on how to configure/ launch and play the game. 
+#Downloads
+<p>
 </p>
 
+Download the most updated release here: <a href="/dev/InviteJuneRelease.zip">Release Version of June 2012</a>. 
+
+#Guides
+
+<p></p>
+
+Here follows the list of online guides. 
+
+<table width="100%" id="customtable">
+<tr>
+<td>
+Extended Versions:  
+</td> 
+<td>
+<a href="configureextguide" width="300"> How to Configure (Extended Guide)</a> 
+</td> 
+<td> 
+<a href="launchextguide" width="300">How to Launch (Extended Guide)</a> 
+</td>
+<td> 
+<a href="playextguide" width="300">How to Play (Extended Guide)</a> 
+</td>
+</tr>
+
+<tr>
+<td>
+Short Versions:      
+</td> 
+<td>
+<a href="configureshtguide" width="300">How to Configure     (Short Guide)</a> 
+</td> 
+<td> 
+<a href="launchshtguide" width="300"> How to Launch     (Short Guide)</a> 
+</td>
+<td> 
+<a href="playshtguide" width="300">How to Play     (Short Guide)</a> 
+</td>
+</tr>
+</table>
 
 
-#### First prototype
 
-<p align="justify">
-
-The first prototype of April, 2012 included the following features: <br></br>
-
-- Stand-alone configuration module (desktop application) <br></br>
-&nbsp;&nbsp;&nbsp;&nbsp;- Creation of configuration file (xml) via console interaction <br></br>
-	
-- Server module (Unity + ION) <br></br>
-&nbsp;&nbsp;&nbsp;&nbsp;- Configuration by the upload of a configuration file (xml) <br></br>
-&nbsp;&nbsp;&nbsp;&nbsp;- Visualization of the game environment <br></br>
-	
-- Player module (Unity + ION) <br></br>
-&nbsp;&nbsp;&nbsp;&nbsp;- Login of players <br></br>
-&nbsp;&nbsp;&nbsp;&nbsp;- Visualization of the game environment <br></br>
-&nbsp;&nbsp;&nbsp;&nbsp;- Movement of players in the island (camp and harvesting site) <br></br>
-&nbsp;&nbsp;&nbsp;&nbsp;- Mini-game for collection of wood/ gold pellets <br></br>
+#Gallery
+<p>
 </p>
 <p>
 Here follows some screenshots of the first prototype. Click on the smaller pictures to open the screenshot in the preview window. 
@@ -62,3 +77,4 @@ The video below also shows some of the features of the prototype (the video is b
 <div align="center">
 <iframe width="100%" height="480" src="http://www.youtube.com/embed/m3AQwiO8T2A" frameborder="0" allowfullscreen></iframe>
 </div>
+
