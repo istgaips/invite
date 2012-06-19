@@ -2,7 +2,7 @@
 <p>
 </p>
 
-<a href="/dev/InviteJuneRelease.zip">Release Version of June 2012</a> 
+Download the most updated release here <a href="/dev/InviteJuneRelease.zip">Release Version of June 2012</a> 
 
 #Guides
 
