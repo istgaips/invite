@@ -20,6 +20,20 @@
      <p></p>
 </div>
 <p></p>
+
+<div class="news alpha">
+     <h4>Poster Presentation in AAMAS2012</h4>
+     <p align="right">June, 2012</p>
+     <p>
+     <img class="logo" hspace="20" vspace="20" src="images/aamas201202.jpg" width="150"> </img>
+     </p>
+     <p>A poster was presented in the proceedings of the Eleventh International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2012).
+     <br> </br>
+     The conference official website can be found <a href="http://aamas2012.webs.upv.es">Here</a><br></br><br></br>
+     </p>
+</div>
+<p></p>
+
 <div class="news alpha">
      <h4>5th Project Meeting</h4>
      <p align="right">March, 2012</p>
