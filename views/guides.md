@@ -1,4 +1,4 @@
-#Releases
+#Downloads
 <p>
 </p>
 
