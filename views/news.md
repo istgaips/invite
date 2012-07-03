@@ -11,8 +11,9 @@
      <p>
      <img class="logo" hspace="20" vspace="20" src="images/screens/001/001.png" width="150"> </img>
      </p>
-     <p>A new prototype has been released in <a href="/dev/InviteJulyRelease.zip">Release Version of July</a> with online <a href="game">Guides</a>. 
-     <p>The prototype is available for Windows platform only.</p>
+     <p>A new prototype has been released in <a href="/dev/InviteJulyRelease.zip">Release Version of July</a> 
+     with online <a href="game">Guides</a>. 
+     The prototype is available for Windows platform only.
      <br></br>
      <br></br>
      <br></br>
