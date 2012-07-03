@@ -11,9 +11,8 @@
      <p>
      <img class="logo" hspace="20" vspace="20" src="images/screens/001/001.png" width="150"> </img>
      </p>
-     <p>A new prototype has been released in <a href="/dev/InviteJulyRelease.zip">Release Version of July</a> 
-     with online <a href="game">Guides</a>. 
-     The prototype is available for Windows platform only.
+     <p>A new prototype has been released. Download the 
+     <a href="/dev/InviteJulyRelease.zip">Release Version of July</a> and <a href="/dev/HowToGuidesJuly2012.zip">Guides</a>. 
      <br></br>
      <br></br>
      <br></br>
@@ -29,7 +28,8 @@
      <p>
      <img class="logo" hspace="20" vspace="20" src="images/screens/001/001.png" width="150"> </img>
      </p>
-     <p>A new prototype has been released in <a href="/dev/InviteJuneRelease.zip">Release Version of June</a> with online <a href="game">Guides</a>. 
+     <p>A new prototype has been released. Download the 
+     <a href="/dev/InviteJuneRelease.zip">Release Version of June</a> and <a href="/dev/HowToGuidesJune2012.zip">Guides</a>. 
      <br></br>
      <br></br>
      <br></br>
