@@ -13,6 +13,7 @@
      </p>
      <p>A new prototype has been released. Download the 
      <a href="/dev/InviteJulyRelease.zip">Release Version of July</a> and <a href="/dev/HowToGuidesJuly2012.zip">Guides</a>. 
+     The release is available only to the Windows platform. 
      <br></br>
      <br></br>
      <br></br>
@@ -30,7 +31,7 @@
      </p>
      <p>A new prototype has been released. Download the 
      <a href="/dev/InviteJuneRelease.zip">Release Version of June</a> and <a href="/dev/HowToGuidesJune2012.zip">Guides</a>. 
-     <br></br>
+     The release is available only to the Windows platform. <br></br>
      <br></br>
      <br></br>
      <br></br>
