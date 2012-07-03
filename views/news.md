@@ -7,6 +7,22 @@
 
 <div class="news alpha">
      <h4>Game Release</h4>
+     <p align="right">July, 2012</p>
+     <p>
+     <img class="logo" hspace="20" vspace="20" src="images/screens/001/001.png" width="150"> </img>
+     </p>
+     <p>A new prototype has been released in <a href="/dev/InviteJulyRelease.zip">Release Version of July</a> with online <a href="game">Guides</a>. 
+     <br></br>
+     <br></br>
+     <br></br>
+     <br></br>
+     </p>
+     <p></p>
+</div>
+<p></p>
+
+<div class="news alpha">
+     <h4>Game Release</h4>
      <p align="right">June, 2012</p>
      <p>
      <img class="logo" hspace="20" vspace="20" src="images/screens/001/001.png" width="150"> </img>
