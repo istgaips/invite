@@ -40,7 +40,7 @@ human-like behavior). For that, agents should be able to:
 Please download <a href="/documents/INVITEmonofolha.pdf">Monosheet</a> for a brief project description. A poster of the project can also be found at <a href="/documents/AMMASposter.png">AAMAS 2012 Poster</a>.  
 
 <p></p>
-<p>/p>
+<p></p>
 ## Research
 ####Introduction
 <p align="justify">
