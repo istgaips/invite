@@ -1,7 +1,4 @@
-#Team
-<p></p>
-## Partners
-<p></p>
+#Team - Partners
 
 <p></p>
 Project INVITE involves the collaboration of several international organizations, namely:  
@@ -83,9 +80,9 @@ improve its practice in a variety of relationships.
 
 
 
-<p></p>
-
-##People
+<p></p> 
+# Team - People
+<p></p> 
 Project INVITE involves the collaboration of several researchers:  
 
 <p></p>
