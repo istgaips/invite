@@ -86,6 +86,7 @@ improve its practice in a variety of relationships.
 <p></p>
 
 ##People
+Project INVITE involves the collaboration of several researchers:  
 
 <p></p>
 #### Rui Prada (INESC-ID)
