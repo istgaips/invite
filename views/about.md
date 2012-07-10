@@ -37,7 +37,7 @@ human-like behavior). For that, agents should be able to:
     positioned in the social groups, but it also includes building expectations
     about they strategies and plans. 
 
-Please download <a href="/documents/INVITEmonofolha.pdf">Monosheet</a> for a brief project description. A poster of the project can also be found at <a href="/documents/AMMASposter.png">AAMAS 2012 Poster</a>.  
+Download <a href="/documents/INVITEmonofolha.pdf">Monosheet</a> for a brief project description. A poster can also be found at <a href="/documents/AMMASposter.png">AAMAS 2012 Poster</a>.  
 
 <p></p>
 <p></p>
