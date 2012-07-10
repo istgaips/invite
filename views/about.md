@@ -41,8 +41,11 @@ Please download <a href="/documents/INVITEmonofolha.pdf">Monosheet</a> for a bri
 
 <p></p>
 <p></p>
+
 ## Research
-####Introduction
+
+#### Introduction
+
 <p align="justify">
 Agents that interact in complex social situations need to take the social 
 situation in consideration in order to perform believably.
