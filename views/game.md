@@ -1,10 +1,11 @@
-#Downloads
+#Game
+##Downloads
 <p>
 </p>
 
 Download the most updated release here: <a href="/dev/InviteJulyRelease.zip">Release Version of July 2012</a>. 
 
-#Guides
+##Guides
 
 <p></p>
 
@@ -44,7 +45,7 @@ Short Versions:
 
 
 
-#Gallery
+##Gallery
 <p>
 </p>
 <p>
