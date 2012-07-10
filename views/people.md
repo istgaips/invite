@@ -1,6 +1,8 @@
 #Team
-
+<p></p>
 ## Partners
+<p></p>
+
 <p></p>
 Project INVITE involves the collaboration of several international organizations, namely:  
 
@@ -81,8 +83,10 @@ improve its practice in a variety of relationships.
 
 
 
+<p></p>
 
 ##People
+
 <p></p>
 #### Rui Prada (INESC-ID)
 <span class="logo">
