@@ -5,7 +5,7 @@
 
 <div class="news alpha">
      <h4>6th Project Meeting</h4>
-     <p align="right">September, 2012</p>
+     <p align="right">October, 2012</p>
      <p>
      <img class="logo" hspace="20" vspace="20" src="images/ISTTagus.jpg" width="150"> </img>
      </p>
