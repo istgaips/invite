@@ -4,6 +4,19 @@
 <p></p> 
 
 <div class="news alpha">
+     <h4>6th Project Meeting</h4>
+     <p align="right">September, 2011</p>
+     <p>
+     <img class="logo" hspace="20" vspace="20" src="images/ISTTagus.jpg" width="150"> </img>
+     </p>
+     <p>The sixth project meeting took place in Oeiras at IST-Taguspark, Portugal. <br></br>
+     The discussion was centered in the new game prototype and future research steps.</p>
+     <p></p>
+     <p></p>
+</div>
+<p></p>
+
+<div class="news alpha">
      <h4>Open Day</h4>
      <p align="right">September, 2012</p>
      <p>
