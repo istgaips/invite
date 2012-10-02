@@ -7,7 +7,7 @@
      <h4>Open Day</h4>
      <p align="right">September, 2012</p>
      <p>
-     <img class="logo" hspace="20" vspace="20" src="images/screens/001/001.png" width="150"> </img>
+     <img class="logo" hspace="20" vspace="20" src="images/island001.png" width="150"> </img>
      </p>
      <p>
      A demo of our game was shown to the general public, on the 1st institutional OpenDay organized by INESC-ID.
