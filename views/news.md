@@ -11,6 +11,7 @@
      </p>
      <p>The sixth project meeting took place in Oeiras at IST-Taguspark, Portugal. <br></br>
      The discussion was centered in the new game prototype and future research steps.</p>
+     The meeting's agenda is available <a href="/documents/INVITE-OeirasMeeting2012-Agenda.pdf">Here</a>.  
      <p></p>
      <p></p>
 </div>
