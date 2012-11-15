@@ -26,7 +26,7 @@
      The discussion was centered in the new game prototype and future research steps.<br></br>
      The meeting's agenda is available <a href="/documents/INVITE-OeirasMeeting2012-Agenda.pdf">Here</a>.  
      </p>
-     <p></p>
+     <p></p> 
      <p></p>
 </div>
 <p></p>
