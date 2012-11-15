@@ -10,6 +10,7 @@
      <img class="logo" hspace="20" vspace="20" src="images/futureplaces.jpg" width="150"> </img>
      </p>
      <p>INVITE project presentation on Futureplaces 2012 took place in Porto, Portugal.
+     
      </p>
      <p></p>
      <p></p>
