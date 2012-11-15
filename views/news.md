@@ -4,6 +4,19 @@
 <p></p> 
 
 <div class="news alpha">
+     <h4>Futureplaces</h4>
+     <p align="right">October, 2012</p>
+     <p>
+     <img class="logo" hspace="20" vspace="20" src="images/futureplaces.jpg" width="150"> </img>
+     </p>
+     <p>INVITE project presentation on Futureplaces 2012 took place in Porto, Portugal.
+     </p>
+     <p></p>
+     <p></p>
+</div>
+<p></p>
+
+<div class="news alpha">
      <h4>6th Project Meeting</h4>
      <p align="right">October, 2012</p>
      <p>
