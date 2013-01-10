@@ -50,6 +50,7 @@ Short Versions:
 ##Gallery
 <p>
 </p>
+### Second prototype
 <p>
 Here follows some screenshots of the second prototype. Click on the smaller pictures to open the screenshot in the preview window. 
 </p>
@@ -57,7 +58,7 @@ Here follows some screenshots of the second prototype. Click on the smaller pict
 <div class="thumbnails" align="center">
 <img src="images/screens/002/001.png" alt=""  / onClick="changeImage(1);"></a>
 <img src="images/screens/002/003.png" alt=""  / onClick="changeImage(2);"></a>
-<img src="images/screens/002/007.png" alt=""  / onClick="changeImage(3);"></a>
+<img src="images/screens/002/005.png" alt=""  / onClick="changeImage(3);"></a>
 </div>
 <div class="thumbnails" align="center">
 <img src="images/screens/002/004.png" alt=""  / onClick="changeImage(4);"></a>
@@ -67,7 +68,7 @@ Here follows some screenshots of the second prototype. Click on the smaller pict
 <div id="bigimages" align="center">
         <img id="normal1" src="images/screens/002/001.png" alt=""/>
         <img id="normal2" src="images/screens/002/003.png" alt=""/>
-        <img id="normal3" src="images/screens/002/007.png" alt=""/>
+        <img id="normal3" src="images/screens/002/005.png" alt=""/>
         <img id="normal4" src="images/screens/002/004.png" alt=""/>
         <img id="normal5" src="images/screens/002/006.png" alt=""/>
         <img id="normal6" src="images/screens/002/002.png" alt=""/>
@@ -80,6 +81,9 @@ The video below also shows some of the features of the prototype (the video is b
 <div align="center">
 <iframe width="100%" height="480" src="http://www.youtube.com/embed/U6LMbwoezoE" frameborder="0" allowfullscreen></iframe>
 </div>
+<p>
+</p>
+### First prototype
 <p>
 Here follows some screenshots of the first prototype. Click on the smaller pictures to open the screenshot in the preview window. 
 </p>
