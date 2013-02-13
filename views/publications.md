@@ -3,6 +3,18 @@
 Here follows the updated list of current publications. 
 
 <span class="logo">
+  <img src="images/aamas2013.png" alt="" />
+</span>
+
+Joana Dimas, Rui Prada. “You are who you hang out with: Agents with Dynamic Identity”
+to be published in the proceedings of AAMAS’2013 - 12th Int. Conf. on
+Autonomous Agents and Multiagent Systems (AAMAS 2013), IFAAMAS
+<br/><a href="http://aamas2013.webs.upv.es/">Conference Site</a>
+<a href="/documents/articleaamas2013.pdf">Download Article</a>
+<a href="/documents/refarticleaamas2013.rtf">Download Bibtex</a>
+
+
+<span class="logo">
   <img src="images/aamas2012.png" alt="" />
 </span>
 
