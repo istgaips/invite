@@ -3,7 +3,7 @@
 Here follows the updated list of current publications. 
 
 <span class="logo">
-  <img src="images/aamas2013.png" width="248" alt="" />
+  <img src="images/aamas2013.png" width="190" alt="" />
 </span>
 
 Joana Dimas, Rui Prada. “You are who you hang out with: Agents with Dynamic Identity”
