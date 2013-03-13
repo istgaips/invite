@@ -306,7 +306,16 @@ He is currently pursuing an MSc degree in the areas of Intelligent Systems and S
 His main interests are Game Development, Artificial Intelligence and Game Physics.
 
 
+### Phil Lopes
+<span class="logo">
+  <img src="images/phil.jpg" alt="" ><br></br><span class="logo"></br>
+</span></img>
+</span>
 
+
+Phil Lopes has a BSc in Computer Science and a MSc in Computer Knowledge and Interaction from the Faculty of Science of the University of Lisbon, where his master thesis involved the creation of new ways of generating and interacting with music compositions. 
+
+He is currently working with Professor Rui Prada in artificial intelligence and procedural content generation for games. His main interests are Game Development, Generative Music, Genetic Algorithms, Artificial Life and Artificial Intelligence.
 
 
 
