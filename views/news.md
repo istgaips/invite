@@ -11,7 +11,7 @@
      </p>
      <p>The paper "Dynamic Identity Model for Agents" accepted in the 14th International Workshop on Multi-Agent-Based Simulation.
      <br> </br>
-     The conference official website of the workshop can be found <a href="https://sites.google.com/site/mabsworkshop/">Here</a><br></br><br></br>
+     The official website of the workshop can be found <a href="https://sites.google.com/site/mabsworkshop/">Here</a><br></br><br></br>
      </p>
 </div>
 <p></p>
