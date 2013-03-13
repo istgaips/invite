@@ -2,6 +2,20 @@
 <p></p>
 Here follows the updated list of current publications. 
 
+Dimas, Joana, and Rui Prada. 2013. “Dynamic Identity Model for Agents” In To Appear in Proceedings of the MABS 2013 - 14th International Workshop on Multi-Agent-Based Simulation.<br/><a href="http://aamas2013.cs.umn.edu/">Conference Site</a>
+<a href="/documents/refarticlemabs2013.rtf">Download Bibtex</a>
+
+
+<span class="logo">
+  <img src="images/aamas2013.png" width="190" alt="" />
+</span>
+
+Pereira, Gonçalo, Rui Prada, and Pedro A. Santos. 2013.
+“Bases of Social Power for Agents.” In To Appear in Proceedings of the 12th International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2013).
+<br/><a href="http://aamas2013.cs.umn.edu/">Conference Site</a>
+<a href="/documents/refarticleaamas2013b.rtf">Download Bibtex</a>
+
+
 <span class="logo">
   <img src="images/aamas2013.png" width="190" alt="" />
 </span>
@@ -10,7 +24,6 @@ Joana Dimas, Rui Prada. “You are who you hang out with: Agents with Dynamic Id
 to be published in the proceedings of AAMAS’2013 - 12th Int. Conf. on
 Autonomous Agents and Multiagent Systems (AAMAS 2013), IFAAMAS
 <br/><a href="http://aamas2013.cs.umn.edu/">Conference Site</a>
-<a href="/documents/articleaamas2013.pdf">Download Article</a>
 <a href="/documents/refarticleaamas2013.rtf">Download Bibtex</a>
 
 
