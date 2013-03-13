@@ -306,9 +306,9 @@ He is currently pursuing an MSc degree in the areas of Intelligent Systems and S
 His main interests are Game Development, Artificial Intelligence and Game Physics.
 
 
-### Phil Lopes
+#### Phil Lopes
 <span class="logo">
-  <img src="images/phil.jpg" alt="" ><br></br><span class="logo"></br>
+  <img width="105" src="images/phil.jpg" alt="" ><br></br><span class="logo"></br>
 </span></img>
 </span>
 
