@@ -9,8 +9,8 @@
      <p>
      <img class="logo" hspace="20" vspace="20" src="images/aamas2013sh.png" width="150"> </img>
      </p>
-     <p>The paper "You are who you hang out with: Agents with Dynamic Identity" 
-     was accepted as an Extended Abstract for publication in the proceedings of the 
+     <p>The papers "You are who you hang out with: Agents with Dynamic Identity" and "Bases of Social Power for Agents."
+     were accepted as Extended Abstracts for publication in the proceedings of the 
      Eleventh International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2012).
      <br> </br>
      The conference official website can be found <a href="http://aamas2013.cs.umn.edu/">Here</a><br></br><br></br>
