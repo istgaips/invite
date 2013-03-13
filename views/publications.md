@@ -3,8 +3,8 @@
 Here follows the updated list of current publications. 
 
 Dimas, Joana, and Rui Prada. 2013. “Dynamic Identity Model for Agents” In To Appear in Proceedings of the MABS 2013 - 14th International Workshop on Multi-Agent-Based Simulation.<br/>
+<br/><a href="https://sites.google.com/site/mabsworkshop/">Workshop Site</a>
 <a href="/documents/refarticlemabs2013.rtf">Download Bibtex</a>
-
 
 <span class="logo">
   <img src="images/aamas2013.png" width="190" alt="" />
