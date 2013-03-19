@@ -250,7 +250,6 @@ working as a research assistant in IST under the supervision of Prof. Pedro Sant
 
 
 She is interested in game theory and mathematical finance. 
- <a href="http://gaips.inesc-id.pt/gpreto">More Information</a>
 <p></p>
 <p></p>
 
