@@ -1,4 +1,4 @@
-#Team - Partners
+﻿#Team - Partners
 
 <p></p>
 Project INVITE involves the collaboration of several international organizations, namely:  
@@ -236,6 +236,23 @@ She is interested in game theory, economics, social dilemmas, simulation and rat
  <a href="http://gaips.inesc-id.pt/mbaptista">More Information</a>
 <p></p>
 <p></p>
+
+#### Guida Preto (IST)
+<span class="logo">
+  <img src="images/guida.png" alt="" ><br></br><span class="logo"></br>
+ 
+</span></img>
+</span>
+
+Guida Preto is graduated in Mathematics and is currently 
+working as a research assistant in INESC-ID under the supervision of Prof. Pedro Santos.
+
+She is interested in game theory and mathematical finance. 
+ <a href="http://gaips.inesc-id.pt/gpreto">More Information</a>
+<p></p>
+<p></p>
+
+
 
 #### Hugo Damas (IST)
 <span class="logo">
