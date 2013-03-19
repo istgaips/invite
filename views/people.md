@@ -239,7 +239,7 @@ She is interested in game theory, economics, social dilemmas, simulation and rat
 
 #### Guida Preto (IST)
 <span class="logo">
-  <img src="images/guida.png" alt="" ><br></br><span class="logo"></br>
+  <img src="images/guida1.png" alt="" ><br></br><span class="logo"></br>
  
 </span></img>
 </span>
