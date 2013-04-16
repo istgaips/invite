@@ -1,4 +1,4 @@
-# Partners
+﻿# Partners
 <p></p>
 Project INVITE involves the collaboration of several international organizations, namely:  
 
