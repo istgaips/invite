@@ -346,10 +346,11 @@ His main interests are Game Development, Artificial Intelligence and Game Physic
 
 #### André Loureiro (IST)
 <span class="logo">
-  <img src="images/jgalvao.png" alt="" />
+  <img src="images/.png" alt="" />
 </span>
 
 
-He is currently pursuing an MSc degree in the areas of Intelligent Systems and Software Engineering, working with Professor Rui Prada in his Master Thesis regarding the subject of Trust Relationships in Virtual Agents.
-His main interests are Game Development, Artificial Intelligence and Game Physics.
+
+
+
 
