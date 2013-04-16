@@ -252,7 +252,6 @@ She is interested in game theory and mathematical finance.
 <p></p>
 
 
-
 #### Hugo Damas (IST)
 <span class="logo">
   <img width="105" src="images/hdamas.jpg" alt="" ><br></br><span class="logo"></br>
@@ -264,6 +263,29 @@ Hugo Damas has a MSc degree in Information Systems and Computer Engineering at I
 In his MSc thesis he designed and developed an A.I. (AutoBroad) for a real time automatic broadcasting system which could assist with the live broadcasting of E-Sports. 
 
 His main interests are video-game development (developed five video-games focusing on gameplay and AI/Camera programming) and writing. 
+
+
+
+#### Phil Lopes (IST)
+<span class="logo">
+  <img width="105" src="images/phil.jpg" alt="" ><br></br><span class="logo"></br>
+</span></img>
+</span>
+
+
+Phil Lopes has a BSc in Computer Science and a MSc in Computer Knowledge and Interaction from the Faculty of Science of the University of Lisbon, where his master thesis involved the creation of new ways of generating and interacting with music compositions. 
+
+He is currently working with Professor Rui Prada in artificial intelligence and procedural content generation for games. His main interests are Game Development, Generative Music, Genetic Algorithms, Artificial Life and Artificial Intelligence.
+
+
+
+
+
+
+
+
+<p></p> 
+Project INVITE involves the collaboration of several students:
 
 
 #### Alexandre Barata (IST)
@@ -322,16 +344,9 @@ He is currently pursuing an MSc degree in the areas of Intelligent Systems and S
 His main interests are Game Development, Artificial Intelligence and Game Physics.
 
 
-#### Phil Lopes (IST)
+#### André Loureiro (IST)
 <span class="logo">
-  <img width="105" src="images/phil.jpg" alt="" ><br></br><span class="logo"></br>
-</span></img>
+  <img src="images/davidg.png" alt="" />
 </span>
-
-
-Phil Lopes has a BSc in Computer Science and a MSc in Computer Knowledge and Interaction from the Faculty of Science of the University of Lisbon, where his master thesis involved the creation of new ways of generating and interacting with music compositions. 
-
-He is currently working with Professor Rui Prada in artificial intelligence and procedural content generation for games. His main interests are Game Development, Generative Music, Genetic Algorithms, Artificial Life and Artificial Intelligence.
-
 
 
