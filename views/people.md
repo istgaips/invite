@@ -222,7 +222,7 @@ He is currently pursuing a PhD in Information Systems and Computer Engineering a
 <a href="http://gaips.inesc-id.pt/graimundo">More Information</a><p></p>
 <p></p>
 
-#### Márcia Baptista (IST)
+#### Márcia Baptista (IST) - Former Member
 <span class="logo">
   <img src="images/marcia.png" alt="" ><br></br><span class="logo"></br>
  
@@ -278,6 +278,25 @@ Phil Lopes has a BSc in Computer Science and a MSc in Computer Knowledge and Int
 He is currently working with Professor Rui Prada in artificial intelligence and procedural content generation for games. His main interests are Game Development, Generative Music, Genetic Algorithms, Artificial Life and Artificial Intelligence.
 
 
+
+#### Kate Blackburn (University of Texas at Austin)
+<span class="logo">
+  <img width="105" src="images/.jpg" alt="" ><br></br><span class="logo"></br>
+</span></img>
+</span>
+
+#### Matt Morris (University of Texas at Austin)
+<span class="logo">
+  <img width="105" src="images/.jpg" alt="" ><br></br><span class="logo"></br>
+</span></img>
+</span>
+
+
+#### Nick Brody (University of Texas at Austin)
+<span class="logo">
+  <img width="105" src="images/.jpg" alt="" ><br></br><span class="logo"></br>
+</span></img>
+</span>
 
 
 
