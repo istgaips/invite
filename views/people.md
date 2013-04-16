@@ -285,7 +285,7 @@ He is currently working with Professor Rui Prada in artificial intelligence and 
 
 
 <p></p> 
-Project INVITE involves the collaboration of several students:
+Project INVITE also involves the collaboration of several students:
 
 
 #### Alexandre Barata (IST)
@@ -346,7 +346,7 @@ His main interests are Game Development, Artificial Intelligence and Game Physic
 
 #### André Loureiro (IST)
 <span class="logo">
-  <img src="images/davidg.png" alt="" />
+  <img src="images/andre.png" alt="" />
 </span>
 
 
