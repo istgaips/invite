@@ -1,0 +1,399 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+  <head>
+		<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+		<title>Project INVITE</title>
+		<link type="text/css" rel="stylesheet" href="css/css-reset.css" />
+		<link type="text/css" rel="stylesheet" href="css/layout-960.css" />
+		<link type="text/css" rel="stylesheet" href="css/invite-style.css" />
+    <link href='http://fonts.googleapis.com/css?family=Voltaire' rel='stylesheet' type='text/css'>
+		<script type="text/javascript" src="js/jquery-1.5.1.min.js"></script>
+		<script type="text/javascript" src="js/jquery.cycle.min.js"></script>
+		<script type="text/javascript" src="js/application.js"></script>
+	</head>
+	<body>
+		<div id="page-wrapper" class="container_12">
+			<div class="backgrounds">
+				<div class="hex"></div>
+				<div class="triangle"></div>
+				<div class="highlight"></div>
+			</div>
+			<div id="header">
+				<a href="/" id="logo">
+					<img src="images/logo3.png" alt="" />
+				</a>
+				<ul id="menu" class="push_2 c12">
+					<li class="divider"><a href="/">Home</a></li>
+					<li class="divider"><a href="about">About</a></li>
+					<li class="divider"><a href="people">Team</a></li>
+					<li class="divider"><a href="news">News</a></li>
+					<li class="divider"><a href="game">Game</a></li>
+					<li class="divider"><a href="publications">Publications</a></li>
+					<li class="divider"><a href="contacts">Contacts</a></li>
+				</ul>
+			</div>
+			<div id="content-wrapper" class="c10 push_2 omega">
+        <h1>Team - Partners</h1>
+
+<p></p>
+
+<p>Project INVITE involves the collaboration of several international organizations, namely:  </p>
+
+<div class="news alpha">
+     <h4>INESC-ID</h4>
+     <p></br>
+            <img class="logo" src="images/logo_inesc.png" width="20%"> </img>
+            </p>
+        <p>INESC-ID is a Research Institute in Portugal (Computer Engineering). 
+        <br/>Location: Av. Prof. Cavaco Silva, Tagus Park, 2744-016 Porto Salvo, Portugal (Lisbon Location)
+        <br/>Website: http://www.inesc-id.pt/
+        <br/>
+        <br/><br/>
+        </p>
+        <a href="http://www.inesc-id.pt/">Visit Website</a>
+</div>
+
+<p></p>
+
+<div class="news alpha">
+     <h4>GAIPS</h4></br>
+        <p></br>
+            <img class="logo" src="images/gaips.jpg" width="13%"> </img>
+            </p>
+        <p>GAIPS is the INESC-ID research group on Intelligent Agents and Synthetic Characters. 
+        <br/>Location: Av. Prof. Cavaco Silva, Tagus Park, 2744-016 Porto Salvo, Portugal
+        <br/>Website: http://gaips.inesc-id.pt
+        <br/>
+        <br/>
+        </p>
+        <a href="http://gaips.inesc-id.pt">Visit Website</a>
+</div>
+
+<p></p>
+
+<div class="news alpha">
+     <h4>CEAF at Instituto Superior Técnico</h4>
+        <p>
+            </br>
+            <img class="logo" src="images/logo_ist.jpg" width="8%"> </img>
+            </p>
+        <p>The Center for Functional Analysis and Applications-CEAF is aimed at developing
+research in the area of Functional Analysis keeping in view applications to
+other areas of Mathematics and also to Physics and Engineering.
+        <br/>Location: Av. Rovisco Pais, 1049-001 Lisboa, Portugal
+        <br/>Website: http://ceaf.ist.utl.pt/contacts
+        <br/>
+        <br/>
+        <p></p>
+        </p>
+        <a href="http://ceaf.ist.utl.pt/contacts">Visit Website</a>
+</div>
+
+<p></p>
+
+<div class="news alpha">
+     <h4>College of Communication at University of Texas (Austin)</h4></br>
+        <p>The University of Texas at Austin is a comprehensive university with a
+broad mission of undergraduate and graduate education, research, and service to
+society. The College of Communication seeks to understand communication and to
+improve its practice in a variety of relationships.
+        <br/>Location: The University of Texas at Austin, Department of Communication Studies, 1 University Station A1105, Austin, TX 78712-0115, USA
+        <br/>Website: http://commstudies.utexas.edu/
+        <img class="logo" src="images/texas.gif" width="40%""> </img>
+        <br/>
+        <br/><br/>
+        </p>
+        <a href="http://commstudies.utexas.edu/">Visit Website</a>
+</div>
+
+<p></p>
+
+<div class="news alpha">
+     <h4>PDM&FC</h4></br>
+     <p></br></br>
+            <img class="logo" src="images/logo_pdm.png"> </img></p>
+        <p>PDM&FC is a Portuguese IT Company specialized in remote monitoring, cloud computing, system auditing, mobile applications, web portals and web design. 
+        <br/>Location: Av. Conde Valbom, N. 30, Piso 3, 1050-068 Lisboa Portugal
+        <br/>Website: http://www.pdmfc.com/
+        <br/>
+        <br/><br/>
+        </p>
+        <a href="http://www.pdmfc.com/">Visit Website</a>
+</div>
+
+<p></p> 
+
+<h2>Team - People</h2>
+
+<p></p> 
+
+<p>Project INVITE involves the collaboration of several researchers:  </p>
+
+<p></p>
+
+<h4>Rui Prada (INESC-ID)</h4>
+
+<p><span class="logo">
+  <img src="images/rui.png" alt=""><br></br><span class="logo"></br>
+</span></img>
+</span></p>
+
+<p>Rui Prada currently an assistant professor at the Computer Science
+Department of Instituto Superior Técnico – Technical University of
+Lisbon (IST-UTL), where he teaches courses on User Centred Design,
+Social Intelligent Agents and Game Design and Development. 
+Is a senior researcher at INESC-ID, member of GAIPS, Intelligent Agents and Synthetic Character Group.</p>
+
+<p>His research interests are on social intelligence of virtual agents and its
+application to games. The current research focus is on social power and
+social identification as means to achieve believability in complex
+social situations and on the use of online platforms, such as Facebook
+and OpenSimulator, for serious gaming.  </p>
+
+<p>He is currently the
+vice-president of the SPCVideojogos (Sociedade Portuguesa de Ciências
+dos Videojogos). <a href="http://gaips.inesc-id.pt/rprada">More Information</a></p>
+
+<h4>Carlos Martinho (INESC-ID)</h4>
+
+<p><span class="logo">
+  <img src="images/carlos.png" alt="" ><br></br><span class="logo"></br>
+</span></img>
+</span></p>
+
+<p>Carlos Martinho is an Assistant Professor at the Department of Computer Science and
+Engineering of Instituto Superior Técnico from the Technical University
+of Lisbon and a member of GAIPS, Intelligent Agents and Synthetic
+Character Group at INESC-ID.</p>
+
+<p>At Instituto Superior Técnico, Carlos Martinho has been helping
+educating Engineers, Masters and Doctors since 1996. His teachings cover
+subjects such as computer graphics, human-computer interaction, game
+design and technology, and artificial life.</p>
+
+<p>At GAIPS, since its foundation, he works at the frontier between
+computer graphics and artificial intelligence, building agent-based
+synthetic characters, using approaches from several subfield of
+artificial intelligence such as anticipatory computing, affective
+computing and artificial life.<a href="http://gaips.inesc-id.pt/cmartinho">More Information</a></p>
+
+<h4>Pedro Santos (IST/INESC-ID)</h4>
+
+<p><span class="logo">
+  <img src="images/pedro.png" alt="" ><br></br><span class="logo"></br>
+</span></img>
+</span></p>
+
+<p>Pedro Alexandre Simões dos Santos is Assistant Professor in the
+Mathematics Department of Instituto Superior Técnico – Technical
+University of Lisbon (IST-UTL). He is a member of CEAF (Center for
+Functional Analysis and Applications) and an Associated Researcher at
+INESC-ID.</p>
+
+<p>He teaches at IST since the last milenium, having started as Teaching
+Assistant (Monitor) in 1989. Since then, he has taught from Calculus and
+Linear Algebra to advanced Operator Algebra courses to Game Design and
+Development courses.</p>
+
+<p>His numerous scientific interests include Operator Theory, Artificial
+Inteligence, Game Theory, Game Design and History.<a href="http://gaips.inesc-id.pt/psantos">More Information</a></p>
+
+<h4>Jorge F. Peña (University of Austin TEXAS)</h4>
+
+<p><span class="logo">
+    <img src="images/jorge.png" alt="" ><br></br><span class="logo"></br>
+</span></img>
+</span></p>
+
+<p>Dr. Pena examines the cognitive, emotional and behavioral foundations of
+computer-mediated interaction. He is interested in how people
+communicate and develop impressions when interacting through
+recreational and instrumental technologies (video games, email, instant
+messenger, etc.). </p>
+
+<p>His most recent work looks at how priming users with
+social stereotypes through uniforms and roles facilitates non-conscious
+responses in virtual contexts. Dr. Pena employs experiments and content
+analysis as primary research tools.<a href="http://www.utexas.edu/opa/experts/profile.php?id=1098">More Information</a></p>
+
+<h4>Luís Landeiro Ribeiro (PDM&amp;FC)</h4>
+
+<p><span class="logo">
+    <img src="images/luis.png" alt="" />
+</span></p>
+
+<p>Has built and now co-founded a Massive Multiplayer Online Browser Game called Almansur <a href="http://www.almansur.net">http://www.almansur.net</a> with some friends.
+Since that inception has largely left the enterprise world behind and drunk the startup spirit kool-aid, 
+started a large evangelization on his day job company @ <a href="http://www.pdmfc.com">http://www.pdmfc.com</a> to get everybody up to speed with the lastest piece of tech. 
+Since 2005 has been pushing for Ruby On Rails, Git, Coffescript, JQuery (the list seams to go on forever) and lean development techniques as a replacement for the old arts our company used to built upon.</p>
+
+<p>As a technical evangelist his day job gets him to explore all kinds of
+cool stuff, from building and SMS gateway in mirah
+<a href="http://www.mirah.org">http://www.mirah.org</a> for android, testing jruby head and Openjdk 1.7
+invokedynamic patches to extract every once of performance from our game
+engine, integrating RoR apps into a Liferay corporate portal and
+seamlessly integrate them through SSO.</p>
+
+<p>More recently, has been focused on improving web applications to
+leverage on the HTML5 goodies, exploring canvas, offline storage,
+javascript frameworks (underscore.js, backbone.js, sproutcore) along the
+way, this normally includes sleepless nights debugging some weird edge
+case on some weird browser (read IE9) and trying to get performance up
+to a reasonable level. </p>
+
+<p>Though ruby continues to be a great love affair,
+finds himself slipping into scala or golang more often when in need of good
+performance or for highly concurrent apps.</p>
+
+<h4>Joana Dimas (INESC-ID)</h4>
+
+<p><span class="logo">
+  <img src="images/joana.png" alt="" ><br></br><span class="logo"></br>
+</span></img>
+</span></p>
+
+<p>Joana Dimas is graduated in Social Psychology and is currently doing a
+PhD in Information Systems and Computer Engineering under the
+supervision of Prof. Rui Prada.</p>
+
+<p>She is interested in game design, player experience, emotion in games
+and cognitive science.<a href="http://gaips.inesc-id.pt/jdimas">More Information</a>
+<p></p>
+<p></p></p>
+
+<h4>Guilherme Raimundo (INESC-ID)</h4>
+
+<p><span class="logo">
+    <img src="images/guilherme.png" alt="" ><br></br><span class="logo"></br>
+</span></img>
+</span></p>
+
+<p>Guilherme Raimundo is a research assistant at INESC-ID with interests on plan recognition, intelligent agents and machine learning.</p>
+
+<p>He is currently pursuing a PhD in Information Systems and Computer Engineering at IST under the supervision of Professor Carlos Martinho on the topic of Plan Recognition and Personality.
+<a href="http://gaips.inesc-id.pt/graimundo">More Information</a><p></p>
+<p></p></p>
+
+<h4>Márcia Baptista (IST)</h4>
+
+<p><span class="logo">
+  <img src="images/marcia.png" alt="" ><br></br><span class="logo"></br></p>
+
+<p></span></img>
+</span></p>
+
+<p>Márcia Baptista graduated in Information Systems and Computer Engineering and is currently 
+working as a research assistant in IST under the supervision of Prof. Pedro Santos.</p>
+
+<p>She is interested in game theory, economics, social dilemmas, simulation and rational choice theory. 
+ <a href="http://gaips.inesc-id.pt/mbaptista">More Information</a>
+<p></p>
+<p></p></p>
+
+<h4>Guida Preto (IST)</h4>
+
+<p><span class="logo">
+  <img src="images/guida1.png" alt="" ><br></br><span class="logo"></br></p>
+
+<p></span></img>
+</span></p>
+
+<p>Guida Preto is graduated in Mathematics and is currently 
+working as a research assistant in IST under the supervision of Prof. Pedro Santos.</p>
+
+<p>She is interested in game theory and mathematical finance. 
+<p></p>
+<p></p></p>
+
+<h4>Hugo Damas (IST)</h4>
+
+<p><span class="logo">
+  <img width="105" src="images/hdamas.jpg" alt="" ><br></br><span class="logo"></br>
+</span></img>
+</span></p>
+
+<p>Hugo Damas has a MSc degree in Information Systems and Computer Engineering at IST.</p>
+
+<p>In his MSc thesis he designed and developed an A.I. (AutoBroad) for a real time automatic broadcasting system which could assist with the live broadcasting of E-Sports. </p>
+
+<p>His main interests are video-game development (developed five video-games focusing on gameplay and AI/Camera programming) and writing. </p>
+
+<h4>Alexandre Barata (IST)</h4>
+
+<p><span class="logo">
+    <img src="images/alexandre.png" alt="" />
+</span></p>
+
+<p>Alexandre Barata is currently finishing his MSC in Information
+Systems and Computer Engineering, having developed Almansur&#39;s <a href="http://www.almansur.net">http://www.almansur.net</a> 
+AI player system as his MSC thesis under the supervision of Prof. Pedro Santos,
+Prof. Rui Prada and Luís Landeiro Ribeiro.</p>
+
+<p>Has recently presented an article on AIIDE 2011
+discussing the creation of AI systems and all details surrounding
+it.</p>
+
+<h4>Bruno Antunes (IST)</h4>
+
+<p><span class="logo">
+    <img src="images/bruno.png" alt="" />
+</span></p>
+
+<p>Bruno Antunes has completed his Degree (BSc) in Information Systems
+and Computer Engineering at IST.</p>
+
+<p>He is currently pursuing a Master Degree (MSc) in Information Systems
+and Computer Engineering at IST under the supervision of Professor
+Carlos Martinho and Professor Rui Prada on the topic of Social
+Identity and Intergroup Relations.</p>
+
+<p>He is mainly interested in systems that use AI to simulate Human
+behaviour and reactions. He is also interested in distributed systems
+and all the related problems.</p>
+
+<h4>David Gonçalves (IST)</h4>
+
+<p><span class="logo">
+  <img src="images/davidg.png" alt="" />
+</span></p>
+
+<p>David Gonçalves has completed his BSc degree in Information Systems and Computer Engineering at IST.
+Currently he&#39;s aiming to attain his MSc degree in the areas of Multimedia Systems (major) and Software Engineering (minor), working under the supervision of Professor Carlos Martinho
+and Professor Rui Prada on the field of Suggestion of Social Identity Through Visual Clues.</p>
+
+<p>He is mostly interested in the topics related to game design and development, from concept to implementation.</p>
+
+<p>David is interested in software engineering, artificial inteligence and building better, faster, smarter systems in general.</p>
+
+<h4>Jorge Galvão (IST)</h4>
+
+<p><span class="logo">
+  <img src="images/jgalvao.png" alt="" ><br></br><span class="logo"></br>
+</span></img>
+</span></p>
+
+<p>Jorge Galvão has a BSc degree in Information Systems and Computer Engineering at IST.</p>
+
+<p>He is currently pursuing an MSc degree in the areas of Intelligent Systems and Software Engineering, working with Professor Rui Prada in his Master Thesis regarding the subject of Trust Relationships in Virtual Agents.
+His main interests are Game Development, Artificial Intelligence and Game Physics.</p>
+
+<h4>Phil Lopes (IST)</h4>
+
+<p><span class="logo">
+  <img width="105" src="images/phil.jpg" alt="" ><br></br><span class="logo"></br>
+</span></img>
+</span></p>
+
+<p>Phil Lopes has a BSc in Computer Science and a MSc in Computer Knowledge and Interaction from the Faculty of Science of the University of Lisbon, where his master thesis involved the creation of new ways of generating and interacting with music compositions. </p>
+
+<p>He is currently working with Professor Rui Prada in artificial intelligence and procedural content generation for games. His main interests are Game Development, Generative Music, Genetic Algorithms, Artificial Life and Artificial Intelligence.</p>
+
+			</div>
+			<div id="footer-wrapper">
+				<div class="footer">
+					<span class="copy">&copy; INVITE - Social Identity and Partnership in Virtual Environments</span>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>
