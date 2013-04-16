@@ -346,7 +346,7 @@ His main interests are Game Development, Artificial Intelligence and Game Physic
 
 #### André Loureiro (IST)
 <span class="logo">
-  <img src="images/andre.png" alt="" />
+  <img src="images/jgalvao.png" alt="" />
 </span>
 
 
