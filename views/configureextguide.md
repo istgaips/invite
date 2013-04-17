@@ -1,16 +1,7 @@
-#Guide - How to Configure
+#Guide - How to Setup
 
 <p></p>
 
-
-<div width="100%">
-<p align="right">
-<a href="launchextguide" align="right">Launch Guide >> </a> 
-</p>
-</div>
-
-
-
-<a href="configureshtguide">Short version</a>
-<img width="100%" src="images/guides/HowToConfigureExtendedGuide.png" alt=""/>
+<a href="setupguide">Short version</a>
+<img width="100%" src="images/guides/HowToSetupGuide.png" alt=""/>
 

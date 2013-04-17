@@ -20,13 +20,11 @@ Here follows the online guides.
  
 </td> 
 <td>
-<a href="configureextguide" width="100"> How to Setup </a> 
+<a href="setupguide" width="100"> How to Setup </a> 
 </td> 
 <td> 
 <a href="playextguide" width="100">How to Play </a> 
 </td>
-
-
 
 --> 
 
@@ -102,6 +100,8 @@ The video below also shows some of the features of the prototype (the video is b
 <div align="center">
 <iframe width="100%" height="480" src="http://www.youtube.com/embed/m3AQwiO8T2A" frameborder="0" allowfullscreen></iframe>
 </div>
+<p>
+</p>
 
 --> 
 
