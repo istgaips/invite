@@ -1,10 +1,21 @@
-#Publications
+﻿#Publications
+
 <p></p>
+
 Here follows the updated list of current publications. 
 
 <span class="logo">
   <img src="images/aamas2013.png" width="190" alt="" />
 </span>
+
+@inproceedings{dimas2013one,
+       title = {One for all, all for one: Agents with social identities},
+       booktitle = {To appear in Proceedings of the CogSci 2013 -
+35th Annual Conference of the Cognitive Science Society},
+       author = {Dimas, Joana and Lopes, Phil and Prada, Rui},
+       year = {2013}
+}
+
 
 Joana Dimas and Rui Prada. 2013. “Dynamic Identity Model for Agents” to appear in Proceedings of the MABS 2013 - 14th International Workshop on Multi-Agent-Based Simulation.<br/>
 <a href="https://sites.google.com/site/mabsworkshop/">Workshop Site</a>
