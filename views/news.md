@@ -8,9 +8,9 @@
      <p>
      <img class="logo" hspace="20" vspace="20" src="images/aamas2013sh.png" width="150"> </img>
      </p>
-     The paper "Dynamic Identity Model for Agents" accepted in the 14th International Workshop on Multi-Agent-Based Simulation.
+     <p>The paper "Dynamic Identity Model for Agents" accepted in the 14th International Workshop on Multi-Agent-Based Simulation.
      <br> </br>
-     The official website of the workshop can be found <a href="https://sites.google.com/site/mabsworkshop/">Here</a><br></br><br></br><br></br><br></br>
+     The official website of the workshop can be found <a href="https://sites.google.com/site/mabsworkshop/">Here</a><br></br></p>
 </div>
 
 <p></p>
