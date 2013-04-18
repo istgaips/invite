@@ -308,7 +308,7 @@ He is currently working with Professor Rui Prada in artificial intelligence and 
 
 #### Nick Brody (University of Austin TEXAS)
 <span class="logo">
-<img src="images/brody.jpg" alt="" ><br></br><span class="logo"></br>
+<img width="105" src="images/brody.jpg" alt="" ><br></br><span class="logo"></br>
 </span></img>
 </span>
 
