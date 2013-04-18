@@ -266,7 +266,7 @@ His scientific interests include Game Theory and Mathematical Finance.
 
 #### Hugo Damas (IST)
 <span class="logo">
-<img src="images/hdamas.jpg" alt="" ><br></br><span class="logo"></br>
+<img width="105" src="images/hdamas.jpg" alt="" ><br></br><span class="logo"></br>
 </span></img>
 </span>
 
@@ -278,7 +278,7 @@ His main interests are video-game development (developed five video-games focusi
 
 #### Phil Lopes (IST)
 <span class="logo">
-<img src="images/phil.jpg" alt="" ><br></br><span class="logo"></br>
+<img width="105" src="images/phil.jpg" alt="" ><br></br><span class="logo"></br>
 </span></img>
 </span>
 
