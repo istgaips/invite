@@ -50,7 +50,7 @@ other areas of Mathematics and also to Physics and Engineering.
 </div>
 <p></p>
 <div class="news alpha">
-     <h4>College of Communication at University of Texas (Austin)</h4></br>
+     <h4> College of Communication at University of Texas (Austin)</h4></br>
 	    <p>The University of Texas at Austin is a comprehensive university with a
 broad mission of undergraduate and graduate education, research, and service to
 society. The College of Communication seeks to understand communication and to
