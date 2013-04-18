@@ -281,9 +281,9 @@ He is currently working with Professor Rui Prada in artificial intelligence and 
 
 #### Kate Blackburn (University of Texas at Austin)
 <span class="logo">
-  <img src="images/.jpg" alt="" ><br></br><span class="logo"></br>
-</span></img>
+  <img src="images/davidg.png" alt="" />
 </span>
+
 
 #### Matt Morris (University of Texas at Austin)
 <span class="logo">
@@ -365,7 +365,8 @@ His main interests are Game Development, Artificial Intelligence and Game Physic
 
 #### André Loureiro (IST)
 <span class="logo">
-  <img src="images/.png" alt="" />
+  <img src="images/.png" alt="" ><br></br><span class="logo"></br>
+</span></img>
 </span>
 
 
