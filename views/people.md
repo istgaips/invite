@@ -257,7 +257,7 @@ She is interested in game theory, economics, social dilemmas, simulation and rat
 </span>
 
 Guida Preto is graduated in Mathematics and is currently 
-working as a research assistant in INESC-ID under the supervision of Prof. Pedro Santos.
+working as a research assistant under the supervision of Prof. Pedro Santos.
 
 His scientific interests include Game Theory and Mathematical Finance. 
 <p></p>
@@ -308,11 +308,19 @@ He is currently working with Professor Rui Prada in artificial intelligence and 
 
 #### Nick Brody (University of Austin TEXAS)
 <span class="logo">
-<img src="images/.png" alt="" ><br></br><span class="logo"></br>
+<img src="images/brody.jpg" alt="" ><br></br><span class="logo"></br>
 </span></img>
 </span>
 
-***************************
+
+Nicholas Brody is a doctoral candidate at the Department of
+Communication Studies at the University of Texas at Austin. His
+research
+examines the interplay of mediated communication, technology, and
+personal relationships. He received his M.A. in Communication at
+Arizona State University, and his B.S. in Communication Studies at The
+University of Texas at Austin. He will join the faculty of the
+University of Puget Sound in Fall, 2013.
 <p></p>
  
 Project INVITE also involves the collaboration of several students:
