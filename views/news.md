@@ -15,6 +15,8 @@ The paper "Dynamic Identity Model for Agents" accepted in the 14th International
      </p>
 </div>
 
+<p></p>
+
 <div class="news alpha">
      <h4>Papers Acceptance in AAMAS2013</h4>
      <p align="right">December, 2012</p>
@@ -38,7 +40,9 @@ The paper "Dynamic Identity Model for Agents" accepted in the 14th International
      <p>
      <img class="logo" hspace="20" vspace="20" src="images/futureplaces.jpg" width="150"> </img>
      </p>
+     <p>
      INVITE project presentation on Futureplaces 2012 took place in Porto, Portugal.
+     </p>
 </div>
 
 <p></p>
@@ -49,9 +53,11 @@ The paper "Dynamic Identity Model for Agents" accepted in the 14th International
      <p>
      <img class="logo" hspace="20" vspace="20" src="images/ISTTagus.jpg" width="150"> </img>
      </p>
+     <p>
      The sixth project meeting took place in Oeiras at IST-Taguspark, Portugal. <br></br>
      The discussion was centered in the new game prototype and future research steps.<br></br>
      The meeting's agenda is available <a href="/documents/INVITE-OeirasMeeting2012-Agenda.pdf">Here</a>.  
+     </p>
 </div>
 
 <p></p>
@@ -62,8 +68,10 @@ The paper "Dynamic Identity Model for Agents" accepted in the 14th International
      <p>
      <img class="logo" hspace="20" vspace="20" src="images/island001.png" width="150"> </img>
      </p>
+     <p>
      A demo of our game was shown to the general public, on the 1st institutional OpenDay organized by INESC-ID.
      <br></br>
+     </p>
 </div>
 
 <p></p>
@@ -74,10 +82,12 @@ The paper "Dynamic Identity Model for Agents" accepted in the 14th International
      <p>
      <img class="logo" hspace="20" vspace="20" src="images/screens/001/001.png" width="150"> </img>
      </p>
+     <p>
      A new prototype has been released. Download the 
      <a href="/dev/InviteJulyRelease.zip">Release Version of July</a> and <a href="/dev/HowToGuidesJuly2012.zip">Guides</a>. 
      The release is available only to the Windows platform. 
      <br></br>
+     </p>
 </div>
 
 <p></p>
@@ -88,10 +98,12 @@ The paper "Dynamic Identity Model for Agents" accepted in the 14th International
      <p>
      <img class="logo" hspace="20" vspace="20" src="images/screens/001/001.png" width="150"> </img>
      </p>
-     <p>A new prototype has been released. Download the 
+     <p>
+     A new prototype has been released. Download the 
      <a href="/dev/InviteJuneRelease.zip">Release Version of June</a> and <a href="/dev/HowToGuidesJune2012.zip">Guides</a>. 
      The release is available only to the Windows platform. 
      <br></br>
+     </p>
 </div>
 
 <p></p>
@@ -102,9 +114,11 @@ The paper "Dynamic Identity Model for Agents" accepted in the 14th International
      <p>
      <img class="logo" hspace="20" vspace="20" src="images/aamas201202.jpg" width="150"> </img>
      </p>
+     <p>
      The poster named <a href="/documents/AMMASposter.png">The Role of Social Identity, Rationality and Anticipation in Believable Agents</a> was presented in the proceedings of the Eleventh International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2012).
      <br> </br>
      The conference official website can be found <a href="http://aamas2012.webs.upv.es">Here</a><br></br>
+     </p>
 </div>
 
 <p></p>
@@ -115,8 +129,10 @@ The paper "Dynamic Identity Model for Agents" accepted in the 14th International
      <p>
      <img class="logo" hspace="20" vspace="20" src="images/UTexas.jpg" width="150"> </img>
      </p>
-     <p>The fifth project meeting took place in the University of Austin, Texas, USA, where was discussed the general state of the project and the progress and course of each task. <br></br>
+     <p>
+     The fifth project meeting took place in the University of Austin, Texas, USA, where was discussed the general state of the project and the progress and course of each task. <br></br>
      It was also made an evaluation of the current prototype with some users.<br></br>
+     <\p>
 </div>
 
 <p></p>
@@ -127,8 +143,10 @@ The paper "Dynamic Identity Model for Agents" accepted in the 14th International
      <p>
      <img class="logo" hspace="20" vspace="20" src="images/monofolha002.png" width="150"> </img>
      </p>
+     <p>
      A monosheet was created for the project summarizing the major research topics and project aim.<br></br>
      The sheet can be downloaded from <a href="/documents/INVITEmonofolha.pdf">Here</a>
+     </p>
 </div>
 
 <p></p>
@@ -139,9 +157,11 @@ The paper "Dynamic Identity Model for Agents" accepted in the 14th International
      <p>
      <img class="logo" hspace="20" vspace="20" src="images/aamas201202.jpg" width="150"> </img>
      </p>
+     <p>
      The paper "The Role of Social Identity, Rationality and Anticipation in Believable Agents" was accepted as an Extended Abstract for publication in the proceedings of the Eleventh International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2012).
      <br> </br>
      The conference official website can be found <a href="http://aamas2012.webs.upv.es">Here</a><br></br>
+     </p>
 </div>
 
 <p></p>
@@ -152,10 +172,12 @@ The paper "Dynamic Identity Model for Agents" accepted in the 14th International
      <p>
      <img class="logo" hspace="20" vspace="20" src="images/vj201102.jpg" width="150"> </img>
      </p>
+     <p>
      The paper "A Videogame to study Social Dilemmas and Social Identity" was accepted as Work in Progress for publication in the proceedings of the Fourth Anual Conference Videojogos 2011. 
      <br></br>
      The conference official website can be found <a href="http://www.dcc.fc.up.pt/~videojogos2011/">Here</a><br></br>
      The VJ2011 paper can also be downloaded <a href="/documents/ArtigoVJ2011.pdf">Here</a>
+     </p>
 </div>
 
 <p></p>
@@ -166,8 +188,10 @@ The paper "Dynamic Identity Model for Agents" accepted in the 14th International
      <p>
      <img class="logo" hspace="20" vspace="20" src="images/ISTTagus.jpg" width="150"> </img>
      </p>
+     <p>
      The fourth project meeting took place in Oeiras at IST-Taguspark, Portugal. <br></br>
      The discussion was centered in the formal design of the first game scenario.
+     </p>
 </div>
 
 <p></p>
@@ -178,6 +202,7 @@ The paper "Dynamic Identity Model for Agents" accepted in the 14th International
      <p>
      <img class="logo" hspace="20" vspace="20" src="images/ISTTagus.jpg" width="150"> </img>
      </p>
+     <p>
      A project meeting was held in Oeiras at IST-Taguspark, Portugal. <br></br>
      It's focal points were: <br></br>
      - the review of the project progress; <br></br>
@@ -185,6 +210,7 @@ The paper "Dynamic Identity Model for Agents" accepted in the 14th International
      - design of the game base scenario and satellite scenarios; <br></br>
      - management of the INVITE website; <br></br>
      - discussion of other open issues.<br></br><br></br>
+     </p>
 </div>
 
 <p></p>
@@ -195,8 +221,10 @@ The paper "Dynamic Identity Model for Agents" accepted in the 14th International
      <p>
      <img class="logo" hspace="20" vspace="20" src="images/colabsquare001.png" width="150"> </img>
      </p>
+     <p>
      INVITE was selected for the R&D Project Highlight in the June issue of the CoLab Square Newsletter.<br></br>
      The newsletter can be found <a href="http://utaustinportugal.org/newsletters/CoLab-newsletter-2011.06.pdf">Here</a>
+     </p>
 </div>
 
 <p></p>
@@ -207,8 +235,10 @@ The paper "Dynamic Identity Model for Agents" accepted in the 14th International
      <p>
      <img class="logo" hspace="20" vspace="20" src="images/UTexas.jpg" width="150"> </img>
      </p>
+     <p>
      The second project meeting took place in the University of Austin, Texas, USA. <br></br>
      The discussion was centered in the project requirements.
+     </p>
 </div>
 
 <p></p>
@@ -219,8 +249,10 @@ The paper "Dynamic Identity Model for Agents" accepted in the 14th International
      <p>
      <img class="logo" hspace="20" vspace="20" src="images/ISTTagus.jpg" width="150"> </img>
      </p>
+     <p>
      A project meeting was held in Oeiras at IST-Taguspark, Portugal. <br></br>
      The project overview was discussed, as well as the tasks, possible scenarios, evaluation and milestones.
+     </p>
 </div>
 
 <p></p>
