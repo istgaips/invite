@@ -4,7 +4,7 @@
 
 <div class="news alpha">
      <h4>Paper Acceptance in MABS Workshop</h4>
-     <p align="right">March, 2013</p>
+     <p>align="right">March, 2013</p>
      <p>
      <img class="logo" hspace="20" vspace="20" src="images/aamas2013sh.png" width="150"> </img>
      </p>
