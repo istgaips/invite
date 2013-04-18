@@ -323,7 +323,7 @@ University of Texas at Austin. He will join the faculty of the
 University of Puget Sound in Fall, 2013.
 <p></p>
 
-<p></p>
+<br/>
  
 <b> Project INVITE also involves the collaboration of several students: </b>
 
