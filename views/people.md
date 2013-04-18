@@ -403,6 +403,21 @@ His main interests are Game Development, Artificial Intelligence and Game Physic
 
 <p></p>
 
+#### Gonçalo Pereira (INESC-ID)
+<span class="logo">
+<img width="105" src="images/goncalo.jpg" alt="" ><br></br><span class="logo"></br>
+</span></img>
+</span>
+
+Gonçalo Pereira obtained his MsC in Information Systems and Computer
+Engineering in 2009 with a dissertation on adaptive map generation for
+turn based strategic multiplayer browser games. In 2010 he started his
+current PhD studies at the Intelligent Agents and Synthetic Characters
+Group from INESC-ID in Portugal. His focus is the concept of social
+power, its dynamics and how to integrate those in socially intelligent
+virtual agents.
+
+<p></p>
 
 
 
