@@ -294,6 +294,7 @@ He is currently working with Professor Rui Prada in artificial intelligence and 
 </span></img>
 </span>
 
+***************************
 <p></p>
 
 #### Matt Morris (University of Austin TEXAS)
@@ -302,6 +303,7 @@ He is currently working with Professor Rui Prada in artificial intelligence and 
 </span></img>
 </span>
 
+***************************
 <p></p>
 
 #### Nick Brody (University of Austin TEXAS)
@@ -310,6 +312,7 @@ He is currently working with Professor Rui Prada in artificial intelligence and 
 </span></img>
 </span>
 
+***************************
 <p></p>
  
 Project INVITE also involves the collaboration of several students:
