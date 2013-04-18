@@ -2,7 +2,7 @@
 
 <p></p>
 
-Project INVITE involves the collaboration of several international organizations, namely:  
+<b> Project INVITE involves the collaboration of several international organizations, namely: </b>
 
 <div class="news alpha">
      <h4>INESC-ID</h4>
@@ -325,7 +325,7 @@ University of Puget Sound in Fall, 2013.
 
 <p></p>
  
-Project INVITE also involves the collaboration of several students:
+<b> Project INVITE also involves the collaboration of several students: </b>
 
 <p></p>
 
