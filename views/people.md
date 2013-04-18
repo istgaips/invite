@@ -247,73 +247,74 @@ Márcia Baptista graduated in Information Systems and Computer Engineering and i
 working as a research assistant in INESC-ID under the supervision of Prof. Pedro Santos.
 
 She is interested in game theory, economics, social dilemmas, simulation and rational choice theory. 
- <a href="http://gaips.inesc-id.pt/mbaptista">More Information</a>
+<a href="http://gaips.inesc-id.pt/mbaptista">More Information</a>
 <p></p>
 
 #### Guida Preto (IST)
 <span class="logo">
-  <img src="images/guida1.png" alt="" ><br></br><span class="logo"></br>
- 
+<img src="images/guida1.png" alt="" ><br></br><span class="logo"></br>
 </span></img>
 </span>
 
 Guida Preto is graduated in Mathematics and is currently 
 working as a research assistant in INESC-ID under the supervision of Prof. Pedro Santos.
 
-She is interested in game theory and mathematical finance. 
+His scientific interests include Game Theory and Mathematical Finance. 
 <p></p>
-<p></p>
+
 
 
 #### Hugo Damas (IST)
 <span class="logo">
-  <img width="105" src="images/hdamas.jpg" alt="" ><br></br><span class="logo"></br>
+<img src="images/hdamas.jpg" alt="" ><br></br><span class="logo"></br>
 </span></img>
 </span>
 
 Hugo Damas has a MSc degree in Information Systems and Computer Engineering at IST.
-
 In his MSc thesis he designed and developed an A.I. (AutoBroad) for a real time automatic broadcasting system which could assist with the live broadcasting of E-Sports. 
-
 His main interests are video-game development (developed five video-games focusing on gameplay and AI/Camera programming) and writing. 
-
+<p></p>
 
 
 #### Phil Lopes (IST)
 <span class="logo">
-  <img width="105" src="images/phil.jpg" alt="" ><br></br><span class="logo"></br>
+<img src="images/phil.jpg" alt="" ><br></br><span class="logo"></br>
 </span></img>
 </span>
 
 
 Phil Lopes has a BSc in Computer Science and a MSc in Computer Knowledge and Interaction from the Faculty of Science of the University of Lisbon, where his master thesis involved the creation of new ways of generating and interacting with music compositions. 
-
 He is currently working with Professor Rui Prada in artificial intelligence and procedural content generation for games. His main interests are Game Development, Generative Music, Genetic Algorithms, Artificial Life and Artificial Intelligence.
+<p></p>
 
 
-
-#### Kate Blackburn (University of Texas at Austin)
+#### Kate Blackburn (University of Austin TEXAS)
 <span class="logo">
-  <img src="images/davidg.png" alt="" />
-</span>
-
-
-#### Matt Morris (University of Texas at Austin)
-<span class="logo">
-  <img src="images/.jpg" alt="" ><br></br><span class="logo"></br>
+<img src="images/.png" alt="" ><br></br><span class="logo"></br>
 </span></img>
 </span>
 
+<p></p>
 
-#### Nick Brody (University of Texas at Austin)
+#### Matt Morris (University of Austin TEXAS)
 <span class="logo">
-  <img src="images/.jpg" alt="" ><br></br><span class="logo"></br>
+<img src="images/.png" alt="" ><br></br><span class="logo"></br>
 </span></img>
 </span>
 
-<p></p> 
+<p></p>
+
+#### Nick Brody (University of Austin TEXAS)
+<span class="logo">
+<img src="images/.png" alt="" ><br></br><span class="logo"></br>
+</span></img>
+</span>
+
+<p></p>
+ 
 Project INVITE also involves the collaboration of several students:
 
+<p></p>
 
 #### Alexandre Barata (IST)
 <span class="logo">
