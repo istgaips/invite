@@ -321,7 +321,8 @@ Project INVITE also involves the collaboration of several students:
 
 #### Alexandre Barata (IST)
 <span class="logo">
-	<img src="images/alexandre.png" alt="" />
+<img src="images/alexandre.png" alt="" ><br></br><span class="logo"></br>
+</span></img>
 </span>
 
 Alexandre Barata is currently finishing his MSC in Information
@@ -333,9 +334,12 @@ Has recently presented an article on AIIDE 2011
 discussing the creation of AI systems and all details surrounding
 it.
 
+<p></p>
+
 #### Bruno Antunes (IST)
 <span class="logo">
-	<img src="images/bruno.png" alt="" />
+<img src="images/bruno.png" alt="" ><br></br><span class="logo"></br>
+</span></img>
 </span>
 
 Bruno Antunes has completed his Degree (BSc) in Information Systems
@@ -350,9 +354,12 @@ He is mainly interested in systems that use AI to simulate Human
 behaviour and reactions. He is also interested in distributed systems
 and all the related problems.
 
+<p></p>
+
 #### David Gonçalves (IST)
 <span class="logo">
-  <img src="images/davidg.png" alt="" />
+<img src="images/davidg.png" alt="" ><br></br><span class="logo"></br>
+</span></img>
 </span>
 
 David Gonçalves has completed his BSc degree in Information Systems and Computer Engineering at IST.
@@ -363,9 +370,11 @@ He is mostly interested in the topics related to game design and development, fr
 
 David is interested in software engineering, artificial inteligence and building better, faster, smarter systems in general.
 
+<p></p>
+
 #### Jorge Galvão (IST)
 <span class="logo">
-  <img src="images/jgalvao.png" alt="" ><br></br><span class="logo"></br>
+<img src="images/jgalvao.png" alt="" ><br></br><span class="logo"></br>
 </span></img>
 </span>
 
@@ -374,12 +383,15 @@ Jorge Galvão has a BSc degree in Information Systems and Computer Engineering a
 He is currently pursuing an MSc degree in the areas of Intelligent Systems and Software Engineering, working with Professor Rui Prada in his Master Thesis regarding the subject of Trust Relationships in Virtual Agents.
 His main interests are Game Development, Artificial Intelligence and Game Physics.
 
+<p></p>
 
 #### André Loureiro (IST)
 <span class="logo">
-  <img src="images/.png" alt="" ><br></br><span class="logo"></br>
+<img src="images/.png" alt="" ><br></br><span class="logo"></br>
 </span></img>
 </span>
+
+<p></p>
 
 
 
