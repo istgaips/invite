@@ -4,16 +4,16 @@
 
 <div class="news alpha">
      <h4>Paper Acceptance in MABS Workshop</h4>
-     <p>align="right">March, 2013</p>
+     <p align="right">March, 2013</p>
      <p>
      <img class="logo" hspace="20" vspace="20" src="images/aamas2013sh.png" width="150"> </img>
      </p>
-     <p>The paper "Dynamic Identity Model for Agents" accepted in the 14th International Workshop on Multi-Agent-Based Simulation.
+     <p>
+The paper "Dynamic Identity Model for Agents" accepted in the 14th International Workshop on Multi-Agent-Based Simulation.
      <br> </br>
-     The official website of the workshop can be found <a href="https://sites.google.com/site/mabsworkshop/">Here</a><br></br></p>
+     The official website of the workshop can be found <a href="https://sites.google.com/site/mabsworkshop/">Here</a><br></br>
+     </p>
 </div>
-
-<p></p>
 
 <div class="news alpha">
      <h4>Papers Acceptance in AAMAS2013</h4>
@@ -21,11 +21,13 @@
      <p>
      <img class="logo" hspace="20" vspace="20" src="images/aamas2013sh.png" width="150"> </img>
      </p>
-     <p>The papers "You are who you hang out with: Agents with Dynamic Identity" and "Bases of Social Power for Agents."
+     <p>
+     The papers "You are who you hang out with: Agents with Dynamic Identity" and "Bases of Social Power for Agents."
      were accepted as Extended Abstracts for publication in the proceedings of the 
      Eleventh International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2012).
      <br> </br>
      The conference official website can be found <a href="http://aamas2013.cs.umn.edu/">Here</a><br></br>
+     </p>
 </div>
 
 <p></p>
