@@ -281,20 +281,20 @@ He is currently working with Professor Rui Prada in artificial intelligence and 
 
 #### Kate Blackburn (University of Texas at Austin)
 <span class="logo">
-  <img width="105" src="images/.jpg" alt="" ><br></br><span class="logo"></br>
+  <img src="images/.jpg" alt="" ><br></br><span class="logo"></br>
 </span></img>
 </span>
 
 #### Matt Morris (University of Texas at Austin)
 <span class="logo">
-  <img width="105" src="images/.jpg" alt="" ><br></br><span class="logo"></br>
+  <img src="images/.jpg" alt="" ><br></br><span class="logo"></br>
 </span></img>
 </span>
 
 
 #### Nick Brody (University of Texas at Austin)
 <span class="logo">
-  <img width="105" src="images/.jpg" alt="" ><br></br><span class="logo"></br>
+  <img src="images/.jpg" alt="" ><br></br><span class="logo"></br>
 </span></img>
 </span>
 
