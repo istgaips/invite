@@ -401,6 +401,8 @@ His main interests are Game Development, Artificial Intelligence and Game Physic
 </span></img>
 </span>
 
+
+***************************
 <p></p>
 
 #### Gonçalo Pereira (INESC-ID)
