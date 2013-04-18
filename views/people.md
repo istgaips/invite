@@ -1,6 +1,7 @@
 ﻿#Team - Partners
 
 <p></p>
+
 Project INVITE involves the collaboration of several international organizations, namely:  
 
 <div class="news alpha">
@@ -16,10 +17,12 @@ Project INVITE involves the collaboration of several international organizations
 	    </p>
 	    <a href="http://www.inesc-id.pt/">Visit Website</a>
 </div>
+
 <p></p>
+
 <div class="news alpha">
      <h4>GAIPS</h4></br>
-     	<p></br>
+     <p></br>
      	    <img class="logo" src="images/gaips.jpg" width="13%"> </img>
      	    </p>
 	    <p>GAIPS is the INESC-ID research group on Intelligent Agents and Synthetic Characters. 
@@ -30,7 +33,9 @@ Project INVITE involves the collaboration of several international organizations
 	    </p>
 	    <a href="http://gaips.inesc-id.pt">Visit Website</a>
 </div>
+
 <p></p>
+
 <div class="news alpha">
      <h4>CEAF at Instituto Superior Técnico</h4>
      	<p>
@@ -48,7 +53,9 @@ other areas of Mathematics and also to Physics and Engineering.
 	    </p>
 	    <a href="http://ceaf.ist.utl.pt/contacts">Visit Website</a>
 </div>
+
 <p></p>
+
 <div class="news alpha">
      <h4> College of Communication at University of Texas (Austin)</h4></br>
 	    <p>The University of Texas at Austin is a comprehensive university with a
@@ -63,7 +70,9 @@ improve its practice in a variety of relationships.
 	    </p>
 	    <a href="http://commstudies.utexas.edu/">Visit Website</a>
 </div>
+
 <p></p>
+
 <div class="news alpha">
      <h4>PDM&FC</h4></br>
      <p></br></br>
@@ -77,17 +86,19 @@ improve its practice in a variety of relationships.
 	    <a href="http://www.pdmfc.com/">Visit Website</a>
 </div>
 
-
-
 <p></p> 
+
 # Team - People
+
 <p></p> 
+
 Project INVITE involves the collaboration of several researchers:  
 
 <p></p>
+
 #### Rui Prada (INESC-ID)
 <span class="logo">
-  <img src="images/rui.png" alt=""><br></br><span class="logo"></br>
+<img src="images/rui.png" alt="" ><br></br><span class="logo"></br>
 </span></img>
 </span>
 
@@ -106,10 +117,11 @@ and OpenSimulator, for serious gaming.
 He is currently the
 vice-president of the SPCVideojogos (Sociedade Portuguesa de Ciências
 dos Videojogos). <a href="http://gaips.inesc-id.pt/rprada">More Information</a>
+<p></p>
 
 #### Carlos Martinho (INESC-ID)
 <span class="logo">
-  <img src="images/carlos.png" alt="" ><br></br><span class="logo"></br>
+<img src="images/carlos.png" alt="" ><br></br><span class="logo"></br>
 </span></img>
 </span>
 
@@ -128,10 +140,11 @@ computer graphics and artificial intelligence, building agent-based
 synthetic characters, using approaches from several subfield of
 artificial intelligence such as anticipatory computing, affective
 computing and artificial life.<a href="http://gaips.inesc-id.pt/cmartinho">More Information</a>
+<p></p>
 
 #### Pedro Santos (IST/INESC-ID)
 <span class="logo">
-  <img src="images/pedro.png" alt="" ><br></br><span class="logo"></br>
+<img src="images/pedro.png" alt="" ><br></br><span class="logo"></br>
 </span></img>
 </span>
 
@@ -148,10 +161,11 @@ Development courses.
 
 His numerous scientific interests include Operator Theory, Artificial
 Inteligence, Game Theory, Game Design and History.<a href="http://gaips.inesc-id.pt/psantos">More Information</a>
+<p></p>
 
 #### Jorge F. Peña (University of Austin TEXAS)
 <span class="logo">
-	<img src="images/jorge.png" alt="" ><br></br><span class="logo"></br>
+<img src="images/jorge.png" alt="" ><br></br><span class="logo"></br>
 </span></img>
 </span>
 
@@ -165,11 +179,12 @@ His most recent work looks at how priming users with
 social stereotypes through uniforms and roles facilitates non-conscious
 responses in virtual contexts. Dr. Pena employs experiments and content
 analysis as primary research tools.<a href="http://www.utexas.edu/opa/experts/profile.php?id=1098">More Information</a>
-
+<p></p>
 
 #### Luís Landeiro Ribeiro (PDM&FC)
 <span class="logo">
-	<img src="images/luis.png" alt="" />
+<img src="images/luis.png" alt="" ><br></br><span class="logo"></br>
+</span></img>
 </span>
 
 Has built and now co-founded a Massive Multiplayer Online Browser Game called Almansur <http://www.almansur.net> with some friends.
@@ -194,10 +209,11 @@ to a reasonable level.
 Though ruby continues to be a great love affair,
 finds himself slipping into scala or golang more often when in need of good
 performance or for highly concurrent apps.
+<p></p>
 
 #### Joana Dimas (INESC-ID)
 <span class="logo">
-  <img src="images/joana.png" alt="" ><br></br><span class="logo"></br>
+<img src="images/joana.png" alt="" ><br></br><span class="logo"></br>
 </span></img>
 </span>
 
@@ -208,11 +224,10 @@ supervision of Prof. Rui Prada.
 She is interested in game design, player experience, emotion in games
 and cognitive science.<a href="http://gaips.inesc-id.pt/jdimas">More Information</a>
 <p></p>
-<p></p>
 
 #### Guilherme Raimundo (INESC-ID)
 <span class="logo">
-	<img src="images/guilherme.png" alt="" ><br></br><span class="logo"></br>
+<img src="images/guilherme.png" alt="" ><br></br><span class="logo"></br>
 </span></img>
 </span>
 
@@ -224,8 +239,7 @@ He is currently pursuing a PhD in Information Systems and Computer Engineering a
 
 #### Márcia Baptista (IST) - Former Member
 <span class="logo">
-  <img src="images/marcia.png" alt="" ><br></br><span class="logo"></br>
- 
+<img src="images/marcia.png" alt="" ><br></br><span class="logo"></br>
 </span></img>
 </span>
 
@@ -234,7 +248,6 @@ working as a research assistant in INESC-ID under the supervision of Prof. Pedro
 
 She is interested in game theory, economics, social dilemmas, simulation and rational choice theory. 
  <a href="http://gaips.inesc-id.pt/mbaptista">More Information</a>
-<p></p>
 <p></p>
 
 #### Guida Preto (IST)
@@ -297,11 +310,6 @@ He is currently working with Professor Rui Prada in artificial intelligence and 
   <img src="images/.jpg" alt="" ><br></br><span class="logo"></br>
 </span></img>
 </span>
-
-
-
-
-
 
 <p></p> 
 Project INVITE also involves the collaboration of several students:
