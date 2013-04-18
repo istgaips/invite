@@ -278,7 +278,7 @@ His main interests are video-game development (developed five video-games focusi
 
 #### Phil Lopes (IST)
 <span class="logo">
-<img width="150" src="images/phil.jpg" alt="" ><br></br><span class="logo"></br>
+<img width="105" src="images/phil.jpg" alt="" ><br></br><span class="logo"></br>
 </span></img>
 </span>
 
@@ -321,6 +321,8 @@ personal relationships. He received his M.A. in Communication at
 Arizona State University, and his B.S. in Communication Studies at The
 University of Texas at Austin. He will join the faculty of the
 University of Puget Sound in Fall, 2013.
+<p></p>
+
 <p></p>
  
 Project INVITE also involves the collaboration of several students:
