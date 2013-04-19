@@ -12,7 +12,7 @@
      The paper "Dynamic Identity Model for Agents" accepted in the 14th International Workshop on Multi-Agent-Based Simulation.
      <br> </br>
      The official website of the workshop can be found <a href="https://sites.google.com/site/mabsworkshop/">Here</a>
-     </p>
+     </p><p></p><p></p>
      <br></br>
 </div>
 
@@ -62,7 +62,7 @@
      The discussion was centered in the new game prototype and future research steps.
      <br></br>
      The meeting's agenda is available <a href="/documents/INVITE-OeirasMeeting2012-Agenda.pdf">Here</a>.  
-     </p>
+     </p><p></p><p></p>
      <br></br>
 </div>
 
@@ -76,7 +76,7 @@
      </p>
      <p>
      A demo of our game was shown to the general public, on the 1st institutional OpenDay organized by INESC-ID.
-     </p>
+     </p><p></p><p></p><p></p><p></p>
      <br></br>
 </div>
 
@@ -92,7 +92,7 @@
      A new prototype has been released. Download the 
      <a href="/dev/InviteJulyRelease.zip">Release Version of July</a> and <a href="/dev/HowToGuidesJuly2012.zip">Guides</a>. 
      The release is available only to the Windows platform. 
-     </p>
+     </p><p></p><p></p><p></p><p></p>
      <br></br>
 </div>
 
@@ -108,7 +108,7 @@
      A new prototype has been released. Download the 
      <a href="/dev/InviteJuneRelease.zip">Release Version of June</a> and <a href="/dev/HowToGuidesJune2012.zip">Guides</a>. 
      The release is available only to the Windows platform. 
-     </p>
+     </p><p></p><p></p><p></p><p></p>
      <br></br>
 </div>
 
@@ -124,7 +124,7 @@
      The poster named <a href="/documents/AMMASposter.png">The Role of Social Identity, Rationality and Anticipation in Believable Agents</a> was presented in the proceedings of the Eleventh International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2012).
      <br> </br>
      The conference official website can be found <a href="http://aamas2012.webs.upv.es">Here</a>
-     </p> 
+     </p><p></p><p></p> 
      <br></br>
 </div>
 
@@ -139,7 +139,7 @@
      <p>
      The fifth project meeting took place in the University of Austin, Texas, USA, where was discussed the general state of the project and the progress and course of each task. <br></br>
      It was also made an evaluation of the current prototype with some users.
-     <\p>
+     <\p><p></p><p></p>
      <br></br>
 </div>
 
@@ -155,7 +155,7 @@
      A monosheet was created for the project summarizing the major research topics and project aim.
      <br></br>
      The sheet can be downloaded from <a href="/documents/INVITEmonofolha.pdf">Here</a>
-     </p>
+     </p><p></p><p></p><p></p><p></p>
      <br></br>
 </div>
 
@@ -171,7 +171,7 @@
      The paper "The Role of Social Identity, Rationality and Anticipation in Believable Agents" was accepted as an Extended Abstract for publication in the proceedings of the Eleventh International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2012).
      <br> </br>
      The conference official website can be found <a href="http://aamas2012.webs.upv.es">Here</a>
-     </p>
+     </p><p></p><p></p>
      <br></br>
 </div>
 
@@ -189,7 +189,7 @@
      The conference official website can be found <a href="http://www.dcc.fc.up.pt/~videojogos2011/">Here</a>
      <br></br>
      The VJ2011 paper can also be downloaded <a href="/documents/ArtigoVJ2011.pdf">Here</a>
-     </p>
+     </p><p></p><p></p><p></p><p></p>
      <br></br>
 </div>
 
@@ -205,7 +205,7 @@
      The fourth project meeting took place in Oeiras at IST-Taguspark, Portugal. 
      <br></br>
      The discussion was centered in the formal design of the first game scenario.
-     </p>
+     </p><p></p><p></p><p></p><p></p>
      <br></br>
 </div>
 
@@ -231,7 +231,6 @@
      - management of the INVITE website; 
      <br></br>
      - discussion of other open issues.
-     <br></br>
      </p>
      <br></br>
 </div>
@@ -248,7 +247,7 @@
      INVITE was selected for the R&D Project Highlight in the June issue of the CoLab Square Newsletter.
      <br></br>
      The newsletter can be found <a href="http://utaustinportugal.org/newsletters/CoLab-newsletter-2011.06.pdf">Here</a>
-     </p>
+     </p><p></p><p></p><p></p><p></p>
      <br></br>
 </div>
 
@@ -264,7 +263,7 @@
      The second project meeting took place in the University of Austin, Texas, USA. 
      <br></br>
      The discussion was centered in the project requirements.
-     </p>
+     </p><p></p><p></p><p></p><p></p>
      <br></br>
 </div>
 
@@ -280,7 +279,7 @@
      A project meeting was held in Oeiras at IST-Taguspark, Portugal. 
      <br></br>
      The project overview was discussed, as well as the tasks, possible scenarios, evaluation and milestones.
-     </p>
+     </p><p></p><p></p><p></p><p></p>
      <br></br>
 </div>
 
