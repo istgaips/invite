@@ -1,32 +1,29 @@
 ﻿#Game
-<p>
-</p>
-##Downloads
-<p>
-</p>
-
-Download the most updated release here: <a href="/dev/InviteGameMarchReleaseV2.zip">Release Version of March 2012</a>. 
-
-<!--
- 
-##Guides
 
 <p></p>
 
-Here follows the online guides. 
+##Downloads
 
-<table width="100%" id="customtable">
-<tr>
- 
-</td> 
-<td>
-<a href="setupguide" width="100"> How to Setup </a> 
-</td> 
-<td> 
-<a href="playextguide" width="100">How to Play </a> 
-</td>
+<p></p>
 
---> 
+Download the most updated release here:<a href="/dev/InviteGameMarchReleaseV2.zip">Release Version of March 2012</a>. 
+
+<p></p>
+
+##Instructional videos
+
+<p></p>
+
+<table>
+ <tr>
+  <td><a href="/dev/InviteGameMarchReleaseV2.zip">Release Version of March 2012</a></td>
+ </tr>
+ <tr>
+  <td><a href="/dev/InviteGameMarchReleaseV2.zip">Release Version of March 2012</a></td>
+ </tr>
+</table>
+
+<p></p>
 
 ##Gallery
 
