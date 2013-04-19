@@ -3,6 +3,20 @@
 <p></p>
 
 <div class="news alpha">
+     <h4> Paper Acceptance in CogSci 2013 </h4>
+     <p align="right">April, 2013</p>
+     <p>
+     <img class="logo" hspace="20" vspace="20" src="images/CogSci13.png" width="150"> </img>
+     </p>
+     <p>
+     The paper "One for all, all for one: Agents with social identities" was accepted to appear in Proceedings of the CogSci 2013 - 35th Annual Conference of the Cognitive Science Society.
+     </p>
+     <br></br>
+</div>
+
+<p></p>
+
+<div class="news alpha">
      <h4> Paper Acceptance in MABS Workshop </h4>
      <p align="right">March, 2013</p>
      <p>
