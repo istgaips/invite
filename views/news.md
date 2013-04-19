@@ -45,7 +45,7 @@
      <p>
      INVITE project presentation on Futureplaces 2012 took place in Porto, Portugal.
      </p>
-     <br></br>
+     <br></br><br></br><br></br>
 </div>
 
 <p></p>
