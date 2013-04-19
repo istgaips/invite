@@ -11,7 +11,7 @@
      <p>
      The paper "One for all, all for one: Agents with social identities" was accepted to appear in Proceedings of the CogSci 2013 - 35th Annual Conference of the Cognitive Science Society.
      </p>
-     <br></br>
+<br></br>
 </div>
 
 <p></p>
@@ -33,7 +33,7 @@
 <p></p>
 
 <div class="news alpha">
-     <h4> Papers Acceptance in AAMAS2013 </h4>
+     <h4> Papers Acceptance in AAMAS 2013 </h4>
      <p align="right">December, 2012</p>
      <p>
      <img class="logo" hspace="20" vspace="20" src="images/aamas2013sh.png" width="150"> </img>
@@ -129,7 +129,7 @@
 <p></p>
 
 <div class="news alpha">
-     <h4> Poster Presentation in AAMAS2012 </h4>
+     <h4> Poster Presentation in AAMAS 2012 </h4>
      <p align="right">June, 2012</p>
      <p>
      <img class="logo" hspace="20" vspace="20" src="images/aamas201202.jpg" width="150"> </img>
@@ -176,7 +176,7 @@
 <p></p>
 
 <div class="news alpha">
-     <h4> Paper Acceptance in AAMAS2012 </h4>
+     <h4> Paper Acceptance in AAMAS 2012 </h4>
      <p align="right">December, 2011</p>
      <p>
      <img class="logo" hspace="20" vspace="20" src="images/aamas201202.jpg" width="150"> </img>
@@ -192,7 +192,7 @@
 <p></p>
 
 <div class="news alpha">
-     <h4> Paper Acceptance in VJ2011 </h4>
+     <h4> Paper Acceptance in VJ 2011 </h4>
      <p align="right">November, 2011</p>
      <p>
      <img class="logo" hspace="20" vspace="20" src="images/vj201102.jpg" width="150"> </img>
