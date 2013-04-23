@@ -1,16 +1,16 @@
-﻿#Game
+﻿# Game
 
 <p></p>
 
-##Downloads
+## Downloads
 
 <p></p>
 
-Download the most updated release here:<a href="/dev/InviteGameMarchReleaseV2.zip">Release Version of March 2012</a>. 
+Download the most updated release here:<a href="/dev/InviteGameMarchReleaseV2.zip">Release Version of March 2013</a>. 
 
 <p></p>
 
-##Instructional videos
+## Instructional videos
 
 <p></p>
 
@@ -25,12 +25,12 @@ Download the most updated release here:<a href="/dev/InviteGameMarchReleaseV2.zi
 
 <p></p>
 
-##Gallery
+## Gallery
+
+<p></p>
 
 <!--
 
-<p>
-</p>
 ### Second prototype
 <p>
 Here follows some screenshots of the second prototype. Click on the smaller pictures to open the screenshot in the preview window. 
@@ -101,7 +101,6 @@ The video below also shows some of the features of the prototype (the video is b
 </p>
 
 --> 
-
 
 ### Current Version
 <p>
