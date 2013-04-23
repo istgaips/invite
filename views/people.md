@@ -368,7 +368,13 @@ Has recently presented an article on AIIDE 2011 discussing the creation of AI sy
 
 #### Bruno Antunes (IST)
 
-
+<span class="logo">
+<img src="images/bruno.png" alt="">
+<br></br>
+<span class="logo">
+</br>
+</span></img>
+</span>
 
 Bruno Antunes has completed his Degree (BSc) in Information Systems and Computer Engineering at IST.
 He is currently pursuing a Master Degree (MSc) in Information Systems and Computer Engineering at IST under the supervision of Professor Carlos Martinho and Professor Rui Prada on the topic of Social Identity and Intergroup Relations.
