@@ -351,6 +351,38 @@ Project INVITE also involves the collaboration of several students:
 
 <p></p>
 
+#### André Loureiro (IST)
+
+<span class="logo">
+<img src="images/andre.jpg" alt="">
+<br></br>
+<span class="logo">
+</br>
+</span></img>
+</span>
+
+André Loureiro has completed his Degree (BSc) in Information Systems and Computer Engineering at IST. 
+He is currently pursuing a Master Degree (MSc) in Information Systems and Computer Engineering at IST under the supervision of Professor Carlos Martinho and Professor Rui Prada on the topic of Creating Identity Based Believable Social Behavior.
+
+His main interests are artificial intelligence, game development and 3D modeling.
+
+<p></p>
+
+#### Alexandre Barata (IST)
+
+<span class="logo">
+<img src="images/alexandre.png" alt="">
+<br></br>
+<span class="logo">
+</br>
+</span></img>
+</span>
+
+Alexandre Barata is currently finishing his MSC in Information Systems and Computer Engineering, having developed Almansur's <http://www.almansur.net> AI player system as his MSC thesis under the supervision of Prof. Pedro Santos, Prof. Rui Prada and Luís Landeiro Ribeiro.
+Has recently presented an article on AIIDE 2011 discussing the creation of AI systems and all details surrounding it.
+
+<p></p>
+
 #### Bruno Antunes (IST)
 
 <span class="logo">
@@ -402,23 +434,6 @@ Jorge Galvão has a BSc degree in Information Systems and Computer Engineering a
 He is currently pursuing an MSc degree in the areas of Intelligent Systems and Software Engineering, working with Professor Rui Prada in his Master Thesis regarding the subject of Trust Relationships in Virtual Agents.
 
 His main interests are Game Development, Artificial Intelligence and Game Physics.
-
-<p></p>
-
-#### André Loureiro (IST)
-
-<span class="logo">
-<img src="images/andre.jpg" alt="">
-<br></br>
-<span class="logo">
-</br>
-</span></img>
-</span>
-
-André Loureiro has completed his Degree (BSc) in Information Systems and Computer Engineering at IST. 
-He is currently pursuing a Master Degree (MSc) in Information Systems and Computer Engineering at IST under the supervision of Professor Carlos Martinho and Professor Rui Prada on the topic of Creating Identity Based Believable Social Behavior.
-
-His main interests are artificial intelligence, game development and 3D modeling.
 
 <p></p>
 
