@@ -123,7 +123,7 @@
      <p>
      A new prototype has been released. Download the <a href="/dev/InviteJulyRelease.zip">Release Version of July</a> and <a href="/dev/HowToGuidesJuly2012.zip">Guides</a>. 
      The release is available only to the Windows platform. 
-     </p><p></p><p></p><p></p>
+     </p><p></p><p></p><p></p><p></p>
      <br></br>
 </div>
 
@@ -138,7 +138,7 @@
      <p>
      A new prototype has been released. Download the <a href="/dev/InviteJuneRelease.zip">Release Version of June</a> and <a href="/dev/HowToGuidesJune2012.zip">Guides</a>. 
      The release is available only to the Windows platform. 
-     </p><p></p><p></p><p></p>
+     </p><p></p><p></p><p></p><p></p>
      <br></br>
 </div>
 
@@ -185,7 +185,7 @@
      A monosheet was created for the project summarizing the major research topics and project aim.
      <br></br>
      The sheet can be downloaded from <a href="/documents/INVITEmonofolha.pdf">Here</a>
-     </p><p></p><p></p><p></p>
+     </p><p></p><p></p><p></p><p></p>
      <br></br>
 </div>
 
@@ -235,7 +235,7 @@
      The fourth project meeting took place in Oeiras at IST-Taguspark, Portugal. 
      <br></br>
      The discussion was centered in the formal design of the first game scenario.
-     </p><p></p><p></p><p></p><p></p>
+     </p><p></p><p></p><p></p>
      <br></br>
 </div>
 
