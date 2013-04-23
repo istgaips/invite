@@ -346,7 +346,7 @@ He is currently pursuing a PhD in Information Systems and Computer Engineering a
 </span></img>
 </span>
 
-Márcia Baptista graduated in Information Systems and Computer Engineering and is currently working as a research assistant in INESC-ID under the supervision of Prof. Pedro Santos.
+Márcia Baptista graduated in Information Systems and Computer Engineering. 
 
 She is interested in game theory, economics, social dilemmas, simulation and rational choice theory. 
 <a href="http://gaips.inesc-id.pt/mbaptista">More Information</a>
