@@ -124,9 +124,9 @@ Project INVITE involves the collaboration of several researchers:
 
 Rui Prada is an assistant professor at the Computer Science Department of Instituto Superior Técnico – Technical University of Lisbon (IST-UTL), where he teaches courses on User Centred Design, Social Intelligent Agents and Game Design and Development. 
 He is a senior researcher at INESC-ID, member of GAIPS, Intelligent Agents and Synthetic Character Group and is currently the vice-president of the SPCVideojogos (Sociedade Portuguesa de Ciências dos Videojogos). 
-<a href="http://gaips.inesc-id.pt/rprada">More Information</a>
 
 His research interests are on social intelligence of virtual agents and its application to games. The current research focus is on social power and social identification as means to achieve believability in complex social situations and on the use of online platforms, such as Facebook and OpenSimulator, for serious gaming.  
+<a href="http://gaips.inesc-id.pt/rprada">More Information</a>
 
 <p></p>
 
