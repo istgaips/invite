@@ -11,7 +11,7 @@
      <br></br>
      52 participants have so far played the INVITE game in its single and multiplayer version. 
      Before playing the game, each participant took personality tests, provided demographic information and rated their experience with digital technologies. 
-     The participants played the game with human or artificial collaborators without fully knowing who exactly they were playing with, and did so in conditions that affected social identification with one’s team (i.e., using avatars wearing the participants’ University color or not). 
+     The participants played the game with human or artificial collaborators without fully knowing who exactly they were playing with, and did so in conditions that affected social identification with one's team (i.e., using avatars wearing the participants' University color or not). 
      After playing the INVITE game, participants provided information about the experience. 
      In-game behaviors were also measured.
      <br></br> 
