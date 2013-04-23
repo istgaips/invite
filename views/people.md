@@ -368,21 +368,6 @@ His main interests are artificial intelligence, game development and 3D modeling
 
 <p></p>
 
-#### Alexandre Barata (IST)
-
-<span class="logo">
-<img src="images/alexandre.png" alt="">
-<br></br>
-<span class="logo">
-</br>
-</span></img>
-</span>
-
-Alexandre Barata is currently finishing his MSC in Information Systems and Computer Engineering, having developed Almansur's <http://www.almansur.net> AI player system as his MSC thesis under the supervision of Prof. Pedro Santos, Prof. Rui Prada and Luís Landeiro Ribeiro.
-Has recently presented an article on AIIDE 2011 discussing the creation of AI systems and all details surrounding it.
-
-<p></p>
-
 #### Bruno Antunes (IST)
 
 <span class="logo">
