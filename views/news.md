@@ -3,6 +3,26 @@
 <p></p>
 
 <div class="news alpha">
+     <h4> Project INVITE: Testing usability and observing virtual social dynamics </h4>
+     <p align="right">April, 2013 </p>
+     <p>
+     Project INVITE explores how social identity perceptions and partnerships with human or artificial autonomous agents unfold in virtual social dilemmas. 
+     Four game testers inspected the INVITE game between February-March 2013 at UT Austin, and Portuguese researchers solved all of the issues found during the testing phase.    
+     <br></br>
+     52 participants have so far played the INVITE game in its single and multiplayer version. 
+     Before playing the game, each participant took personality tests, provided demographic information and rated their experience with digital technologies. 
+     The participants played the game with human or artificial collaborators without fully knowing who exactly they were playing with, and did so in conditions that affected social identification with one’s team (i.e., using avatars wearing the participants’ University color or not). 
+     After playing the INVITE game, participants provided information about the experience. 
+     In-game behaviors were also measured.
+     <br></br> 
+     The results are currently under analysis and will appear in future publications in 2013.   
+     </p>
+     <br></br>
+</div>
+
+<p></p>
+
+<div class="news alpha">
      <h4> Paper Acceptance in CogSci 2013 </h4>
      <p align="right">April, 2013 </p>
      <p>
