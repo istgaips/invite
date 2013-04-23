@@ -1,8 +1,8 @@
-﻿#Team - Partners
+﻿# Team - Partners
 
 <p></p>
 
-<b> Project INVITE involves the collaboration of several international organizations, namely: </b>
+Project INVITE involves the collaboration of several international organizations, namely: 
 
 <div class="news alpha">
      <h4>INESC-ID</h4>
