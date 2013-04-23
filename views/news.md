@@ -16,7 +16,7 @@
      In-game behaviors were also measured.
      <br></br> 
      The results are currently under analysis and will appear in future publications in 2013.   
-     </p>
+     </p><p></p>
      <br></br>
 </div>
 
@@ -30,7 +30,7 @@
      </p>
      <p>
      The paper "One for all, all for one: Agents with social identities" was accepted to appear in Proceedings of the CogSci 2013 - 35th Annual Conference of the Cognitive Science Society.
-     </p>
+     </p><p></p>
      <br></br>
 </div>
 
@@ -46,7 +46,7 @@
      The paper "Dynamic Identity Model for Agents" accepted in the 14th International Workshop on Multi-Agent-Based Simulation.
      <br></br>
      The official website of the workshop can be found <a href="https://sites.google.com/site/mabsworkshop/">Here</a>
-     </p><p></p><p></p>
+     </p><p></p>
      <br></br>
 </div>
 
@@ -62,7 +62,7 @@
      The papers "You are who you hang out with: Agents with Dynamic Identity" and "Bases of Social Power for Agents" were accepted as Extended Abstracts for publication in the proceedings of the Twelfth International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2013).
      <br></br>
      The conference official website can be found <a href="http://aamas2013.cs.umn.edu/">Here</a>
-     </p>
+     </p><p></p>
      <br></br>
 </div>
 
@@ -94,7 +94,7 @@
      The discussion was centered in the new game prototype and future research steps.
      <br></br>
      The meeting's agenda is available <a href="/documents/INVITE-OeirasMeeting2012-Agenda.pdf">Here</a>.  
-     </p><p></p><p></p>
+     </p><p></p>
      <br></br>
 </div>
 
@@ -154,7 +154,7 @@
      The poster named <a href="/documents/AMMASposter.png">The Role of Social Identity, Rationality and Anticipation in Believable Agents</a> was presented in the proceedings of the Eleventh International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2012).
      <br></br>
      The conference official website can be found <a href="http://aamas2012.webs.upv.es">Here</a>
-     </p><p></p><p></p> 
+     </p><p></p>
      <br></br>
 </div>
 
@@ -169,7 +169,7 @@
      <p>
      The fifth project meeting took place in the University of Austin, Texas, USA, where was discussed the general state of the project and the progress and course of each task. <br></br>
      It was also made an evaluation of the current prototype with some users.
-     <\p><p></p><p></p>
+     <\p><p></p>
      <br></br>
 </div>
 
@@ -201,7 +201,7 @@
      The paper "The Role of Social Identity, Rationality and Anticipation in Believable Agents" was accepted as an Extended Abstract for publication in the proceedings of the Eleventh International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2012).
      <br> </br>
      The conference official website can be found <a href="http://aamas2012.webs.upv.es">Here</a>
-     </p><p></p><p></p>
+     </p><p></p>
      <br></br>
 </div>
 
