@@ -397,12 +397,15 @@ His main interests are Game Development, Artificial Intelligence and Game Physic
 
 #### André Loureiro (IST)
 <span class="logo">
-<img src="images/.png" alt="" ><br></br><span class="logo"></br>
+<img src="images/andre.jpg" alt="" ><br></br><span class="logo"></br>
 </span></img>
 </span>
 
+André Loureiro has completed his Degree (BSc) in Information Systems and Computer Engineering at IST. 
+He is currently pursuing a Master Degree (MSc) in Information Systems and Computer Engineering at IST under the supervision of Professor Carlos Martinho and Professor Rui Prada on the topic of Creating Identity Based Believable Social Behavior.
 
-***************************
+His main interests are artificial intelligence, game development and 3D modeling.
+
 <p></p>
 
 #### Gonçalo Pereira (INESC-ID)
