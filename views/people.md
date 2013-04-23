@@ -369,7 +369,7 @@ Has recently presented an article on AIIDE 2011 discussing the creation of AI sy
 #### Bruno Antunes (IST)
 
 <span class="logo">
-<img src="images/bruni.png" alt="">
+<img width="105" src="images/bruno.jpg" alt="">
 <br></br>
 <span class="logo">
 </br>
