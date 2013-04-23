@@ -366,18 +366,18 @@ Has recently presented an article on AIIDE 2011 discussing the creation of AI sy
 
 <p></p>
 
-#### Bruno Antunes (IST)
+#### Alexandre Barata (IST)
 
 <span class="logo">
-<img src="images/bruno.png" alt="">
+<img src="images/alexandre.png" alt="">
 <br></br>
 <span class="logo">
 </br>
 </span></img>
 </span>
 
-Bruno Antunes has completed his Degree (BSc) in Information Systems and Computer Engineering at IST.
 
+Bruno Antunes has completed his Degree (BSc) in Information Systems and Computer Engineering at IST.
 He is currently pursuing a Master Degree (MSc) in Information Systems and Computer Engineering at IST under the supervision of Professor Carlos Martinho and Professor Rui Prada on the topic of Social Identity and Intergroup Relations.
 
 He is mainly interested in systems that use AI to simulate Human behaviour and reactions. He is also interested in distributed systems and all the related problems.
