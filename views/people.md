@@ -337,7 +337,7 @@ He is currently pursuing a PhD in Information Systems and Computer Engineering a
 </span></img>
 </span>
 
-Márcia Baptista graduated in Information Systems and Computer Engineering. 
+Márcia Baptista is graduated in Information Systems and Computer Engineering. 
 
 She is interested in game theory, economics, social dilemmas, simulation and rational choice theory. 
 
