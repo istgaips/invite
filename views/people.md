@@ -385,6 +385,23 @@ His focus is the concept of social power, its dynamics and how to integrate thos
 
 <p></p>
 
+#### Jorge Galvão (IST)
+
+<span class="logo">
+<img src="images/jgalvao.png" alt="">
+<br></br>
+<span class="logo">
+</br>
+</span></img>
+</span>
+
+Jorge Galvão has a BSc degree in Information Systems and Computer Engineering at IST.
+He is currently pursuing an MSc degree in the areas of Intelligent Systems and Software Engineering, working with Professor Rui Prada in his Master Thesis regarding the subject of Trust Relationships in Virtual Agents.
+
+His main interests are Game Development, Artificial Intelligence and Game Physics.
+
+<p></p>
+
 #### Bruno Antunes (IST)
 
 <span class="logo">
@@ -417,23 +434,6 @@ David Gonçalves has completed his BSc degree in Information Systems and Compute
 Currently he's aiming to attain his MSc degree in the areas of Multimedia Systems (major) and Software Engineering (minor), working under the supervision of Professor Carlos Martinho and Professor Rui Prada on the field of Suggestion of Social Identity Through Visual Clues.
 
 He is mostly interested in the topics related to game design and development, from concept to implementation, in software engineering, artificial inteligence and building better, faster, smarter systems in general.
-
-<p></p>
-
-#### Jorge Galvão (IST)
-
-<span class="logo">
-<img src="images/jgalvao.png" alt="">
-<br></br>
-<span class="logo">
-</br>
-</span></img>
-</span>
-
-Jorge Galvão has a BSc degree in Information Systems and Computer Engineering at IST.
-He is currently pursuing an MSc degree in the areas of Intelligent Systems and Software Engineering, working with Professor Rui Prada in his Master Thesis regarding the subject of Trust Relationships in Virtual Agents.
-
-His main interests are Game Development, Artificial Intelligence and Game Physics.
 
 <p></p>
 
