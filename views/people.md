@@ -368,6 +368,23 @@ His main interests are artificial intelligence, game development and 3D modeling
 
 <p></p>
 
+#### Gonçalo Pereira (INESC-ID)
+
+<span class="logo">
+<img width="105" src="images/goncalo.jpg" alt="">
+<br></br>
+<span class="logo">
+</br>
+</span></img>
+</span>
+
+Gonçalo Pereira obtained his MsC in Information Systems and Computer Engineering in 2009 with a dissertation on adaptive map generation for turn based strategic multiplayer browser games. 
+In 2010 he started his current PhD studies at the Intelligent Agents and Synthetic Characters Group from INESC-ID in Portugal. 
+
+His focus is the concept of social power, its dynamics and how to integrate those in socially intelligent virtual agents.
+
+<p></p>
+
 #### Bruno Antunes (IST)
 
 <span class="logo">
@@ -379,9 +396,7 @@ His main interests are artificial intelligence, game development and 3D modeling
 </span>
 
 Bruno Antunes has completed his Degree (BSc) in Information Systems and Computer Engineering at IST.
-He is currently pursuing a Master Degree (MSc) in Information Systems and Computer Engineering at IST 
-under the supervision of Professor Carlos Martinho and Professor Rui Prada on the topic of Social Identity
- and Intergroup Relations.
+He is currently pursuing a Master Degree (MSc) in Information Systems and Computer Engineering at IST under the supervision of Professor Carlos Martinho and Professor Rui Prada on the topic of Social Identity and Intergroup Relations.
 
 He is mainly interested in systems that use AI to simulate Human behaviour and reactions. 
 He is also interested in distributed systems and all the related problems.
@@ -436,27 +451,3 @@ Alexandre Barata is currently finishing his MSC in Information Systems and Compu
 Has recently presented an article on AIIDE 2011 discussing the creation of AI systems and all details surrounding it.
 
 <p></p>
-
-#### Gonçalo Pereira (INESC-ID)
-
-<span class="logo">
-<img width="105" src="images/goncalo.jpg" alt="">
-<br></br>
-<span class="logo">
-</br>
-</span></img>
-</span>
-
-Gonçalo Pereira obtained his MsC in Information Systems and Computer Engineering in 2009 with a dissertation on adaptive map generation for turn based strategic multiplayer browser games. 
-In 2010 he started his current PhD studies at the Intelligent Agents and Synthetic Characters Group from INESC-ID in Portugal. 
-
-His focus is the concept of social power, its dynamics and how to integrate those in socially intelligent virtual agents.
-
-<p></p>
-
-
-
-
-
-
-
