@@ -285,7 +285,7 @@ He received his M.A. in Communication at Arizona State University, and his B.S. 
 #### Kate Blackburn (University of Austin TEXAS)
 
 <span class="logo">
-<img width="105" src="images/kate.png" alt="">
+<img width="105" src="images/kate.jpg" alt="">
 <br></br>
 <span class="logo">
 </br>
