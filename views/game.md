@@ -6,7 +6,6 @@
 
 <p></p>
 
-
 Download the most updated release here:<a href="/dev/InviteGame2013Release.zip">Release Version of May 2013</a>. 
 
 <p></p>
@@ -17,7 +16,7 @@ Download the most updated release here:<a href="/dev/InviteGame2013Release.zip">
 
 <table>
  <tr>
-  <td><a href="/dev/HowToSetup">Release Version of May 2013</a></td>
+  <td><a href="/dev/HowToSetup/HowToSetupInvite.avi">Release Version of May 2013</a></td>
  </tr>
  <tr>
   <td><a href="/dev/HowToPlay/HowToPlayInvite.avi">Release Version of May 2013</a></td>
