@@ -108,21 +108,21 @@ Here follows some screenshots of the current version. Click on the smaller pictu
 </p>
 
 <div class="thumbnails" align="center">
-<img src="images/screens/003/001.png" alt=""  / onClick="changeImage(1);"></a>
-<img src="images/screens/003/006.png" alt=""  / onClick="changeImage(2);"></a>
-<img src="images/screens/003/007.png" alt=""  / onClick="changeImage(3);"></a>
+<img src="images/screens/003/001.jpg" alt=""  / onClick="changeImage(1);"></a>
+<img src="images/screens/003/006.jpg" alt=""  / onClick="changeImage(2);"></a>
+<img src="images/screens/003/007.jpg" alt=""  / onClick="changeImage(3);"></a>
 </div>
 <div class="thumbnails" align="center">
-<img src="images/screens/003/009.png" alt=""  / onClick="changeImage(4);"></a>
-<img src="images/screens/003/010.png" alt=""  / onClick="changeImage(5);"></a>
-<img src="images/screens/003/011.png" alt=""  / onClick="changeImage(6);"></a>
+<img src="images/screens/003/009.jpg" alt=""  / onClick="changeImage(4);"></a>
+<img src="images/screens/003/010.jpg" alt=""  / onClick="changeImage(5);"></a>
+<img src="images/screens/003/011.jpg" alt=""  / onClick="changeImage(6);"></a>
 </div>
 <div id="bigimages" align="center">
-        <img id="normal1" src="images/screens/003/001.png" alt=""/>
-        <img id="normal2" src="images/screens/003/006.png" alt=""/>
-        <img id="normal3" src="images/screens/003/007.png" alt=""/>
-        <img id="normal4" src="images/screens/003/009.png" alt=""/>
-        <img id="normal5" src="images/screens/003/010.png" alt=""/>
-        <img id="normal6" src="images/screens/003/011.png" alt=""/>
+        <img id="normal1" src="images/screens/003/001.jpg" alt=""/>
+        <img id="normal2" src="images/screens/003/006.jpg" alt=""/>
+        <img id="normal3" src="images/screens/003/007.jpg" alt=""/>
+        <img id="normal4" src="images/screens/003/009.jpg" alt=""/>
+        <img id="normal5" src="images/screens/003/010.jpg" alt=""/>
+        <img id="normal6" src="images/screens/003/011.jpg" alt=""/>
 </div>
 
