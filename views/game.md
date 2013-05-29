@@ -108,7 +108,7 @@ Here follows some screenshots of the current version. Click on the smaller pictu
 </p>
 
 <div class="thumbnails" align="center">
-<img src="images/screens/003/001.jpg" alt=""  / onClick="changeImage(1);"></a>
+<img src="images/screens/001/001.jpg" alt=""  / onClick="changeImage(1);"></a>
 <img src="images/screens/003/006.jpg" alt=""  / onClick="changeImage(2);"></a>
 <img src="images/screens/003/007.jpg" alt=""  / onClick="changeImage(3);"></a>
 </div>
