@@ -16,10 +16,10 @@ Download the most updated release here:<a href="/dev/InviteGame2013Release.zip">
 
 <table>
  <tr>
-  <td><a href="/dev/HowToSetup/HowToSetupInvite.avi">How to setup</a></td>
+  <td><a href="/dev/HowToSetup/HowToSetupInvite.avi">How to Setup</a></td>
  </tr>
  <tr>
-  <td><a href="/dev/HowToPlay/HowToPlayInvite.avi">How to play</a></td>
+  <td><a href="/dev/HowToPlay/HowToPlayInvite.avi">How to Play</a></td>
  </tr>
 </table>
 
@@ -109,7 +109,7 @@ Here follows some screenshots of the current version. Click on the smaller pictu
 </p>
 
 <div class="thumbnails" align="center">
-<img src="images/screens/003/001.JPG" alt=""  / onClick="changeImage(1);"></a>
+<img src="images/screens/003/001.jpg" alt=""  / onClick="changeImage(1);"></a>
 <img src="images/screens/003/006.JPG" alt=""  / onClick="changeImage(2);"></a>
 <img src="images/screens/003/007.JPG" alt=""  / onClick="changeImage(3);"></a>
 </div>
@@ -119,7 +119,7 @@ Here follows some screenshots of the current version. Click on the smaller pictu
 <img src="images/screens/003/011.JPG" alt=""  / onClick="changeImage(6);"></a>
 </div>
 <div id="bigimages" align="center">
-        <img id="normal1" src="images/screens/003/001.JPG" alt=""/>
+        <img id="normal1" src="images/screens/003/001.jpg" alt=""/>
         <img id="normal2" src="images/screens/003/006.JPG" alt=""/>
         <img id="normal3" src="images/screens/003/007.JPG" alt=""/>
         <img id="normal4" src="images/screens/003/009.JPG" alt=""/>
