@@ -203,7 +203,7 @@ Though ruby continues to be a great love affair, finds himself slipping into sca
 #### Joana Dimas (INESC-ID)
 
 <span class="logo">
-<img width="105" src="images/joana.jpg" alt=""> 
+<img src="images/joana.jpg" alt=""> 
 <br></br>
 <span class="logo">
 </br>
@@ -285,7 +285,7 @@ He received his M.A. in Communication at Arizona State University, and his B.S. 
 #### Kate Blackburn (University of Austin TEXAS)
 
 <span class="logo">
-<img width="105" src="images/kate.JPG" alt="">
+<img width="105" src="images/kate.jpg" alt="">
 <br></br>
 <span class="logo">
 </br>
