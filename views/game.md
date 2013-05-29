@@ -16,10 +16,10 @@ Download the most updated release here:<a href="/dev/InviteGame2013Release.zip">
 
 <table>
  <tr>
-  <td><a href="/dev/HowToSetup/HowToSetupInvite.avi">Release Version of May 2013</a></td>
+  <td><a href="/dev/HowToSetup/HowToSetupInvite.avi">How to setup</a></td>
  </tr>
  <tr>
-  <td><a href="/dev/HowToPlay/HowToPlayInvite.avi">Release Version of May 2013</a></td>
+  <td><a href="/dev/HowToPlay/HowToPlayInvite.avi">How to play</a></td>
  </tr>
 </table>
 
@@ -100,9 +100,10 @@ The video below also shows some of the features of the prototype (the video is b
 <p>
 </p>
 
+### Current Version
+
 --> 
 
-### Current Version
 <p>
 Here follows some screenshots of the current version. Click on the smaller pictures to open the screenshot in the preview window. 
 </p>
