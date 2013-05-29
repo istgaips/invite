@@ -203,7 +203,7 @@ Though ruby continues to be a great love affair, finds himself slipping into sca
 #### Joana Dimas (INESC-ID)
 
 <span class="logo">
-<img src="images/joana.png" alt=""> 
+<img src="images/joana.jpg" alt=""> 
 <br></br>
 <span class="logo">
 </br>

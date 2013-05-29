@@ -2,7 +2,7 @@
 
 <p></p>
 
-Here follows the updated list of current publications. 
+Here follows the updated list of current publications: 
 
 <span class="logo">
   <img src="images/aamas2013.png" width="190" alt="" />
