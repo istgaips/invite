@@ -34,9 +34,9 @@
      <br></br>
 </div>
 
-<p></p>
-
 <a id="AAMAS2013"></a>
+
+<p></p>
 
 <div class="news alpha">
      <h4> Paper Acceptance in MABS Workshop </h4>
@@ -68,9 +68,9 @@
      <br></br>
 </div>
 
-<p></p>
-
 <a id="Futureplaces"></a>
+
+<p></p>
 
 <div class="news alpha">
      <h4> Futureplaces </h4>
@@ -84,9 +84,9 @@
      <br></br>
 </div>
 
-<p></p>
-
 <a id="Sixth Project Meeting"></a>
+
+<p></p>
 
 <div class="news alpha">
      <h4> 6th Project Meeting </h4>
