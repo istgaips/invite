@@ -15,7 +15,7 @@ To address these shortcomings and to further investigate topics such as personal
         <img id="normal" src="images/screens/003/screen.jpg" alt=""/>
 </div>
 
-Strategic games, such as the prisoner's dilemma or stag hunt, and their variants, (these structures) can be modelled or recreated in this framework, attending that it is possible to configure the information available to the participants, during the game, namely: game information, information of team and other teams, and visual cues.
+<CAPTION ALIGN="bottom">Strategic games, such as the prisoner's dilemma or stag hunt, and their variants, (these structures) can be modelled or recreated in this framework, attending that it is possible to configure the information available to the participants, during the game, namely: game information, information of team and other teams, and visual cues.
 
 
 Notice that the 3D capabilities of the INVITE framework are important not only for exploring decision framing but also for the benefits of the increased sense of presence that participants experience: the immersion of participants in this framework, due to the enhanced degree of interaction and control, provided by the 3D environment, aims to promote an increased level of involvement in the experiment, in comparison to the existing computational frameworks; this in turn, provides more guarantees that participants are engaged in the fictional scenario and more likely to act similarly to a real life situation.
