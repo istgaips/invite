@@ -70,7 +70,7 @@
 
 <p></p>
 
-<A NAME="Futureplaces"></A>
+#<A NAME="Futureplaces"></A>
 
 <div class="news alpha">
      <h4> Futureplaces </h4>
