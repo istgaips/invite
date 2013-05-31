@@ -26,7 +26,9 @@ So the motivation underlying the INVITE framework is to allow researchers to be 
 The goal of the INVITE framework is, therefore, to stand as a usable research tool, allowing an efficient parametrization of a large spectrum of public goods experiments for virtual and human participants, in a 3D environment.
 
 Notice also that, in spite the scope of the INVITE framework is restricted to public goods games, in a range of types of economic experiments (for instance), provides, however, a great deal of flexibility in that domain while assuring an effortless configuration of an experiment. Hence, this framework allows the configuration of a myriad of public goods experiments, ranging from simple 2x2 games to complex team games, with an optional enclosed ultimatum game to define the
-distribution rule of the public good.	
+distribution rule of the public good.
+
+If you are interested 	
 
 <p></p>
 
