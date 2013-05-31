@@ -2,6 +2,32 @@
 
 <p></p>
 
+## INVITE framework
+
+<p></p>
+
+Topics such as the effects of social identity and decision framing, representing research questions open to further experimental investigation. Nevertheless and despite the importance
+of promoting research in this field, the number of computational research tools to perform experiments of this type is somewhat reduced: among the most well-known tools are the Plott's tool, the Colored Trails framework and the z-Tree toolbox; however, these tools tend to neglect the importance of the creation of a context for the experiment placing the participant in an abstract environment where most of the visual aspects of the depicted situation, such as the characterization of each participant and surrounding scenario, are absent.
+
+To address these shortcomings and to further investigate topics such as personal and social identity, we present a computational research tool: the INVITE (social Identity and partNership in VIrTual Environments) framework which allows the configuration of a wide range of public goods experiments, from the simplest strategic paradigms, such as the 2-person prisoner's dilemma, to complex team games, in a three-dimensional environment for virtual and human participants over the internet, and so the creation of a virtual world where several aspects of decision framing can be explored in a controlled manner such as, for instance, the characterization (visual aspect) of participants and visual cues, enhancing the sense of presence of participants and enticing them to act in a similar manner to a real life situation (refer to figure below).
+
+<div id="bigimages" align="center">
+        <img id="normal1" src="images/screens/003/screen.jpg" alt=""/>
+</div>
+
+
+Notice that the 3D capabilities of the INVITE framework are important not only for exploring decision framing but also for the benefits of the increased sense of presence that participants experience: the immersion of participants in this framework, due to the enhanced degree of interaction and control, provided by the 3D environment, aims to promote an increased level of involvement in the experiment, in comparison to the existing computational frameworks; this in turn, provides more guarantees that participants are engaged in the fictional scenario and more likely to act similarly to a real life situation.
+Hence, this framework represents an attractive alternative to the oversimplified interfaces of the existing computational frameworks and to physical labs, given the greater control provided over the experiment. Moreover, it does not require the experimenter to know a programming language to configure an experiment, assisting him with a two-dimensional menu system for that purpose, and a set of already pre-configured templates of experiments, shipped with the framework, can be modified by the experimenter according to his particular needs, which is an improvement that greatly reduces the effort and expertise required of the experimenter.
+
+So the motivation underlying the INVITE framework is to allow researchers to be able to deploy, without difficulty, experiments where hypothesis, regarding the behaviour of individuals as well as of artificial intelligence agents and their interactions, can be tested. The possibility to have virtual and human agents interacting in the same platform is one of the advantages of this framework. For instance, it is possible to reduce significantly the cost of experiments, with a high number of participants with virtual agents. Moreover, virtual agents also allow the experimenter to have a greater degree of control over the experiment, by configuring the behaviour of the virtual participants prior to the experiment.
+
+The goal of the INVITE framework is, therefore, to stand as a usable research tool, allowing an efficient parametrization of a large spectrum of public goods experiments for virtual and human participants, in a 3D environment.
+
+Notice also that, in spite the scope of the INVITE framework is restricted to public goods games, in a range of types of economic experiments (for instance), provides, however, a great deal of flexibility in that domain while assuring an effortless configuration of an experiment. Hence, this framework allows the configuration of a myriad of public goods experiments, ranging from simple 2x2 games to complex team games, with an optional enclosed ultimatum game to define the
+distribution rule of the public good.	
+
+<p></p>
+
 ## Downloads
 
 <p></p>
