@@ -34,11 +34,10 @@
      <br></br>
 </div>
 
-<a id="AAMAS2013"></a>
-
 <p></p>
 
-<div class="news alpha">
+<div class="news alpha"><a id="AAMAS2013"></a>
+
      <h4> Paper Acceptance in MABS Workshop </h4>
      <p align="right">March, 2013 </p>
      <p>
@@ -68,11 +67,7 @@
      <br></br>
 </div>
 
-<a id="Futureplaces"></a>
-
-<p></p>
-
-<div class="news alpha">
+<div class="news alpha"><a id="Futureplaces"></a>
      <h4> Futureplaces </h4>
      <p align="right">October, 2012 </p>
      <p>
@@ -84,11 +79,9 @@
      <br></br>
 </div>
 
-<a id="Sixth Project Meeting"></a>
-
 <p></p>
 
-<div class="news alpha">
+<div class="news alpha"><a id="Sixth Project Meeting"></a>
      <h4> 6th Project Meeting </h4>
      <p align="right">October, 2012 </p>
      <p>
