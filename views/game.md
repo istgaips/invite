@@ -15,6 +15,8 @@ To address these shortcomings and to further investigate topics such as personal
         <img id="normal1" src="images/screens/003/screen.jpg" alt=""/>
 </div>
 
+Strategic games, such as the prisoner's dilemma or stag hunt, and their variants, (these structures) can be modelled or recreated in this framework, attending that it is possible to configure the information available to the participants, during the game, namely: game information, information of team and other teams, and visual cues.
+
 
 Notice that the 3D capabilities of the INVITE framework are important not only for exploring decision framing but also for the benefits of the increased sense of presence that participants experience: the immersion of participants in this framework, due to the enhanced degree of interaction and control, provided by the 3D environment, aims to promote an increased level of involvement in the experiment, in comparison to the existing computational frameworks; this in turn, provides more guarantees that participants are engaged in the fictional scenario and more likely to act similarly to a real life situation.
 Hence, this framework represents an attractive alternative to the oversimplified interfaces of the existing computational frameworks and to physical labs, given the greater control provided over the experiment. Moreover, it does not require the experimenter to know a programming language to configure an experiment, assisting him with a two-dimensional menu system for that purpose, and a set of already pre-configured templates of experiments, shipped with the framework, can be modified by the experimenter according to his particular needs, which is an improvement that greatly reduces the effort and expertise required of the experimenter.
