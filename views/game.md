@@ -11,8 +11,8 @@ of promoting research in this field, the number of computational research tools 
 
 To address these shortcomings and to further investigate topics such as personal and social identity, we present a computational research tool: the INVITE (social Identity and partNership in VIrTual Environments) framework which allows the configuration of a wide range of public goods experiments, from the simplest strategic paradigms, such as the 2-person prisoner's dilemma, to complex team games, in a three-dimensional environment for virtual and human participants over the internet, and so the creation of a virtual world where several aspects of decision framing can be explored in a controlled manner such as, for instance, the characterization (visual aspect) of participants and visual cues, enhancing the sense of presence of participants and enticing them to act in a similar manner to a real life situation (refer to figure below).
 
-<div id="image" align="center">
-        <img id="normal" src="images/screens/003/screen.jpg" alt=""/>
+<div id="bigimages" align="center">
+        <img id="normal1" src="images/screens/003/screen.jpg" alt=""/>
 </div>
 
 Strategic games, such as the prisoner's dilemma or stag hunt, and their variants, (these structures) can be modelled or recreated in this framework, attending that it is possible to configure the information available to the participants, during the game, namely: game information, information of team and other teams, and visual cues.
