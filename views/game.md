@@ -30,18 +30,34 @@ distribution rule of the public good.
 
 <p></p>
 
-## Downloads
+## INVITE game
 
 <p></p>
 
+All the experiments of the INVITE framework unfold in the same scenario (refer to the figures below), where individuals face the dilemma of either to contribute to the common good (construction of a raft) or to act in their own individual interest (collect a private resource), and which takes the form of a public goods game (it should be noted that, even though this framework does not support common-pool resources games directly, such games are isomorphic to the supported public goods games).
+
+The fictional scenario can be described as follows:
+
+
+•	The experiment is set on a desert island, where participants take the role of a survivor of a plane crash. 
+•	After the plane crash, the participants soon realise they must evade the island, before the eminent eruption of the island's volcano (the eruption determines the end of the game).
+•	Hence, their only chance of escaping the island alive is by sailing, in handcrafted rafts, to a nearby inhabited island.
+•	Participants are assigned into groups, each group having the goal of constructing a raft. 
+•	In order to help build his group's raft, each participant can dedicate part of his day gathering wood. 
+•	However, instead of collecting wood, the participant can decide to spend part of his time gathering a private resource, such as gold. 
+•	If a group is able to build the raft prior to the end of the experiment (at the volcano's eruption), the members of the group are able to escape the island, and the raft is sold since the raft's wood is a rare and valuable resource at the destination's island. 
+•	The earnings obtained from the raft are then distributed among the members of the group.
+•	The game is won by the participant with the most earning, derived from individual collection and from the sale of the group's raft. 
+•	Depending on the experiment configuration, members of groups which do not finish their rafts on time, may lose all their earnings. 
+•	Accordingly, during the experiment, participants face the dilemma of either to contribute to the common good of the group (raft’s construction), or to contribute solely to their more individualistic goal (private resource's collection).
+
+<p></p>
+
+<br></br>
 Download the most updated release here:<a href="/dev/InviteGame2013Release.zip">Release Version of May 2013</a>. 
-
-<p></p>
-
-## Instructional videos
-
-<p></p>
-
+<br></br>
+You have instructional videos:
+<br></br>
 <table>
  <tr>
   <td><a href="/dev/HowToSetup/HowToSetupInvite.avi">How to Setup</a></td>
