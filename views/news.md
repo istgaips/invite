@@ -36,6 +36,8 @@
 
 <p></p>
 
+<a id="AAMAS2013"></a>
+
 <div class="news alpha">
      <h4> Paper Acceptance in MABS Workshop </h4>
      <p align="right">March, 2013 </p>
@@ -48,9 +50,6 @@
      The official website of the workshop can be found <a href="https://sites.google.com/site/mabsworkshop/">Here</a>
      </p><p></p>
      <br></br>
-
-<a id="AAMAS2013"></a>
-
 </div>
 
 <p></p>
@@ -71,6 +70,8 @@
 
 <p></p>
 
+<a id="Futureplaces"></a>
+
 <div class="news alpha">
      <h4> Futureplaces </h4>
      <p align="right">October, 2012 </p>
@@ -81,12 +82,11 @@
      INVITE project presentation on Futureplaces 2012 took place in Porto, Portugal.
      </p><p></p><p></p><p></p><p></p>
      <br></br>
-
-<a id="Futureplaces"></a>
-
 </div>
 
 <p></p>
+
+<a id="Sixth Project Meeting"></a>
 
 <div class="news alpha">
      <h4> 6th Project Meeting </h4>
@@ -102,9 +102,6 @@
      The meeting's agenda is available <a href="/documents/INVITE-OeirasMeeting2012-Agenda.pdf">Here</a>.  
      </p><p></p>
      <br></br>
-
-<a id="Sixth Project Meeting"></a>
-
 </div>
 
 <p></p>
