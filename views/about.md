@@ -1,17 +1,9 @@
-#About
+﻿#About
 <p align="center">
   <img src="images/logo_invite001.png" width="100%" />
 </p>
 <p></p>
 ## Project INVITE
-
-<p align="justify">
-Project INVITE (social Identity and partNership in VIrTual Environments) is a
-research project on the themes of multimedia, artificial intelligence and games
-financed by the UTAustin – Portugal cooperation agreement (ref.
-UTA-Est/MAI/0008/2009). It started on October 2010 and has duration of 36
-months.
-</p>
 
 <p align="justify">
 The main topic explored on the project is the development of artificial
