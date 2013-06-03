@@ -254,7 +254,7 @@ His main interests are Game Development, Generative Music, Genetic Algorithms, A
 #### Guida Preto (IST)
 
 <span class="logo">
-<img width="50" src="images/guida.jpg" alt="">
+<img width="100" src="images/guida.jpg" alt="">
 <br></br>
 <span class="logo">
 </br>
