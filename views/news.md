@@ -9,7 +9,7 @@
      <img class="logo" hspace="20" vspace="20" src="images/austin.jpg" width="150"> </img>
      </p>
      <p>
-     The seventh (and the last) project meeting will take place in the University of Austin, Texas, USA, where should be discussed the final results of the project. 
+     The seventh (and last) project meeting will take place in the University of Austin, Texas, USA, where should be discussed the final results of the project. 
      <br></br>
      </p><p></p><p>
      <br></br>
