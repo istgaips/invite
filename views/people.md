@@ -271,7 +271,7 @@ Beyond Mathematics in general, her main scientific interests include Mathematica
 #### Nick Brody (University of Austin TEXAS)
  
 <span class="logo">
-<img width="105" src="images/brody.jpg" alt="">
+<img width="50" src="images/brody.jpg" alt="">
 <br></br>
 <span class="logo">
 </br>
