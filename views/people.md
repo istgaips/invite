@@ -262,13 +262,14 @@ His main interests are Game Development, Generative Music, Genetic Algorithms, A
 </span>
 
 Guida Preto is graduated in Mathematics and is currently working as a research assistant under the supervision of Professor Pedro Santos.
+She had previously participated on a project related with automated annotation of images from the surface of Mars, in the development of algorithms for analyzing images.
 
-His scientific interests include Game Theory and Mathematical Finance. 
+Beyond Mathematics in general, her main scientific interests include Mathematical Finance, Mathematical Morphology, Game Theory, and also Physics and Astronomy. 
 
 <p></p>
 
 #### Nick Brody (University of Austin TEXAS)
-
+ 
 <span class="logo">
 <img width="105" src="images/brody.jpg" alt="">
 <br></br>
