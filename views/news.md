@@ -2,6 +2,21 @@
 
 <p></p>
 
+<div class="news alpha"><a id="Seventh Project Meeting"></a>
+     <h4> 7th Project Meeting </h4>
+     <p align="right"> June, 2013 </p>
+     <p>
+     <img class="logo" hspace="20" vspace="20" src="images/UTexas.jpg" width="150"> </img>
+     </p>
+     <p>
+     The seventh (and the last) project meeting will take place in the University of Austin, Texas, USA, where will be discussed the final results of the project. 
+     <br></br>
+     <\p><p></p><p></p>
+     <br></br>
+</div>
+
+<p></p>
+
 <div class="news alpha">
      <h4> Project INVITE: Testing usability and observing virtual social dynamics </h4>
      <p align="right">April, 2013 </p>
@@ -22,7 +37,7 @@
 
 <p></p>
 
-<div class="news alpha">
+<div class="news alpha"><a id="CogSci"></a>
      <h4> Paper Acceptance in CogSci 2013 </h4>
      <p align="right">April, 2013 </p>
      <p>
@@ -81,7 +96,7 @@
 
 <p></p>
 
-<div class="news alpha"><a id="Sixth Project Meeting"></a>
+<div class="news alpha">
      <h4> 6th Project Meeting </h4>
      <p align="right">October, 2012 </p>
      <p>
@@ -93,7 +108,7 @@
      The discussion was centered in the new game prototype and future research steps.
      <br></br>
      The meeting's agenda is available <a href="/documents/INVITE-OeirasMeeting2012-Agenda.pdf">Here</a>.  
-     </p><p></p>
+     </p>
      <br></br>
 </div>
 
