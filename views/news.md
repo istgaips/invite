@@ -17,7 +17,7 @@
 
 <p></p>
 
-<div class="news alpha">
+<div class="news alpha"><a id="Project INVITE"></a>
      <h4> Project INVITE: Testing usability and observing virtual social dynamics </h4>
      <p align="right">April, 2013 </p>
      <p>
@@ -51,7 +51,7 @@
 
 <p></p>
 
-<div class="news alpha"><a id="AAMAS2013"></a>
+<div class="news alpha">
 
      <h4> Paper Acceptance in MABS Workshop </h4>
      <p align="right">March, 2013 </p>
