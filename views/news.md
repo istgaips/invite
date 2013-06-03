@@ -6,12 +6,12 @@
      <h4> 7th Project Meeting </h4>
      <p align="right"> June, 2013 </p>
      <p>
-     <img class="logo" hspace="20" vspace="20" src="images/UTexas.jpg" width="150"> </img>
+     <img class="logo" hspace="20" vspace="20" src="images/austin.jpg" width="150"> </img>
      </p>
      <p>
      The seventh (and the last) project meeting will take place in the University of Austin, Texas, USA, where will be discussed the final results of the project. 
      <br></br>
-     <\p><p></p><p>
+     <\p><p></p>
      <br></br>
 </div>
 
@@ -178,12 +178,12 @@
      <h4> 5th Project Meeting </h4>
      <p align="right">March, 2012 </p>
      <p>
-     <img class="logo" hspace="20" vspace="20" src="images/UTexas.jpg" width="150"> </img>
+     <img class="logo" hspace="20" vspace="20" src="images/austin.jpg" width="150"> </img>
      </p>
      <p>
      The fifth project meeting took place in the University of Austin, Texas, USA, where was discussed the general state of the project and the progress and course of each task. <br></br>
      It was also made an evaluation of the current prototype with some users.
-     <\p><p></p><p>
+     <\p><p></p>
 </div>
 
 <p></p>
@@ -300,7 +300,7 @@
      <h4> 2nd Project Meeting </h4>
      <p align="right">March, 2011 </p>
      <p>
-     <img class="logo" hspace="20" vspace="20" src="images/UTexas.jpg" width="150"> </img>
+     <img class="logo" hspace="20" vspace="20" src="images/austin.jpg" width="150"> </img>
      </p>
      <p>
      The second project meeting took place in the University of Austin, Texas, USA. 
