@@ -45,7 +45,7 @@
      </p>
      <p>
      The paper "One for all, all for one: Agents with social identities" was accepted to appear in Proceedings of the CogSci 2013 - 35th Annual Conference of the Cognitive Science Society.
-     </p><p></p>
+     </p><p></p><p></p>
      <br></br>
 </div>
 
