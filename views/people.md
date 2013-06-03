@@ -254,7 +254,7 @@ His main interests are Game Development, Generative Music, Genetic Algorithms, A
 #### Guida Preto (IST)
 
 <span class="logo">
-<img width="105" src="images/guidax.jpg" alt="">
+<img width="50" src="images/guida.jpg" alt="">
 <br></br>
 <span class="logo">
 </br>
@@ -271,7 +271,7 @@ Beyond Mathematics in general, her main scientific interests include Mathematica
 #### Nick Brody (University of Austin TEXAS)
  
 <span class="logo">
-<img width="50" src="images/brody.jpg" alt="">
+<img width="105" src="images/brody.jpg" alt="">
 <br></br>
 <span class="logo">
 </br>
