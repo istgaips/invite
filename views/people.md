@@ -271,7 +271,7 @@ Beyond Mathematics in general, her main scientific interests include Mathematica
 #### Nick Brody (University of Austin TEXAS)
  
 <span class="logo">
-<img width="80" src="images/brody.jpg" alt="">
+<img width="100" src="images/brody.jpg" alt="">
 <br></br>
 <span class="logo">
 </br>
@@ -286,7 +286,7 @@ He received his M.A. in Communication at Arizona State University, and his B.S. 
 #### Kate Blackburn (University of Austin TEXAS)
 
 <span class="logo">
-<img width="80" src="images/kate.JPG" alt="">
+<img width="100" src="images/kate.JPG" alt="">
 <br></br>
 <span class="logo">
 </br>
@@ -300,7 +300,7 @@ Kate Blackburn is a doctoral candidate at Department of Communication Studies at
 #### Matt Morris (University of Austin TEXAS)
 
 <span class="logo">
-<img width="80" src="images/matt.png" alt="">
+<img width="100" src="images/matt.png" alt="">
 <br></br>
 <span class="logo">
 </br>
