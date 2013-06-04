@@ -300,7 +300,7 @@ Kate Blackburn is a doctoral candidate at Department of Communication Studies at
 #### Matt Morris (University of Austin TEXAS)
 
 <span class="logo">
-<img width="105" src="images/matt.png" alt="">
+<img width="100" src="images/matt.png" alt="">
 <br></br>
 <span class="logo">
 </br>
