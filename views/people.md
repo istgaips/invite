@@ -300,7 +300,6 @@ He received his M.A. in Communication at Arizona State University, and his B.S. 
 Matt Morris is a doctoral candidate in the Department of Communication Studies at the University of Texas at Austin. His research explores the relationship between media technology and social/political movements, focusing on contemporary populist rhetoric. He received his M.A. in Communication at Arizona State University and his B.A. in English at Louisiana State University in Shreveport. 
 
 <p></p>
-<br></br>
 
 #### Kate Blackburn (University of Austin TEXAS)
 
@@ -315,6 +314,7 @@ Matt Morris is a doctoral candidate in the Department of Communication Studies a
 Kate Blackburn is a doctoral candidate at Department of Communication Studies at The University of Texas at Austin. Her research focuses on exploring how language reflects, shapes and positions communication between individuals and groups.
 
 <p></p>
+<br></br>
 
 #### Guilherme Raimundo (INESC-ID) - Former Member
 
