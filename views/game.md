@@ -170,6 +170,8 @@ Here follows some screenshots of the current version. Click on the smaller pictu
 <img src="images/screens/003/01.jpg" alt=""  / onClick="changeImage(1);"></a>
 <img src="images/screens/003/02.jpg" alt=""  / onClick="changeImage(2);"></a>
 <img src="images/screens/003/03.jpg" alt=""  / onClick="changeImage(3);"></a>
+</div>
+<div class="thumbnails" align="center">
 <img src="images/screens/003/04.jpg" alt=""  / onClick="changeImage(4);"></a>
 <img src="images/screens/003/05.jpg" alt=""  / onClick="changeImage(5);"></a>
 <img src="images/screens/003/06.jpg" alt=""  / onClick="changeImage(6);"></a>
