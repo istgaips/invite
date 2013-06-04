@@ -133,7 +133,7 @@ His research interests are on social intelligence of virtual agents and its appl
 #### Carlos Martinho (INESC-ID)
 
 <span class="logo">
-<img width="100" src="images/carlos.png" alt="">
+<img width="105" src="images/carlos.png" alt="">
 <br></br>
 <span class="logo">
 </br>
@@ -150,7 +150,7 @@ At GAIPS, since its foundation, he works at the frontier between computer graphi
 #### Pedro Santos (IST/INESC-ID)
 
 <span class="logo">
-<img width="100" src="images/pedro.png" alt="">
+<img width="105" src="images/pedro.png" alt="">
 <br></br>
 <span class="logo">
 </br>
@@ -168,7 +168,7 @@ His numerous scientific interests include Operator Theory, Artificial Inteligenc
 #### Jorge F. Peña (University of Austin TEXAS)
 
 <span class="logo">
-<img width="100" src="images/jorge.png" alt="">
+<img width="105" src="images/jorge.png" alt="">
 <br></br>
 <span class="logo">
 </br>
@@ -184,7 +184,7 @@ His most recent work looks at how priming users with social stereotypes through 
 #### Luís Landeiro Ribeiro (PDM&FC)
 
 <span class="logo">
-<img width="100" src="images/luis.png" alt="">
+<img width="105" src="images/luis.png" alt="">
 <br></br>
 <span class="logo">
 </br>
@@ -203,7 +203,7 @@ Though ruby continues to be a great love affair, finds himself slipping into sca
 #### Joana Dimas (INESC-ID)
 
 <span class="logo">
-<img width="100" src="images/joana.png" alt=""> 
+<img width="105" src="images/joana.png" alt=""> 
 <br></br>
 <span class="logo">
 </br>
@@ -220,7 +220,7 @@ She is interested in game design, player experience, emotion in games and cognit
 #### Hugo Damas (IST)
 
 <span class="logo">
-<img width="100" src="images/hdamas.jpg" alt="">
+<img width="105" src="images/hdamas.jpg" alt="">
 <br></br>
 <span class="logo">
 </br>
@@ -237,7 +237,7 @@ His main interests are video-game development (developed five video-games focusi
 #### Phil Lopes (IST)
 
 <span class="logo">
-<img width="100" src="images/phil.jpg" alt="">
+<img width="105" src="images/phil.jpg" alt="">
 <br></br>
 <span class="logo">
 </br>
@@ -254,7 +254,7 @@ His main interests are Game Development, Generative Music, Genetic Algorithms, A
 #### Guida Preto (IST)
 
 <span class="logo">
-<img width="100" src="images/guida.jpg" alt="">
+<img width="105" src="images/guida.jpg" alt="">
 <br></br>
 <span class="logo">
 </br>
@@ -271,7 +271,7 @@ Beyond Mathematics in general, her main scientific interests include Mathematica
 #### Nick Brody (University of Austin TEXAS)
  
 <span class="logo">
-<img width="100" src="images/brody.jpg" alt="">
+<img width="105" src="images/brody.jpg" alt="">
 <br></br>
 <span class="logo">
 </br>
@@ -286,7 +286,7 @@ He received his M.A. in Communication at Arizona State University, and his B.S. 
 #### Kate Blackburn (University of Austin TEXAS)
 
 <span class="logo">
-<img width="100" src="images/kate.JPG" alt="">
+<img width="105" src="images/kate.JPG" alt="">
 <br></br>
 <span class="logo">
 </br>
@@ -300,7 +300,7 @@ Kate Blackburn is a doctoral candidate at Department of Communication Studies at
 #### Matt Morris (University of Austin TEXAS)
 
 <span class="logo">
-<img width="100" src="images/matt.png" alt="">
+<img width="105" src="images/matt.png" alt="">
 <br></br>
 <span class="logo">
 </br>
@@ -314,7 +314,7 @@ Matt Morris is a doctoral candidate in the Department of Communication Studies a
 #### Guilherme Raimundo (INESC-ID) - Former Member
 
 <span class="logo">
-<img width="100" src="images/guilherme.png" alt="">
+<img width="105" src="images/guilherme.png" alt="">
 <br></br>
 <span class="logo">
 </br>
@@ -331,7 +331,7 @@ He is currently pursuing a PhD in Information Systems and Computer Engineering a
 #### Márcia Baptista (IST) - Former Member
 
 <span class="logo">
-<img width="100" src="images/marcia.png" alt="">
+<img width="105" src="images/marcia.png" alt="">
 <br></br>
 <span class="logo">
 </br>
@@ -355,7 +355,7 @@ Project INVITE also involves the collaboration of several students:
 #### André Loureiro (IST)
 
 <span class="logo">
-<img width="100" src="images/andre.jpg" alt="">
+<img width="105" src="images/andre.jpg" alt="">
 <br></br>
 <span class="logo">
 </br>
@@ -372,7 +372,7 @@ His main interests are artificial intelligence, game development and 3D modeling
 #### Gonçalo Pereira (INESC-ID)
 
 <span class="logo">
-<img width="100" src="images/goncalo.jpg" alt="">
+<img width="105" src="images/goncalo.jpg" alt="">
 <br></br>
 <span class="logo">
 </br>
@@ -389,7 +389,7 @@ His focus is the concept of social power, its dynamics and how to integrate thos
 #### Jorge Galvão (IST)
 
 <span class="logo">
-<img width="100" src="images/jgalvao.png" alt="">
+<img width="105" src="images/jgalvao.png" alt="">
 <br></br>
 <span class="logo">
 </br>
@@ -406,7 +406,7 @@ His main interests are Game Development, Artificial Intelligence and Game Physic
 #### Bruno Antunes (IST)
 
 <span class="logo">
-<img width="100" src="images/bruno.png" alt="">
+<img width="105" src="images/bruno.png" alt="">
 <br></br>
 <span class="logo">
 </br>
@@ -424,7 +424,7 @@ He is also interested in distributed systems and all the related problems.
 #### David Gonçalves (IST)
 
 <span class="logo">
-<img width="100" src="images/davidg.png" alt="">
+<img width="105" src="images/davidg.png" alt="">
 <br></br>
 <span class="logo">
 </br>
@@ -441,7 +441,7 @@ He is mostly interested in the topics related to game design and development, fr
 #### Alexandre Barata (IST)
 
 <span class="logo">
-<img width="100" src="images/alexandre.png" alt="">
+<img width="105" src="images/alexandre.png" alt="">
 <br></br>
 <span class="logo">
 </br>
