@@ -106,7 +106,8 @@ Project INVITE involves the collaboration of several international organizations
 
 # Team - People
 
-<p></p> 
+<p></p>
+<br></br> 
 
 Project INVITE involves the collaboration of several researchers:  
 
