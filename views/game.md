@@ -71,7 +71,6 @@ The fictional scenario can be described as follows:
 Download the most updated release here:<a href="/dev/InviteGame2013Release.zip">Release Version of May 2013</a>. 
 <br></br>
 You have instructional videos:
-<br></br>
 <table>
  <tr>
   <td><a href="/dev/HowToSetup/HowToSetupInvite.avi">How to Setup</a></td>
