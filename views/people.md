@@ -111,6 +111,7 @@ Project INVITE involves the collaboration of several international organizations
 Project INVITE involves the collaboration of several researchers:  
 
 <p></p>
+<br></br>
 
 #### Rui Prada (INESC-ID)
 
@@ -164,6 +165,7 @@ His numerous scientific interests include Operator Theory, Artificial Inteligenc
 <a href="http://gaips.inesc-id.pt/psantos">More Information</a>
 
 <p></p>
+<br></br>
 
 #### Jorge F. Peña (University of Austin TEXAS)
 
@@ -180,6 +182,7 @@ His most recent work looks at how priming users with social stereotypes through 
 <a href="http://www.utexas.edu/opa/experts/profile.php?id=1098">More Information</a>
 
 <p></p>
+<br></br>
 
 #### Luís Landeiro Ribeiro (PDM&FC)
 
@@ -250,7 +253,6 @@ He is currently working with Professor Rui Prada in artificial intelligence and 
 His main interests are Game Development, Generative Music, Genetic Algorithms, Artificial Life and Artificial Intelligence.
 
 <p></p>
-<br></br>
 
 #### Guida Preto (IST)
 
@@ -268,6 +270,7 @@ She had previously participated on a project related with automated annotation o
 Beyond Mathematics in general, her main scientific interests include Mathematical Finance, Mathematical Morphology, Game Theory, and also Physics, Astronomy and Cosmology. 
 
 <p></p>
+<br></br>
 
 #### Nick Brody (University of Austin TEXAS)
  
@@ -354,6 +357,7 @@ She is interested in game theory, economics, social dilemmas, simulation and rat
 Project INVITE also involves the collaboration of several students: 
 
 <p></p>
+<br></br>
 
 #### André Loureiro (IST)
 
