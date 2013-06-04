@@ -287,20 +287,6 @@ He received his M.A. in Communication at Arizona State University, and his B.S. 
 
 <p></p>
 
-#### Kate Blackburn (University of Austin TEXAS)
-
-<span class="logo">
-<img width="100" src="images/kate.JPG" alt="">
-<br></br>
-<span class="logo">
-</br>
-</span></img>
-</span>
-
-Kate Blackburn is a doctoral candidate at Department of Communication Studies at The University of Texas at Austin. Her research focuses on exploring how language reflects, shapes and positions communication between individuals and groups.
-
-<p></p>
-
 #### Matt Morris (University of Austin TEXAS)
 
 <span class="logo">
@@ -315,6 +301,20 @@ Matt Morris is a doctoral candidate in the Department of Communication Studies a
 
 <p></p>
 <br></br>
+
+#### Kate Blackburn (University of Austin TEXAS)
+
+<span class="logo">
+<img width="100" src="images/kate.JPG" alt="">
+<br></br>
+<span class="logo">
+</br>
+</span></img>
+</span>
+
+Kate Blackburn is a doctoral candidate at Department of Communication Studies at The University of Texas at Austin. Her research focuses on exploring how language reflects, shapes and positions communication between individuals and groups.
+
+<p></p>
 
 #### Guilherme Raimundo (INESC-ID) - Former Member
 
