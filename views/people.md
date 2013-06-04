@@ -250,6 +250,7 @@ He is currently working with Professor Rui Prada in artificial intelligence and 
 His main interests are Game Development, Generative Music, Genetic Algorithms, Artificial Life and Artificial Intelligence.
 
 <p></p>
+<br></br>
 
 #### Guida Preto (IST)
 
@@ -348,6 +349,7 @@ She is interested in game theory, economics, social dilemmas, simulation and rat
 <br/>
 
 <p></p>
+<br></br>
  
 Project INVITE also involves the collaboration of several students: 
 
