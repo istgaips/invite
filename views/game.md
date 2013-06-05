@@ -6,16 +6,16 @@
 
 <p></p>
 
-We present a computational research tool, the INVITE framework, which allows the configuration of a wide range of public goods experiments, in a three-dimensional environment for virtual and human participants. 
-The creation of a virtual world, provided by the 3D environment, where several aspects of decision framing can be explored in a controlled manner such as, for instance, the characterization (visual aspect) of participants and visual cues, enhancing the sense of presence that participants experience (due to the enhanced degree of interaction and control), aims to promote an increased level of involvement in the experiment and enticing them to act in a similar manner to a real life situation. (refer to figure below).
+<h6>We present a computational research tool, the INVITE framework, which allows the configuration of a wide range of public goods experiments, in a three-dimensional environment for virtual and human participants. 
+The creation of a virtual world, provided by the 3D environment, where several aspects of decision framing can be explored in a controlled manner such as, for instance, the characterization (visual aspect) of participants and visual cues, enhancing the sense of presence that participants experience (due to the enhanced degree of interaction and control), aims to promote an increased level of involvement in the experiment and enticing them to act in a similar manner to a real life situation. (refer to figure below).</h6>
 
 <div id="bigimages" align="center">
         <img id="normal1" src="images/screens/003/screen.jpg" alt=""/>
 </div>
 
-<h6>Strategic games, such as the prisoner's dilemma or stag hunt, and their variants, (these structures) can be modelled or recreated in this framework, attending that it is possible to configure the information available to the participants, during the game, namely: game information, information of team and other teams, and visual cues.</h6>
+Strategic games, such as the prisoner's dilemma or stag hunt, and their variants, (these structures) can be modelled or recreated in this framework, attending that it is possible to configure the information available to the participants, during the game, namely: game information, information of team and other teams, and visual cues.
 
-Hence, providing more guarantees that participants are engaged in the fictional scenario and more likely to act similarly to a real life situation, this framework represents an attractive alternative to the oversimplified interfaces of the existing computational frameworks and to physical labs, given the greater control provided over the experiment. Moreover, it does not require the experimenter to know a programming language to configure an experiment, assisting him with a two-dimensional menu system for that purpose, and a set of already pre-configured templates of experiments, shipped with the framework, can be modified by the experimenter according to his particular needs, which is an improvement that greatly reduces the effort and expertise required of the experimenter.
+<h6>Hence, providing more guarantees that participants are engaged in the fictional scenario and more likely to act similarly to a real life situation, this framework represents an attractive alternative to the oversimplified interfaces of the existing computational frameworks and to physical labs, given the greater control provided over the experiment. Moreover, it does not require the experimenter to know a programming language to configure an experiment, assisting him with a two-dimensional menu system for that purpose, and a set of already pre-configured templates of experiments, shipped with the framework, can be modified by the experimenter according to his particular needs, which is an improvement that greatly reduces the effort and expertise required of the experimenter.
 
 So the motivation underlying the INVITE framework is to allow researchers to be able to deploy, without difficulty, experiments where hypothesis, regarding the behaviour of individuals as well as of artificial intelligence agents and their interactions, can be tested. The possibility to have virtual and human agents interacting in the same platform is one of the advantages of this framework. For instance, it is possible to reduce significantly the cost of experiments, with a high number of participants with virtual agents. Moreover, virtual agents also allow the experimenter to have a greater degree of control over the experiment, by configuring the behaviour of the virtual participants prior to the experiment.
 
@@ -57,7 +57,7 @@ The fictional scenario can be described as follows:
 <p></p>
 Before playing the game, each participant took personality tests, provided demographic information and rated their experience with digital technologies.The participants played the game with human or artificial collaborators without fully knowing who exactly they were playing with, and did so in conditions that affected social identification with one's team (i.e., using avatars wearing the participants' University color or not).
 <p></p>
-After playing the game, participants provided information about the experience.In-game behaviors were also measured.
+After playing the game, participants provided information about the experience.In-game behaviors were also measured.</h6>
 <p></p>
 <br></br>
 
