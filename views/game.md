@@ -21,8 +21,8 @@ Strategic games, such as the prisoner's dilemma or stag hunt, and their variants
 <p>Moreover, it does not require the experimenter to know a programming language to configure an experiment, assisting him with a two-dimensional menu system for that purpose, and a set of already pre-configured templates of experiments, shipped with the framework, can be modified by the experimenter according to his particular needs, which is an improvement that greatly reduces the effort and expertise required of the experimenter.</p>
 
 So the motivation underlying the INVITE framework is to allow researchers to be able to deploy, without difficulty, experiments where hypothesis, regarding the behaviour of individuals as well as of artificial intelligence agents and their interactions, can be tested. 
-<p>The possibility to have virtual and human agents interacting in the same platform is one of the advantages of this framework. For instance, it is possible to reduce significantly the cost of experiments, with a high number of participants with virtual agents.</p>
-<p>Moreover, virtual agents also allow the experimenter to have a greater degree of control over the experiment, by configuring the behaviour of the virtual participants prior to the experiment.</p>
+<p>The possibility to have virtual and human agents interacting in the same platform is one of the advantages of this framework. For instance, it is possible to reduce significantly the cost of experiments, with a high number of participants with virtual agents.
+Moreover, virtual agents also allow the experimenter to have a greater degree of control over the experiment, by configuring the behaviour of the virtual participants prior to the experiment.</p>
 
 <p>The goal of the INVITE framework is, therefore, to stand as a usable research tool, allowing an efficient parametrization of a large spectrum of public goods experiments for virtual and human participants, in a 3D environment.</p></h6>
 
