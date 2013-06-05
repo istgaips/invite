@@ -19,7 +19,7 @@ Strategic games, such as the prisoner's dilemma or stag hunt, and their variants
 
 So the motivation underlying the INVITE framework is to allow researchers to be able to deploy, without difficulty, experiments where hypothesis, regarding the behaviour of individuals as well as of artificial intelligence agents and their interactions, can be tested. The possibility to have virtual and human agents interacting in the same platform is one of the advantages of this framework. For instance, it is possible to reduce significantly the cost of experiments, with a high number of participants with virtual agents. Moreover, virtual agents also allow the experimenter to have a greater degree of control over the experiment, by configuring the behaviour of the virtual participants prior to the experiment.
 
-The goal of the INVITE framework is, therefore, to stand as a usable research tool, allowing an efficient parametrization of a large spectrum of public goods experiments for virtual and human participants, in a 3D environment.
+The goal of the INVITE framework is, therefore, to stand as a usable research tool, allowing an efficient parametrization of a large spectrum of public goods experiments for virtual and human participants, in a 3D environment.</h6>
 
 <p></p>
 
@@ -27,7 +27,7 @@ The goal of the INVITE framework is, therefore, to stand as a usable research to
 
 <p></p>
 
-All the experiments of the INVITE framework unfold in the same scenario (refer to the figures below), where individuals face the dilemma of either to contribute to the common good (construction of a raft) or to act in their own individual interest (collect a private resource), and which takes the form of a public goods game (it should be noted that, even though this framework does not support common-pool resources games directly, such games are isomorphic to the supported public goods games).
+<h6>All the experiments of the INVITE framework unfold in the same scenario (refer to the figures below), where individuals face the dilemma of either to contribute to the common good (construction of a raft) or to act in their own individual interest (collect a private resource), and which takes the form of a public goods game (it should be noted that, even though this framework does not support common-pool resources games directly, such games are isomorphic to the supported public goods games).
 
 The fictional scenario can be described as follows:
 
