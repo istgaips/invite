@@ -29,7 +29,7 @@ Strategic games, such as the prisoner's dilemma or stag hunt, and their variants
 
 <h6>All the experiments of the INVITE framework unfold in the same scenario (refer to the figures below), where individuals face the dilemma of either to contribute to the common good (construction of a raft) or to act in their own individual interest (collect a private resource), and which takes the form of a public goods game (it should be noted that, even though this framework does not support common-pool resources games directly, such games are isomorphic to the supported public goods games).
 
-The fictional scenario can be described as follows:</h6>
+<p>The fictional scenario can be described as follows:</p></h6>
 
 
 •	The experiment is set on a desert island, where participants take the role of a survivor of a plane crash. 
