@@ -13,7 +13,7 @@ The creation of a virtual world, provided by the 3D environment, where several a
         <img id="normal1" src="images/screens/003/screen.jpg" alt=""/>
 </div>
 
-<h8>Strategic games, such as the prisoner's dilemma or stag hunt, and their variants, (these structures) can be modelled or recreated in this framework, attending that it is possible to configure the information available to the participants, during the game, namely: game information, information of team and other teams, and visual cues.</h8>
+<h6>Strategic games, such as the prisoner's dilemma or stag hunt, and their variants, (these structures) can be modelled or recreated in this framework, attending that it is possible to configure the information available to the participants, during the game, namely: game information, information of team and other teams, and visual cues.</h6>
 
 Hence, providing more guarantees that participants are engaged in the fictional scenario and more likely to act similarly to a real life situation, this framework represents an attractive alternative to the oversimplified interfaces of the existing computational frameworks and to physical labs, given the greater control provided over the experiment. Moreover, it does not require the experimenter to know a programming language to configure an experiment, assisting him with a two-dimensional menu system for that purpose, and a set of already pre-configured templates of experiments, shipped with the framework, can be modified by the experimenter according to his particular needs, which is an improvement that greatly reduces the effort and expertise required of the experimenter.
 
