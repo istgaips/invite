@@ -68,7 +68,7 @@ After playing the game, participants provided information about the experience.I
 <p></p>
 
 <br></br>
-Download the most updated release here:<a href="/dev/InviteGame2013Release.zip">Release Version of May 2013</a>. 
+You can download the most updated release here:<a href="/dev/InviteGame2013Release.zip">Release Version of May 2013</a>. 
 <br></br>
 You have instructional videos:
 <table>
