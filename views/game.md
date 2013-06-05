@@ -62,7 +62,7 @@ So the motivation underlying the INVITE framework is to allow researchers to be 
 <p></p>
 <h6>Before playing the game, each participant took personality tests, provided demographic information and rated their experience with digital technologies.The participants played the game with human or artificial collaborators without fully knowing who exactly they were playing with, and did so in conditions that affected social identification with one's team (i.e., using avatars wearing the participants' University color or not).
 <p></p>
-After playing the game, participants provided information about the experience.In-game behaviors were also measured.</h6>
+After playing the game, participants provided information about the experience. In-game behaviors were also measured.</h6>
 <p></p>
 <br></br>
 
