@@ -29,7 +29,7 @@ The goal of the INVITE framework is, therefore, to stand as a usable research to
 
 <h6>All the experiments of the INVITE framework unfold in the same scenario (refer to the figures below), where individuals face the dilemma of either to contribute to the common good (construction of a raft) or to act in their own individual interest (collect a private resource), and which takes the form of a public goods game (it should be noted that, even though this framework does not support common-pool resources games directly, such games are isomorphic to the supported public goods games).
 
-The fictional scenario can be described as follows:
+The fictional scenario can be described as follows:</h6>
 
 
 •	The experiment is set on a desert island, where participants take the role of a survivor of a plane crash. 
@@ -55,7 +55,7 @@ The fictional scenario can be described as follows:
 •	Accordingly, during the experiment, participants face the dilemma of either to contribute to the common good of the group (raft’s construction), or to contribute solely to their more individualistic goal (private resource's collection).
 
 <p></p>
-Before playing the game, each participant took personality tests, provided demographic information and rated their experience with digital technologies.The participants played the game with human or artificial collaborators without fully knowing who exactly they were playing with, and did so in conditions that affected social identification with one's team (i.e., using avatars wearing the participants' University color or not).
+<h6>Before playing the game, each participant took personality tests, provided demographic information and rated their experience with digital technologies.The participants played the game with human or artificial collaborators without fully knowing who exactly they were playing with, and did so in conditions that affected social identification with one's team (i.e., using avatars wearing the participants' University color or not).
 <p></p>
 After playing the game, participants provided information about the experience.In-game behaviors were also measured.</h6>
 <p></p>
