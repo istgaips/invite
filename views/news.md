@@ -21,6 +21,9 @@
      <h4> Project INVITE: Testing usability and observing virtual social dynamics </h4>
      <p align="right">April, 2013 </p>
      <p>
+     <img class="logo" hspace="20" vspace="20" src="images/austin.jpg" width="150"> </img>
+     </p>
+     <p>
      Four game testers inspected the INVITE game between February-March 2013 at UT Austin, and Portuguese researchers solved all of the issues found during the testing phase.    
      <br></br>
      52 participants have so far played the INVITE game in its single and multiplayer version. 
