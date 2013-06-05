@@ -60,6 +60,13 @@ The fictional scenario can be described as follows:
 •	Accordingly, during the experiment, participants face the dilemma of either to contribute to the common good of the group (raft’s construction), or to contribute solely to their more individualistic goal (private resource's collection).
 
 <p></p>
+Before playing the game, each participant took personality tests, provided demographic information and rated their experience with digital technologies.The participants played the game with human or artificial collaborators without fully knowing who exactly they were playing with, and did so in conditions that affected social identification with one's team (i.e., using avatars wearing the participants' University color or not).
+<p></p>
+After playing the game, participants provided information about the experience.In-game behaviors were also measured.
+<p></p>
+<br></br>
+
+<p></p>
 
 <a href="/documents/ArtigoExperimentalEconomics.pdf">More Information</a>
 
