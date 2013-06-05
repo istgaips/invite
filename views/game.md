@@ -6,10 +6,7 @@
 
 <p></p>
 
-Topics such as the effects of social identity and decision framing, representing research questions open to further experimental investigation. Nevertheless and despite the importance
-of promoting research in this field, the number of computational research tools to perform experiments of this type is somewhat reduced: among the most well-known tools are the Plott's tool, the Colored Trails framework and the z-Tree toolbox; however, these tools tend to neglect the importance of the creation of a context for the experiment placing the participant in an abstract environment where most of the visual aspects of the depicted situation, such as the characterization of each participant and surrounding scenario, are absent.
-
-To address these shortcomings and to further investigate topics such as personal and social identity, we present a computational research tool: the INVITE (social Identity and partNership in VIrTual Environments) framework which allows the configuration of a wide range of public goods experiments, from the simplest strategic paradigms, such as the 2-person prisoner's dilemma, to complex team games, in a three-dimensional environment for virtual and human participants over the internet, and so the creation of a virtual world where several aspects of decision framing can be explored in a controlled manner such as, for instance, the characterization (visual aspect) of participants and visual cues, enhancing the sense of presence of participants and enticing them to act in a similar manner to a real life situation (refer to figure below).
+We present a computational research tool: the INVITE (social Identity and partNership in VIrTual Environments) framework, which allows the configuration of a wide range of public goods experiments, in a three-dimensional environment for virtual and human participants - the creation of a virtual world where several aspects of decision framing can be explored in a controlled manner such as, for instance, the characterization (visual aspect) of participants and visual cues, enhancing the sense of presence of participants and enticing them to act in a similar manner to a real life situation (refer to figure below).
 
 <div id="bigimages" align="center">
         <img id="normal1" src="images/screens/003/screen.jpg" alt=""/>
