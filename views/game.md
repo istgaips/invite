@@ -8,7 +8,7 @@
 <p></p>
 
 <h6>We present a computational research tool, the INVITE framework, which allows the configuration of a wide range of public goods experiments, in a three-dimensional environment for virtual and human participants. 
-<p>The creation of a virtual world, provided by the 3D environment, where several aspects of decision framing can be explored in a controlled manner such as, for instance, the characterization (visual aspect) of participants and visual cues, enhancing the sense of presence that participants experience (due to the enhanced degree of interaction and control), aims to promote an increased level of involvement in the experiment and enticing them to act in a similar manner to a real life situation </h6>(refer to figure below).</p>
+<p>The creation of a virtual world, provided by the 3D environment, where several aspects of decision framing can be explored in a controlled manner such as, for instance, the characterization (visual aspect) of participants and visual cues, enhancing the sense of presence that participants experience (due to the enhanced degree of interaction and control), aims to promote an increased level of involvement in the experiment and enticing them to act in a similar manner to a real life situation (refer to figure below).</h6></p>
 
 <div id="bigimages" align="center">
         <img id="normal1" src="images/screens/003/screen.jpg" alt=""/>
