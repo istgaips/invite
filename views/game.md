@@ -8,7 +8,7 @@
 <p></p>
 
 <h6>We present a computational research tool, the INVITE framework, which allows the configuration of a wide range of public goods experiments, in a three-dimensional environment for virtual and human participants. 
-<p>The creation of a virtual world, provided by the 3D environment, where several aspects of decision framing can be explored in a controlled manner such as, for instance, the characterization (visual aspect) of participants and visual cues, enhancing the sense of presence that participants experience (due to the enhanced degree of interaction and control), aims to promote an increased level of involvement in the experiment and enticing them to act in a similar manner to a real life situation (refer to figure below).</h6>
+<p>The creation of a virtual world, provided by the 3D environment, where several aspects of decision framing can be explored in a controlled manner such as, for instance, the characterization (visual aspect) of participants and visual cues, enhancing the sense of presence that participants experience (due to the enhanced degree of interaction and control), aims to promote an increased level of involvement in the experiment and enticing them to act in a similar manner to a real life situation (refer to figure below).</p></h6>
 
 <div id="bigimages" align="center">
         <img id="normal1" src="images/screens/003/screen.jpg" alt=""/>
@@ -16,7 +16,8 @@
 
 Strategic games, such as the prisoner's dilemma or stag hunt, and their variants, (these structures) can be modelled or recreated in this framework, attending that it is possible to configure the information available to the participants, during the game, namely: game information, information of team and other teams, and visual cues.
 
-<p><h6>Hence, providing more guarantees that participants are engaged in the fictional scenario and more likely to act similarly to a real life situation, this framework represents an attractive alternative to the oversimplified interfaces of the existing computational frameworks and to physical labs, given the greater control provided over the experiment.</p> 
+<p></p>
+<h6>Hence, providing more guarantees that participants are engaged in the fictional scenario and more likely to act similarly to a real life situation, this framework represents an attractive alternative to the oversimplified interfaces of the existing computational frameworks and to physical labs, given the greater control provided over the experiment.
 <p>Moreover, it does not require the experimenter to know a programming language to configure an experiment, assisting him with a two-dimensional menu system for that purpose, and a set of already pre-configured templates of experiments, shipped with the framework, can be modified by the experimenter according to his particular needs, which is an improvement that greatly reduces the effort and expertise required of the experimenter.</p>
 
 So the motivation underlying the INVITE framework is to allow researchers to be able to deploy, without difficulty, experiments where hypothesis, regarding the behaviour of individuals as well as of artificial intelligence agents and their interactions, can be tested. 
