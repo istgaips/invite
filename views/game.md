@@ -174,9 +174,9 @@ Here follows some screenshots of the current version. Click on the smaller pictu
 </p>
 
 <div class="thumbnails" align="center">
-<img src="images/screens/003/01.jpg" alt=""  / onClick="changeImage(1);"></a>
-<img src="images/screens/003/02.jpg" alt=""  / onClick="changeImage(2);"></a>
-<img src="images/screens/003/03.jpg" alt=""  / onClick="changeImage(3);"></a>
+<img src="images/screens/003/01.jpg" "style="display: none;" alt=""  / onClick="changeImage(1);"></a>
+<img src="images/screens/003/02.jpg" "style="display: none;" alt=""  / onClick="changeImage(2);"></a>
+<img src="images/screens/003/03.jpg" "style="display: none;" alt=""  / onClick="changeImage(3);"></a>
 </div>
 <div class="thumbnails" align="center">
 <img src="images/screens/003/04.jpg"  alt=""  / onClick="changeImage(4);"></a>
