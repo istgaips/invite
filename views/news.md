@@ -17,7 +17,7 @@
 
 <p></p>
 
-<div class="news alpha"><a id="Project INVITE"></a>
+<div class="news alpha">< id="Project INVITE">
      <h4> Project INVITE: Testing usability and observing virtual social dynamics </h4>
      <p align="right">April, 2013 </p>
      <p>
