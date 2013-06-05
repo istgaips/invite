@@ -185,9 +185,7 @@ Here follows some screenshots of the current version. Click on the smaller pictu
 </div>
 <div id="bigimages" align="center">
         <img id="normal1" src="images/screens/003/01.jpg" alt=""/>
-        <img id="normal2" src="images/screens/003/02.jpg" alt=""/>
-
---> 
+        <img id="normal2" src="images/screens/003/02.jpg" alt=""/> 
         <img id="normal3" src="images/screens/003/03.jpg" alt=""/>
         <img id="normal4" src="images/screens/003/04.jpg" alt=""/>
         <img id="normal5" src="images/screens/003/05.jpg" alt=""/>
