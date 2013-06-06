@@ -5,7 +5,7 @@ class App < Sinatra::Base
     erb :index
   end
 
-  markdown_pages = %w(partners people research game publications contacts about news guides configureextguide configureshtguide launchextguide launchshtguide playextguide playshtguide)
+  markdown_pages = %w(partners people research game downloads publications contacts about news guides configureextguide configureshtguide launchextguide launchshtguide playextguide playshtguide)
 
   markdown_pages.each do |p|
     get "/#{p}" do
