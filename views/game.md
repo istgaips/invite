@@ -94,7 +94,7 @@ You have instructional videos:
 
 <p></p>
 
-<!--
+
 
 ### Second prototype
 <p>
@@ -166,8 +166,6 @@ The video below also shows some of the features of the prototype (the video is b
 </p>
 
 ### Current Version
-
---> 
 
 <p>
 Here follows some screenshots of the current version. Click on the smaller pictures to open the screenshot in the preview window. 
