@@ -88,7 +88,6 @@ You have instructional videos:
 
 <p></p>
 
-<!--
 
 ## Gallery
 
