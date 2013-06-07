@@ -72,6 +72,7 @@ After playing the game, participants provided information about the experience. 
 <a href="/documents/ArtigoExperimentalEconomics.pdf">More Information</a>
 
 <p></p>
+<br></br>
 
 <!--
 
