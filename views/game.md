@@ -103,7 +103,7 @@ Here follows some screenshots of the second prototype. Click on the smaller pict
 <div class="thumbnails" align="center">
 <img src="images/screens/002/001.png" alt=""  / onClick="changeImage(1);"></a>
 <img src="images/screens/002/006.png" alt=""  / onClick="changeImage(2);"></a>
-<img 2alt=""  / onClick="changeImage(3);"></a>
+<img src="images/screens/002/007.png" alt=""  / onClick="changeImage(2);"></a>
 </div>
 <div class="thumbnails" align="center">
 <img src="images/screens/002/009.png" alt=""  / onClick="changeImage(4);"></a>
@@ -182,10 +182,10 @@ Here follows some screenshots of the current version. Click on the smaller pictu
 <img src="images/screens/003/06.jpg"  alt=""  / onClick="changeImage(6);"></a>
 </div>
 <div id="bigimages" align="center">
-        <img id="normal1" "style="display: none;" src="images/screens/003/01.jpg" alt=""> </img>
-        <img id="normal2"  src="images/screens/003/02.jpg" alt=""> </img>
-        <img id="normal3"  src="images/screens/003/03.jpg" alt=""> </img>
-        <img id="normal4"  src="images/screens/003/04.jpg" alt=""> </img>
-        <img id="normal5"  src="images/screens/003/05.jpg" alt=""> </img>
-        <img id="normal6"  src="images/screens/003/06.jpg" alt=""> </img>
+        <img id="normal1" src="images/screens/003/01.jpg" alt=""/>
+        <img id="normal2" src="images/screens/003/02.jpg" alt=""/>
+        <img id="normal3" src="images/screens/003/03.jpg" alt=""/>
+        <img id="normal4" src="images/screens/003/04.jpg" alt=""/>
+        <img id="normal5" src="images/screens/003/05.jpg" alt=""/>
+        <img id="normal6" src="images/screens/003/06.jpg" alt=""/>
 </div>
