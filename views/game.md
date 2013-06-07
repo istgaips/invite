@@ -96,7 +96,6 @@ You have instructional videos:
 
 <p></p>
 
-<!--
 
 ### Second prototype
 <p>
