@@ -11,7 +11,7 @@
 <p>The creation of a virtual world, provided by the 3D environment, where several aspects of decision framing can be explored in a controlled manner such as, for instance, the characterization (visual aspect) of participants and visual cues, enhancing the sense of presence that participants experience (due to the enhanced degree of interaction and control), aims to promote an increased level of involvement in the experiment and enticing them to act in a similar manner to a real life situation (refer to figure below).</p></h6>
 
 <div id="bigimages" align="center">
-        <img id="normal1" src="images/screens/003/screen.jpg" alt=""/>
+        <img id="normal1" src="images/screens/screen.jpg" alt=""/>
 </div>
 
 Strategic games, such as the prisoner's dilemma or stag hunt, and their variants, (these structures) can be modelled or recreated in this framework, attending that it is possible to configure the information available to the participants, during the game, namely: game information, information of team and other teams, and visual cues.
@@ -93,7 +93,7 @@ You have instructional videos:
 
 <p></p>
 
-
+<!--
 
 ### Second prototype
 <p>
@@ -101,22 +101,22 @@ Here follows some screenshots of the second prototype. Click on the smaller pict
 </p>
 
 <div class="thumbnails" align="center">
-<img src="images/screens/003/001.png" alt=""  / onClick="changeImage(1);"></a>
-<img src="images/screens/003/006.png" alt=""  / onClick="changeImage(2);"></a>
-<img src="images/screens/003/007.png" alt=""  / onClick="changeImage(3);"></a>
+<img src="images/screens/002/001.png" alt=""  / onClick="changeImage(1);"></a>
+<img src="images/screens/002/006.png" alt=""  / onClick="changeImage(2);"></a>
+<img 2alt=""  / onClick="changeImage(3);"></a>
 </div>
 <div class="thumbnails" align="center">
-<img src="images/screens/003/009.png" alt=""  / onClick="changeImage(4);"></a>
-<img src="images/screens/003/010.png" alt=""  / onClick="changeImage(5);"></a>
-<img src="images/screens/003/011.png" alt=""  / onClick="changeImage(6);"></a>
+<img src="images/screens/002/009.png" alt=""  / onClick="changeImage(4);"></a>
+<img src="images/screens/002/010.png" alt=""  / onClick="changeImage(5);"></a>
+<img src="images/screens/002/011.png" alt=""  / onClick="changeImage(6);"></a>
 </div>
 <div id="bigimages" align="center">
-        <img id="normal1" src="images/screens/003/001.png" alt=""/>
-        <img id="normal2" src="images/screens/003/006.png" alt=""/>
-        <img id="normal3" src="images/screens/003/007.png" alt=""/>
-        <img id="normal4" src="images/screens/003/009.png" alt=""/>
-        <img id="normal5" src="images/screens/003/010.png" alt=""/>
-        <img id="normal6" src="images/screens/003/011.png" alt=""/>
+        <img id="normal1" src="images/screens/002/001.png" alt=""/>
+        <img id="normal2" src="images/screens/002/006.png" alt=""/>
+        <img id="normal3" src="images/screens/002/007.png" alt=""/>
+        <img id="normal4" src="images/screens/002/009.png" alt=""/>
+        <img id="normal5" src="images/screens/002/010.png" alt=""/>
+        <img id="normal6" src="images/screens/002/011.png" alt=""/>
 </div>
 
 <p>
@@ -163,6 +163,8 @@ The video below also shows some of the features of the prototype (the video is b
 </div>
 <p>
 </p>
+
+-->
 
 ### Current Version
 <p>
