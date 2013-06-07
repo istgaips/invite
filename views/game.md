@@ -73,6 +73,8 @@ After playing the game, participants provided information about the experience. 
 
 <p></p>
 
+<!--
+
 <br></br>
 You can download the most updated release here:<a href="/dev/InviteGame2013Release.zip">Release Version of May 2013</a> 
 <br></br>
@@ -88,6 +90,7 @@ You have instructional videos:
 
 <p></p>
 
+-->
 
 ## Gallery
 
