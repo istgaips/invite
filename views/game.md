@@ -91,7 +91,7 @@ You have instructional videos:
 
 <p></p>
 
--->
+
 
 ## Gallery
 
@@ -168,8 +168,6 @@ The video below also shows some of the features of the prototype (the video is b
 <p>
 </p>
 
--->
-
 ### Current Version
 
 <p>
@@ -194,3 +192,5 @@ Here follows some screenshots of the current version. Click on the smaller pictu
         <img id="normal5"  src="images/screens/003/05.jpg" alt=""/>
         <img id="normal6"  src="images/screens/003/06.jpg" alt=""/>
 </div>
+
+-->
